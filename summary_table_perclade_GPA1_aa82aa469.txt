@@ -1,0 +1,857 @@
+combination aa82_aa469	clade/grouping	counts	frequencies
+-_S		1	0.001
+R_S		109	0.075
+W_-		1	0.001
+W_I		21	0.014
+W_S		1125	0.774
+W_S-I		19	0.013
+W-R_S		172	0.118
+W-R_S-I		5	0.003
+-_S	-	0	0
+R_S	-	3	0.5
+W_-	-	0	0
+W_I	-	0	0
+W_S	-	1	0.167
+W_S-I	-	0	0
+W-R_S	-	2	0.333
+W-R_S-I	-	0	0
+-_S	1. Wine/European	0	0
+R_S	1. Wine/European	1	0.004
+W_-	1. Wine/European	0	0
+W_I	1. Wine/European	0	0
+W_S	1. Wine/European	267	0.996
+W_S-I	1. Wine/European	0	0
+W-R_S	1. Wine/European	0	0
+W-R_S-I	1. Wine/European	0	0
+-_S	1. Wine/European (subclade 1)	0	0
+R_S	1. Wine/European (subclade 1)	0	0
+W_-	1. Wine/European (subclade 1)	0	0
+W_I	1. Wine/European (subclade 1)	0	0
+W_S	1. Wine/European (subclade 1)	18	1
+W_S-I	1. Wine/European (subclade 1)	0	0
+W-R_S	1. Wine/European (subclade 1)	0	0
+W-R_S-I	1. Wine/European (subclade 1)	0	0
+-_S	1. Wine/European (subclade 2)	0	0
+R_S	1. Wine/European (subclade 2)	0	0
+W_-	1. Wine/European (subclade 2)	0	0
+W_I	1. Wine/European (subclade 2)	0	0
+W_S	1. Wine/European (subclade 2)	13	1
+W_S-I	1. Wine/European (subclade 2)	0	0
+W-R_S	1. Wine/European (subclade 2)	0	0
+W-R_S-I	1. Wine/European (subclade 2)	0	0
+-_S	1. Wine/European (subclade 3)	0	0
+R_S	1. Wine/European (subclade 3)	0	0
+W_-	1. Wine/European (subclade 3)	0	0
+W_I	1. Wine/European (subclade 3)	0	0
+W_S	1. Wine/European (subclade 3)	24	1
+W_S-I	1. Wine/European (subclade 3)	0	0
+W-R_S	1. Wine/European (subclade 3)	0	0
+W-R_S-I	1. Wine/European (subclade 3)	0	0
+-_S	1. Wine/European (subclade 4)	0	0
+R_S	1. Wine/European (subclade 4)	0	0
+W_-	1. Wine/European (subclade 4)	0	0
+W_I	1. Wine/European (subclade 4)	0	0
+W_S	1. Wine/European (subclade 4)	39	1
+W_S-I	1. Wine/European (subclade 4)	0	0
+W-R_S	1. Wine/European (subclade 4)	0	0
+W-R_S-I	1. Wine/European (subclade 4)	0	0
+-_S	10. French Guiana human	0	0
+R_S	10. French Guiana human	0	0
+W_-	10. French Guiana human	0	0
+W_I	10. French Guiana human	0	0
+W_S	10. French Guiana human	31	1
+W_S-I	10. French Guiana human	0	0
+W-R_S	10. French Guiana human	0	0
+W-R_S-I	10. French Guiana human	0	0
+-_S	11. Ale beer	0	0
+R_S	11. Ale beer	0	0
+W_-	11. Ale beer	0	0
+W_I	11. Ale beer	0	0
+W_S	11. Ale beer	17	0.944
+W_S-I	11. Ale beer	0	0
+W-R_S	11. Ale beer	1	0.056
+W-R_S-I	11. Ale beer	0	0
+-_S	12. West African cocoa	0	0
+R_S	12. West African cocoa	0	0
+W_-	12. West African cocoa	0	0
+W_I	12. West African cocoa	0	0
+W_S	12. West African cocoa	13	1
+W_S-I	12. West African cocoa	0	0
+W-R_S	12. West African cocoa	0	0
+W-R_S-I	12. West African cocoa	0	0
+-_S	13. African palm wine	0	0
+R_S	13. African palm wine	0	0
+W_-	13. African palm wine	0	0
+W_I	13. African palm wine	0	0
+W_S	13. African palm wine	28	1
+W_S-I	13. African palm wine	0	0
+W-R_S	13. African palm wine	0	0
+W-R_S-I	13. African palm wine	0	0
+-_S	14. CHNIII	0	0
+R_S	14. CHNIII	0	0
+W_-	14. CHNIII	0	0
+W_I	14. CHNIII	0	0
+W_S	14. CHNIII	2	1
+W_S-I	14. CHNIII	0	0
+W-R_S	14. CHNIII	0	0
+W-R_S-I	14. CHNIII	0	0
+-_S	15. CHNII	0	0
+R_S	15. CHNII	0	0
+W_-	15. CHNII	0	0
+W_I	15. CHNII	0	0
+W_S	15. CHNII	2	1
+W_S-I	15. CHNII	0	0
+W-R_S	15. CHNII	0	0
+W-R_S-I	15. CHNII	0	0
+-_S	16. CHNI	0	0
+R_S	16. CHNI	0	0
+W_-	16. CHNI	0	0
+W_I	16. CHNI	0	0
+W_S	16. CHNI	1	1
+W_S-I	16. CHNI	0	0
+W-R_S	16. CHNI	0	0
+W-R_S-I	16. CHNI	0	0
+-_S	17. Taiwanese	0	0
+R_S	17. Taiwanese	0	0
+W_-	17. Taiwanese	0	0
+W_I	17. Taiwanese	0	0
+W_S	17. Taiwanese	3	1
+W_S-I	17. Taiwanese	0	0
+W-R_S	17. Taiwanese	0	0
+W-R_S-I	17. Taiwanese	0	0
+-_S	18. Far East Asia	0	0
+R_S	18. Far East Asia	0	0
+W_-	18. Far East Asia	0	0
+W_I	18. Far East Asia	0	0
+W_S	18. Far East Asia	9	1
+W_S-I	18. Far East Asia	0	0
+W-R_S	18. Far East Asia	0	0
+W-R_S-I	18. Far East Asia	0	0
+-_S	19. Malaysian	0	0
+R_S	19. Malaysian	0	0
+W_-	19. Malaysian	0	0
+W_I	19. Malaysian	0	0
+W_S	19. Malaysian	6	1
+W_S-I	19. Malaysian	0	0
+W-R_S	19. Malaysian	0	0
+W-R_S-I	19. Malaysian	0	0
+-_S	2. Alpechin	0	0
+R_S	2. Alpechin	0	0
+W_-	2. Alpechin	0	0
+W_I	2. Alpechin	0	0
+W_S	2. Alpechin	17	1
+W_S-I	2. Alpechin	0	0
+W-R_S	2. Alpechin	0	0
+W-R_S-I	2. Alpechin	0	0
+-_S	20. CHN V	0	0
+R_S	20. CHN V	0	0
+W_-	20. CHN V	0	0
+W_I	20. CHN V	0	0
+W_S	20. CHN V	2	1
+W_S-I	20. CHN V	0	0
+W-R_S	20. CHN V	0	0
+W-R_S-I	20. CHN V	0	0
+-_S	21. Ecuadorean	0	0
+R_S	21. Ecuadorean	0	0
+W_-	21. Ecuadorean	0	0
+W_I	21. Ecuadorean	0	0
+W_S	21. Ecuadorean	10	1
+W_S-I	21. Ecuadorean	0	0
+W-R_S	21. Ecuadorean	0	0
+W-R_S-I	21. Ecuadorean	0	0
+-_S	22. Far East Russian	0	0
+R_S	22. Far East Russian	0	0
+W_-	22. Far East Russian	0	0
+W_I	22. Far East Russian	0	0
+W_S	22. Far East Russian	4	1
+W_S-I	22. Far East Russian	0	0
+W-R_S	22. Far East Russian	0	0
+W-R_S-I	22. Far East Russian	0	0
+-_S	23. North American oak	0	0
+R_S	23. North American oak	0	0
+W_-	23. North American oak	0	0
+W_I	23. North American oak	0	0
+W_S	23. North American oak	13	1
+W_S-I	23. North American oak	0	0
+W-R_S	23. North American oak	0	0
+W-R_S-I	23. North American oak	0	0
+-_S	24. Asian islands	0	0
+R_S	24. Asian islands	0	0
+W_-	24. Asian islands	0	0
+W_I	24. Asian islands	0	0
+W_S	24. Asian islands	11	1
+W_S-I	24. Asian islands	0	0
+W-R_S	24. Asian islands	0	0
+W-R_S-I	24. Asian islands	0	0
+-_S	25. Sake	0	0
+R_S	25. Sake	7	0.149
+W_-	25. Sake	0	0
+W_I	25. Sake	0	0
+W_S	25. Sake	33	0.702
+W_S-I	25. Sake	0	0
+W-R_S	25. Sake	7	0.149
+W-R_S-I	25. Sake	0	0
+-_S	26. Asian fermentation	0	0
+R_S	26. Asian fermentation	14	0.359
+W_-	26. Asian fermentation	0	0
+W_I	26. Asian fermentation	0	0
+W_S	26. Asian fermentation	8	0.205
+W_S-I	26. Asian fermentation	0	0
+W-R_S	26. Asian fermentation	17	0.436
+W-R_S-I	26. Asian fermentation	0	0
+-_S	3. Brazilian bioethanol	0	0
+R_S	3. Brazilian bioethanol	35	1
+W_-	3. Brazilian bioethanol	0	0
+W_I	3. Brazilian bioethanol	0	0
+W_S	3. Brazilian bioethanol	0	0
+W_S-I	3. Brazilian bioethanol	0	0
+W-R_S	3. Brazilian bioethanol	0	0
+W-R_S-I	3. Brazilian bioethanol	0	0
+-_S	4. Mediterranean oak	0	0
+R_S	4. Mediterranean oak	0	0
+W_-	4. Mediterranean oak	0	0
+W_I	4. Mediterranean oak	0	0
+W_S	4. Mediterranean oak	8	1
+W_S-I	4. Mediterranean oak	0	0
+W-R_S	4. Mediterranean oak	0	0
+W-R_S-I	4. Mediterranean oak	0	0
+-_S	5. French dairy	0	0
+R_S	5. French dairy	0	0
+W_-	5. French dairy	0	0
+W_I	5. French dairy	0	0
+W_S	5. French dairy	31	0.969
+W_S-I	5. French dairy	0	0
+W-R_S	5. French dairy	1	0.031
+W-R_S-I	5. French dairy	0	0
+-_S	6. African beer	0	0
+R_S	6. African beer	0	0
+W_-	6. African beer	0	0
+W_I	6. African beer	0	0
+W_S	6. African beer	20	1
+W_S-I	6. African beer	0	0
+W-R_S	6. African beer	0	0
+W-R_S-I	6. African beer	0	0
+-_S	7. Mosaic beer	0	0
+R_S	7. Mosaic beer	10	0.476
+W_-	7. Mosaic beer	0	0
+W_I	7. Mosaic beer	0	0
+W_S	7. Mosaic beer	8	0.381
+W_S-I	7. Mosaic beer	0	0
+W-R_S	7. Mosaic beer	2	0.095
+W-R_S-I	7. Mosaic beer	1	0.048
+-_S	8. Mixed origin	0	0
+R_S	8. Mixed origin	34	0.472
+W_-	8. Mixed origin	0	0
+W_I	8. Mixed origin	0	0
+W_S	8. Mixed origin	11	0.153
+W_S-I	8. Mixed origin	0	0
+W-R_S	8. Mixed origin	27	0.375
+W-R_S-I	8. Mixed origin	0	0
+-_S	9. Mexican agave	0	0
+R_S	9. Mexican agave	3	0.429
+W_-	9. Mexican agave	0	0
+W_I	9. Mexican agave	0	0
+W_S	9. Mexican agave	0	0
+W_S-I	9. Mexican agave	0	0
+W-R_S	9. Mexican agave	4	0.571
+W-R_S-I	9. Mexican agave	0	0
+-_S	ADY	1	0.111
+R_S	ADY	1	0.111
+W_-	ADY	0	0
+W_I	ADY	0	0
+W_S	ADY	2	0.222
+W_S-I	ADY	0	0
+W-R_S	ADY	5	0.556
+W-R_S-I	ADY	0	0
+-_S	AFRICAN BEER	0	0
+R_S	AFRICAN BEER	0	0
+W_-	AFRICAN BEER	0	0
+W_I	AFRICAN BEER	0	0
+W_S	AFRICAN BEER	2	1
+W_S-I	AFRICAN BEER	0	0
+W-R_S	AFRICAN BEER	0	0
+W-R_S-I	AFRICAN BEER	0	0
+-_S	Asia	0	0
+R_S	Asia	0	0
+W_-	Asia	1	1
+W_I	Asia	0	0
+W_S	Asia	0	0
+W_S-I	Asia	0	0
+W-R_S	Asia	0	0
+W-R_S-I	Asia	0	0
+-_S	Asian	0	0
+R_S	Asian	1	0.143
+W_-	Asian	0	0
+W_I	Asian	0	0
+W_S	Asian	3	0.429
+W_S-I	Asian	0	0
+W-R_S	Asian	3	0.429
+W-R_S-I	Asian	0	0
+-_S	Asian fermentation	0	0
+R_S	Asian fermentation	0	0
+W_-	Asian fermentation	0	0
+W_I	Asian fermentation	0	0
+W_S	Asian fermentation	1	1
+W_S-I	Asian fermentation	0	0
+W-R_S	Asian fermentation	0	0
+W-R_S-I	Asian fermentation	0	0
+-_S	B1	0	0
+R_S	B1	0	0
+W_-	B1	2	0.111
+W_I	B1	0	0
+W_S	B1	16	0.889
+W_S-I	B1	0	0
+W-R_S	B1	0	0
+W-R_S-I	B1	0	0
+-_S	B2	0	0
+R_S	B2	0	0
+W_-	B2	0	0
+W_I	B2	0	0
+W_S	B2	1	1
+W_S-I	B2	0	0
+W-R_S	B2	0	0
+W-R_S-I	B2	0	0
+-_S	B3	0	0
+R_S	B3	0	0
+W_-	B3	1	0.25
+W_I	B3	0	0
+W_S	B3	3	0.75
+W_S-I	B3	0	0
+W-R_S	B3	0	0
+W-R_S-I	B3	0	0
+-_S	B4	0	0
+R_S	B4	0	0
+W_-	B4	0	0
+W_I	B4	0	0
+W_S	B4	0	0
+W_S-I	B4	1	1
+W-R_S	B4	0	0
+W-R_S-I	B4	0	0
+-_S	Baijiu	0	0
+R_S	Baijiu	8	0.533
+W_-	Baijiu	0	0
+W_I	Baijiu	0	0
+W_S	Baijiu	4	0.267
+W_S-I	Baijiu	0	0
+W-R_S	Baijiu	3	0.2
+W-R_S-I	Baijiu	0	0
+-_S	Beer	0	0
+R_S	Beer	0	0
+W_-	Beer	0	0
+W_I	Beer	0	0
+W_S	Beer	20	0.952
+W_S-I	Beer	0	0
+W-R_S	Beer	1	0.048
+W-R_S-I	Beer	0	0
+-_S	Beer 1	0	0
+R_S	Beer 1	0	0
+W_-	Beer 1	0	0
+W_I	Beer 1	0	0
+W_S	Beer 1	0	0
+W_S-I	Beer 1	0	0
+W-R_S	Beer 1	1	1
+W-R_S-I	Beer 1	0	0
+-_S	Beer/Bread	0	0
+R_S	Beer/Bread	3	0.75
+W_-	Beer/Bread	0	0
+W_I	Beer/Bread	0	0
+W_S	Beer/Bread	1	0.25
+W_S-I	Beer/Bread	0	0
+W-R_S	Beer/Bread	0	0
+W-R_S-I	Beer/Bread	0	0
+-_S	Beer2	0	0
+R_S	Beer2	5	0.238
+W_-	Beer2	0	0
+W_I	Beer2	0	0
+W_S	Beer2	12	0.571
+W_S-I	Beer2	0	0
+W-R_S	Beer2	4	0.19
+W-R_S-I	Beer2	0	0
+-_S	Belgium/Germany	0	0
+R_S	Belgium/Germany	1	0.056
+W_-	Belgium/Germany	0	0
+W_I	Belgium/Germany	0	0
+W_S	Belgium/Germany	16	0.889
+W_S-I	Belgium/Germany	0	0
+W-R_S	Belgium/Germany	1	0.056
+W-R_S-I	Belgium/Germany	0	0
+-_S	Bread	0	0
+R_S	Bread	1	0.25
+W_-	Bread	0	0
+W_I	Bread	0	0
+W_S	Bread	3	0.75
+W_S-I	Bread	0	0
+W-R_S	Bread	0	0
+W-R_S-I	Bread	0	0
+-_S	Bread/beer	0	0
+R_S	Bread/beer	0	0
+W_-	Bread/beer	0	0
+W_I	Bread/beer	1	0.5
+W_S	Bread/beer	1	0.5
+W_S-I	Bread/beer	0	0
+W-R_S	Bread/beer	0	0
+W-R_S-I	Bread/beer	0	0
+-_S	Britain	0	0
+R_S	Britain	0	0
+W_-	Britain	0	0
+W_I	Britain	0	0
+W_S	Britain	26	1
+W_S-I	Britain	0	0
+W-R_S	Britain	0	0
+W-R_S-I	Britain	0	0
+-_S	C1	0	0
+R_S	C1	4	0.8
+W_-	C1	0	0
+W_I	C1	0	0
+W_S	C1	0	0
+W_S-I	C1	0	0
+W-R_S	C1	1	0.2
+W-R_S-I	C1	0	0
+-_S	C2	0	0
+R_S	C2	4	1
+W_-	C2	0	0
+W_I	C2	0	0
+W_S	C2	0	0
+W_S-I	C2	0	0
+W-R_S	C2	0	0
+W-R_S-I	C2	0	0
+-_S	CHN-I	0	0
+R_S	CHN-I	3	0.25
+W_-	CHN-I	0	0
+W_I	CHN-I	0	0
+W_S	CHN-I	7	0.583
+W_S-I	CHN-I	0	0
+W-R_S	CHN-I	2	0.167
+W-R_S-I	CHN-I	0	0
+-_S	CHN-II	0	0
+R_S	CHN-II	0	0
+W_-	CHN-II	0	0
+W_I	CHN-II	0	0
+W_S	CHN-II	8	1
+W_S-I	CHN-II	0	0
+W-R_S	CHN-II	0	0
+W-R_S-I	CHN-II	0	0
+-_S	CHN-III	0	0
+R_S	CHN-III	0	0
+W_-	CHN-III	0	0
+W_I	CHN-III	0	0
+W_S	CHN-III	2	0.667
+W_S-I	CHN-III	0	0
+W-R_S	CHN-III	1	0.333
+W-R_S-I	CHN-III	0	0
+-_S	CHN-IV	0	0
+R_S	CHN-IV	1	0.056
+W_-	CHN-IV	0	0
+W_I	CHN-IV	0	0
+W_S	CHN-IV	17	0.944
+W_S-I	CHN-IV	0	0
+W-R_S	CHN-IV	0	0
+W-R_S-I	CHN-IV	0	0
+-_S	CHN-IX	0	0
+R_S	CHN-IX	0	0
+W_-	CHN-IX	0	0
+W_I	CHN-IX	0	0
+W_S	CHN-IX	5	0.833
+W_S-I	CHN-IX	0	0
+W-R_S	CHN-IX	1	0.167
+W-R_S-I	CHN-IX	0	0
+-_S	CHN-V	0	0
+R_S	CHN-V	0	0
+W_-	CHN-V	0	0
+W_I	CHN-V	0	0
+W_S	CHN-V	12	1
+W_S-I	CHN-V	0	0
+W-R_S	CHN-V	0	0
+W-R_S-I	CHN-V	0	0
+-_S	CHN-VI/VII	0	0
+R_S	CHN-VI/VII	5	0.263
+W_-	CHN-VI/VII	0	0
+W_I	CHN-VI/VII	0	0
+W_S	CHN-VI/VII	14	0.737
+W_S-I	CHN-VI/VII	0	0
+W-R_S	CHN-VI/VII	0	0
+W-R_S-I	CHN-VI/VII	0	0
+-_S	CHN-VIII	0	0
+R_S	CHN-VIII	0	0
+W_-	CHN-VIII	0	0
+W_I	CHN-VIII	0	0
+W_S	CHN-VIII	5	0.833
+W_S-I	CHN-VIII	0	0
+W-R_S	CHN-VIII	1	0.167
+W-R_S-I	CHN-VIII	0	0
+-_S	CHN-X	0	0
+R_S	CHN-X	3	0.429
+W_-	CHN-X	0	0
+W_I	CHN-X	0	0
+W_S	CHN-X	4	0.571
+W_S-I	CHN-X	0	0
+W-R_S	CHN-X	0	0
+W-R_S-I	CHN-X	0	0
+-_S	DAIRY	0	0
+R_S	DAIRY	0	0
+W_-	DAIRY	0	0
+W_I	DAIRY	0	0
+W_S	DAIRY	7	1
+W_S-I	DAIRY	0	0
+W-R_S	DAIRY	0	0
+W-R_S-I	DAIRY	0	0
+-_S	Flor	0	0
+R_S	Flor	0	0
+W_-	Flor	0	0
+W_I	Flor	0	0
+W_S	Flor	7	1
+W_S-I	Flor	0	0
+W-R_S	Flor	0	0
+W-R_S-I	Flor	0	0
+-_S	grape	0	0
+R_S	grape	0	0
+W_-	grape	0	0
+W_I	grape	1	0.2
+W_S	grape	4	0.8
+W_S-I	grape	0	0
+W-R_S	grape	0	0
+W-R_S-I	grape	0	0
+-_S	Huangjiu	0	0
+R_S	Huangjiu	4	0.25
+W_-	Huangjiu	0	0
+W_I	Huangjiu	0	0
+W_S	Huangjiu	6	0.375
+W_S-I	Huangjiu	0	0
+W-R_S	Huangjiu	6	0.375
+W-R_S-I	Huangjiu	0	0
+-_S	human feces	0	0
+R_S	human feces	0	0
+W_-	human feces	0	0
+W_I	human feces	1	0.077
+W_S	human feces	8	0.615
+W_S-I	human feces	0	0
+W-R_S	human feces	4	0.308
+W-R_S-I	human feces	0	0
+-_S	Hybrids	0	0
+R_S	Hybrids	0	0
+W_-	Hybrids	0	0
+W_I	Hybrids	0	0
+W_S	Hybrids	1	1
+W_S-I	Hybrids	0	0
+W-R_S	Hybrids	0	0
+W-R_S-I	Hybrids	0	0
+-_S	insect intestine	0	0
+R_S	insect intestine	0	0
+W_-	insect intestine	0	0
+W_I	insect intestine	0	0
+W_S	insect intestine	0	0
+W_S-I	insect intestine	0	0
+W-R_S	insect intestine	2	1
+W-R_S-I	insect intestine	0	0
+-_S	Japan/North America	0	0
+R_S	Japan/North America	0	0
+W_-	Japan/North America	0	0
+W_I	Japan/North America	0	0
+W_S	Japan/North America	1	1
+W_S-I	Japan/North America	0	0
+W-R_S	Japan/North America	0	0
+W-R_S-I	Japan/North America	0	0
+-_S	M1. Mosaic region 1	0	0
+R_S	M1. Mosaic region 1	8	0.471
+W_-	M1. Mosaic region 1	0	0
+W_I	M1. Mosaic region 1	0	0
+W_S	M1. Mosaic region 1	7	0.412
+W_S-I	M1. Mosaic region 1	0	0
+W-R_S	M1. Mosaic region 1	2	0.118
+W-R_S-I	M1. Mosaic region 1	0	0
+-_S	M2. Mosaic region 2	0	0
+R_S	M2. Mosaic region 2	17	0.85
+W_-	M2. Mosaic region 2	0	0
+W_I	M2. Mosaic region 2	0	0
+W_S	M2. Mosaic region 2	2	0.1
+W_S-I	M2. Mosaic region 2	0	0
+W-R_S	M2. Mosaic region 2	1	0.05
+W-R_S-I	M2. Mosaic region 2	0	0
+-_S	M3. Mosaic region 3	0	0
+R_S	M3. Mosaic region 3	28	0.248
+W_-	M3. Mosaic region 3	1	0.009
+W_I	M3. Mosaic region 3	15	0.133
+W_S	M3. Mosaic region 3	41	0.363
+W_S-I	M3. Mosaic region 3	5	0.044
+W-R_S	M3. Mosaic region 3	22	0.195
+W-R_S-I	M3. Mosaic region 3	1	0.009
+-_S	Malaysia	0	0
+R_S	Malaysia	0	0
+W_-	Malaysia	0	0
+W_I	Malaysia	0	0
+W_S	Malaysia	1	1
+W_S-I	Malaysia	0	0
+W-R_S	Malaysia	0	0
+W-R_S-I	Malaysia	0	0
+-_S	Mantou 1	0	0
+R_S	Mantou 1	1	0.167
+W_-	Mantou 1	0	0
+W_I	Mantou 1	0	0
+W_S	Mantou 1	1	0.167
+W_S-I	Mantou 1	0	0
+W-R_S	Mantou 1	4	0.667
+W-R_S-I	Mantou 1	0	0
+-_S	Mantou 2	0	0
+R_S	Mantou 2	1	0.067
+W_-	Mantou 2	0	0
+W_I	Mantou 2	0	0
+W_S	Mantou 2	11	0.733
+W_S-I	Mantou 2	0	0
+W-R_S	Mantou 2	3	0.2
+W-R_S-I	Mantou 2	0	0
+-_S	Mantou 3	0	0
+R_S	Mantou 3	2	0.091
+W_-	Mantou 3	0	0
+W_I	Mantou 3	0	0
+W_S	Mantou 3	16	0.727
+W_S-I	Mantou 3	0	0
+W-R_S	Mantou 3	4	0.182
+W-R_S-I	Mantou 3	0	0
+-_S	Mantou 4	0	0
+R_S	Mantou 4	1	0.333
+W_-	Mantou 4	0	0
+W_I	Mantou 4	0	0
+W_S	Mantou 4	2	0.667
+W_S-I	Mantou 4	0	0
+W-R_S	Mantou 4	0	0
+W-R_S-I	Mantou 4	0	0
+-_S	Mantou 5	0	0
+R_S	Mantou 5	1	0.333
+W_-	Mantou 5	0	0
+W_I	Mantou 5	0	0
+W_S	Mantou 5	2	0.667
+W_S-I	Mantou 5	0	0
+W-R_S	Mantou 5	0	0
+W-R_S-I	Mantou 5	0	0
+-_S	Mantou 6	0	0
+R_S	Mantou 6	0	0
+W_-	Mantou 6	0	0
+W_I	Mantou 6	0	0
+W_S	Mantou 6	2	0.333
+W_S-I	Mantou 6	0	0
+W-R_S	Mantou 6	4	0.667
+W-R_S-I	Mantou 6	0	0
+-_S	Mantou 7	0	0
+R_S	Mantou 7	8	0.276
+W_-	Mantou 7	0	0
+W_I	Mantou 7	0	0
+W_S	Mantou 7	9	0.31
+W_S-I	Mantou 7	0	0
+W-R_S	Mantou 7	12	0.414
+W-R_S-I	Mantou 7	0	0
+-_S	Mediterranean oak	0	0
+R_S	Mediterranean oak	0	0
+W_-	Mediterranean oak	0	0
+W_I	Mediterranean oak	2	0.1
+W_S	Mediterranean oak	17	0.85
+W_S-I	Mediterranean oak	0	0
+W-R_S	Mediterranean oak	1	0.05
+W-R_S-I	Mediterranean oak	0	0
+-_S	Milk	0	0
+R_S	Milk	4	0.267
+W_-	Milk	0	0
+W_I	Milk	0	0
+W_S	Milk	8	0.533
+W_S-I	Milk	0	0
+W-R_S	Milk	3	0.2
+W-R_S-I	Milk	0	0
+-_S	Miscellaneous	0	0
+R_S	Miscellaneous	0	0
+W_-	Miscellaneous	0	0
+W_I	Miscellaneous	0	0
+W_S	Miscellaneous	2	0.5
+W_S-I	Miscellaneous	0	0
+W-R_S	Miscellaneous	2	0.5
+W-R_S-I	Miscellaneous	0	0
+-_S	Mixed	0	0
+R_S	Mixed	1	0.056
+W_-	Mixed	0	0
+W_I	Mixed	0	0
+W_S	Mixed	7	0.389
+W_S-I	Mixed	0	0
+W-R_S	Mixed	10	0.556
+W-R_S-I	Mixed	0	0
+-_S	Mixed origin	0	0
+R_S	Mixed origin	1	0.333
+W_-	Mixed origin	0	0
+W_I	Mixed origin	0	0
+W_S	Mixed origin	0	0
+W_S-I	Mixed origin	0	0
+W-R_S	Mixed origin	2	0.667
+W-R_S-I	Mixed origin	0	0
+-_S	Mosaic	0	0
+R_S	Mosaic	6	0.113
+W_-	Mosaic	0	0
+W_I	Mosaic	3	0.057
+W_S	Mosaic	35	0.66
+W_S-I	Mosaic	0	0
+W-R_S	Mosaic	9	0.17
+W-R_S-I	Mosaic	0	0
+-_S	MOSAIC	0	0
+R_S	MOSAIC	1	1
+W_-	MOSAIC	0	0
+W_I	MOSAIC	0	0
+W_S	MOSAIC	0	0
+W_S-I	MOSAIC	0	0
+W-R_S	MOSAIC	0	0
+W-R_S-I	MOSAIC	0	0
+-_S	Mosaics	0	0
+R_S	Mosaics	4	0.308
+W_-	Mosaics	0	0
+W_I	Mosaics	0	0
+W_S	Mosaics	4	0.308
+W_S-I	Mosaics	0	0
+W-R_S	Mosaics	5	0.385
+W-R_S-I	Mosaics	0	0
+-_S	natural	0	0
+R_S	natural	0	0
+W_-	natural	0	0
+W_I	natural	0	0
+W_S	natural	0	0
+W_S-I	natural	0	0
+W-R_S	natural	1	1
+W-R_S-I	natural	0	0
+-_S	North America/Japan	0	0
+R_S	North America/Japan	0	0
+W_-	North America/Japan	0	0
+W_I	North America/Japan	0	0
+W_S	North America/Japan	42	1
+W_S-I	North America/Japan	0	0
+W-R_S	North America/Japan	0	0
+W-R_S-I	North America/Japan	0	0
+-_S	NS	0	0
+R_S	NS	0	0
+W_-	NS	0	0
+W_I	NS	0	0
+W_S	NS	0	0
+W_S-I	NS	0	0
+W-R_S	NS	4	1
+W-R_S-I	NS	0	0
+-_S	OLIVES	0	0
+R_S	OLIVES	0	0
+W_-	OLIVES	0	0
+W_I	OLIVES	0	0
+W_S	OLIVES	22	1
+W_S-I	OLIVES	0	0
+W-R_S	OLIVES	0	0
+W-R_S-I	OLIVES	0	0
+-_S	PdM	0	0
+R_S	PdM	0	0
+W_-	PdM	0	0
+W_I	PdM	0	0
+W_S	PdM	5	1
+W_S-I	PdM	0	0
+W-R_S	PdM	0	0
+W-R_S-I	PdM	0	0
+-_S	PHILIPPINES	0	0
+R_S	PHILIPPINES	0	0
+W_-	PHILIPPINES	0	0
+W_I	PHILIPPINES	0	0
+W_S	PHILIPPINES	1	1
+W_S-I	PHILIPPINES	0	0
+W-R_S	PHILIPPINES	0	0
+W-R_S-I	PHILIPPINES	0	0
+-_S	Phillipines	0	0
+R_S	Phillipines	1	0.5
+W_-	Phillipines	0	0
+W_I	Phillipines	0	0
+W_S	Phillipines	1	0.5
+W_S-I	Phillipines	0	0
+W-R_S	Phillipines	0	0
+W-R_S-I	Phillipines	0	0
+-_S	Qingkejiu	0	0
+R_S	Qingkejiu	0	0
+W_-	Qingkejiu	0	0
+W_I	Qingkejiu	0	0
+W_S	Qingkejiu	4	0.667
+W_S-I	Qingkejiu	0	0
+W-R_S	Qingkejiu	2	0.333
+W-R_S-I	Qingkejiu	0	0
+-_S	Rum	0	0
+R_S	Rum	1	1
+W_-	Rum	0	0
+W_I	Rum	0	0
+W_S	Rum	0	0
+W_S-I	Rum	0	0
+W-R_S	Rum	0	0
+W-R_S-I	Rum	0	0
+-_S	sake	0	0
+R_S	sake	0	0
+W_-	sake	0	0
+W_I	sake	0	0
+W_S	sake	1	0.5
+W_S-I	sake	0	0
+W-R_S	sake	1	0.5
+W-R_S-I	sake	0	0
+-_S	Sake	0	0
+R_S	Sake	2	0.25
+W_-	Sake	0	0
+W_I	Sake	0	0
+W_S	Sake	2	0.25
+W_S-I	Sake	0	0
+W-R_S	Sake	4	0.5
+W-R_S-I	Sake	0	0
+-_S	THAI I	0	0
+R_S	THAI I	0	0
+W_-	THAI I	0	0
+W_I	THAI I	0	0
+W_S	THAI I	5	1
+W_S-I	THAI I	0	0
+W-R_S	THAI I	0	0
+W-R_S-I	THAI I	0	0
+-_S	THAI II	0	0
+R_S	THAI II	0	0
+W_-	THAI II	0	0
+W_I	THAI II	0	0
+W_S	THAI II	3	1
+W_S-I	THAI II	0	0
+W-R_S	THAI II	0	0
+W-R_S-I	THAI II	0	0
+-_S	US	0	0
+R_S	US	0	0
+W_-	US	0	0
+W_I	US	0	0
+W_S	US	10	0.909
+W_S-I	US	0	0
+W-R_S	US	1	0.091
+W-R_S-I	US	0	0
+-_S	WB1 - CHN V	0	0
+R_S	WB1 - CHN V	0	0
+W_-	WB1 - CHN V	0	0
+W_I	WB1 - CHN V	0	0
+W_S	WB1 - CHN V	1	1
+W_S-I	WB1 - CHN V	0	0
+W-R_S	WB1 - CHN V	0	0
+W-R_S-I	WB1 - CHN V	0	0
+-_S	WEST AFRICA	0	0
+R_S	WEST AFRICA	0	0
+W_-	WEST AFRICA	0	0
+W_I	WEST AFRICA	0	0
+W_S	WEST AFRICA	1	1
+W_S-I	WEST AFRICA	0	0
+W-R_S	WEST AFRICA	0	0
+W-R_S-I	WEST AFRICA	0	0
+-_S	West African	0	0
+R_S	West African	0	0
+W_-	West African	0	0
+W_I	West African	0	0
+W_S	West African	2	1
+W_S-I	West African	0	0
+W-R_S	West African	0	0
+W-R_S-I	West African	0	0
+-_S	wine	0	0
+R_S	wine	2	0.105
+W_-	wine	0	0
+W_I	wine	0	0
+W_S	wine	16	0.842
+W_S-I	wine	0	0
+W-R_S	wine	1	0.053
+W-R_S-I	wine	0	0
+-_S	Wine	0	0
+R_S	Wine	2	0.035
+W_-	Wine	0	0
+W_I	Wine	1	0.018
+W_S	Wine	45	0.789
+W_S-I	Wine	0	0
+W-R_S	Wine	8	0.14
+W-R_S-I	Wine	1	0.018

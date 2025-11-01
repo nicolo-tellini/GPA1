@@ -1,0 +1,3136 @@
+strain name/sequencing code	codon aa82	codon aa469	aa82	aa469	combination aa82_aa469	clade
+AAA	TGG	AGT	W	S	W_S	1. Wine/European
+AAB	TGG	AGT	W	S	W_S	7. Mosaic beer
+AAC	TGG	AGT	W	S	W_S	11. Ale beer
+AAD	CGG	AGT	R	S	R_S	25. Sake
+AAE	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+AAG	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+AAH	CGG	AGT	R	S	R_S	
+AAI	TGG	AGT	W	S	W_S	1. Wine/European
+AAK	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+AAL	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+AAM	CGG	AGT	R	S	R_S	8. Mixed origin
+AAN	CGG	AGT	R	S	R_S	8. Mixed origin
+AAP	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+AAQ	CGG	AGT	R	S	R_S	7. Mosaic beer
+AAR	CGG	AGT	R	S	R_S	7. Mosaic beer
+AAS	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+AAT	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+AAV	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+ABA	TGG	ATT	W	I	W_I	M3. Mosaic region 3
+ABB	TGG	AGT	W	S	W_S	26. Asian fermentation
+ABC	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+ABD	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+ABE	TGG	AGT	W	S	W_S	1. Wine/European
+ABF	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+ABG	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+ABH	TGG	ATT	W	I	W_I	M3. Mosaic region 3
+ABI	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+ABK	TGG	ATT	W	I	W_I	M3. Mosaic region 3
+ABL	TGG	AGT	W	S	W_S	
+ABM	TGG	AGT	W	S	W_S	2. Alpechin
+ABP	TGG	AGT	W	S	W_S	1. Wine/European
+ABQ	TGG	AGT	W	S	W_S	1. Wine/European
+ABR	TGG	AGT	W	S	W_S	1. Wine/European
+ABS	TGG	AGT	W	S	W_S	1. Wine/European
+ABT	TGG	AGT	W	S	W_S	1. Wine/European
+ABV	CGG	AGT	R	S	R_S	8. Mixed origin
+ACA	TGG	ATT	W	I	W_I	M3. Mosaic region 3
+ACB	TGG	ATT	W	I	W_I	M3. Mosaic region 3
+ACC	TGG	AGT	W	S	W_S	21. Ecuadorean
+ACD	TGG	AGT	W	S	W_S	23. North American oak
+ACF	TGG	AGT	W	S	W_S	1. Wine/European
+ACG	CGG	AGT	R	S	R_S	M1. Mosaic region 1
+ACH	CGG	AGT	R	S	R_S	M1. Mosaic region 1
+ACI	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+ACK	TGG	AGT	W	S	W_S	26. Asian fermentation
+ACL	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+ACM	CGG	AGT	R	S	R_S	26. Asian fermentation
+ACN	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+ACP	TGG	AGT	W	S	W_S	1. Wine/European (subclade 1)
+ACQ	TGG	AGT	W	S	W_S	18. Far East Asia
+ACR	TGG	AGT	W	S	W_S	1. Wine/European
+ACS	TGG	AGT	W	S	W_S	M1. Mosaic region 1
+ACT	TGG	AGT	W	S	W_S	1. Wine/European
+ACV	TGG	AGT	W	S	W_S	1. Wine/European
+ADA	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+ADB	TGG	AGT	W	S	W_S	1. Wine/European
+ADC	TGG	AGT	W	S	W_S	1. Wine/European
+ADD	TGG	AGT	W	S	W_S	1. Wine/European (subclade 2)
+ADE	TGG	AGT	W	S	W_S	
+ADF	TGG	AGT	W	S	W_S	13. African palm wine
+ADG	TGG	AGT	W	S	W_S	
+ADH	TGG	AGT	W	S	W_S	26. Asian fermentation
+ADI	TGG	AGT	W	S	W_S	1. Wine/European (subclade 2)
+ADK	YGG	AKT	W-R	S-I	W-R_S-I	M3. Mosaic region 3
+ADL	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+ADM	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+ADN	TGG	AGT	W	S	W_S	25. Sake
+ADP	CGG	AGT	R	S	R_S	8. Mixed origin
+ADQ	TGG	AGT	W	S	W_S	25. Sake
+ADR	TGG	AGT	W	S	W_S	1. Wine/European
+ADS	TGG	AGT	W	S	W_S	1. Wine/European
+ADT	TGG	ATT	W	I	W_I	M3. Mosaic region 3
+ADV	TGG	AGT	W	S	W_S	13. African palm wine
+AEA	CGG	AGT	R	S	R_S	7. Mosaic beer
+AEB	TGG	AGT	W	S	W_S	11. Ale beer
+AEC	TGG	AGT	W	S	W_S	11. Ale beer
+AEE	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+AEF	CGG	AGT	R	S	R_S	25. Sake
+AEG	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+AEH	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+AEI	TGG	ATT	W	I	W_I	M3. Mosaic region 3
+AEK	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+AEL	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+AEM	TGG	AGT	W	S	W_S	8. Mixed origin
+AEN	TGG	AGT	W	S	W_S	6. African beer
+AEP	CGG	AGT	R	S	R_S	26. Asian fermentation
+AEQ	TGG	AGT	W	S	W_S	7. Mosaic beer
+AER	CGG	AGT	R	S	R_S	M2. Mosaic region 2
+AES	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+AET	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+AEV	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+AFA	CGG	AGT	R	S	R_S	7. Mosaic beer
+AFB	CGG	AGT	R	S	R_S	7. Mosaic beer
+AFC	CGG	AGT	R	S	R_S	8. Mixed origin
+AFD	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+AFE	TGG	AGT	W	S	W_S	8. Mixed origin
+AFF	CGG	AGT	R	S	R_S	8. Mixed origin
+AFG	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+AFH	CGG	AGT	R	S	R_S	26. Asian fermentation
+AFI	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+AFK	TGG	AGT	W	S	W_S	24. Asian islands
+AFL	TGG	AGT	W	S	W_S	6. African beer
+AFM	TGG	AGT	W	S	W_S	25. Sake
+AFN	CGG	AGT	R	S	R_S	25. Sake
+AFP	TGG	AGT	W	S	W_S	7. Mosaic beer
+AFQ	CGG	AGT	R	S	R_S	M2. Mosaic region 2
+AFR	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+AFS	CGG	AGT	R	S	R_S	
+AFT	TGG	AGT	W	S	W_S	8. Mixed origin
+AFV	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+AGA	TGG	AGT	W	S	W_S	1. Wine/European
+AGB	TGG	AGT	W	S	W_S	11. Ale beer
+AGC	CGG	AGT	R	S	R_S	
+AGE	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+AGF	TGG	AGT	W	S	W_S	1. Wine/European
+AGG	CGG	AGT	R	S	R_S	26. Asian fermentation
+AGH	TGG	AGT	W	S	W_S	1. Wine/European
+AGI	TGG	AGT	W	S	W_S	1. Wine/European
+AGK	TGG	AGT	W	S	W_S	8. Mixed origin
+AGL	TGG	AGT	W	S	W_S	1. Wine/European
+AGM	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+AGN	TGG	AGT	W	S	W_S	M1. Mosaic region 1
+AGP	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+AGR	TGG	AGT	W	S	W_S	24. Asian islands
+AGS	TGG	AGT	W	S	W_S	1. Wine/European
+AGT	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+AGV	TGG	AGT	W	S	W_S	1. Wine/European
+AHA	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+AHB	TGG	AGT	W	S	W_S	
+AHC	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+AHD	TGG	AGT	W	S	W_S	1. Wine/European
+AHE	TGG	AGT	W	S	W_S	1. Wine/European
+AHF	CGG	AGT	R	S	R_S	M1. Mosaic region 1
+AHG	TGG	AGT	W	S	W_S	1. Wine/European
+AHH	TGG	AGT	W	S	W_S	24. Asian islands
+AHI	TGG	AGT	W	S	W_S	1. Wine/European
+AHK	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+AHL	TGG	AGT	W	S	W_S	2. Alpechin
+AHM	TGG	AGT	W	S	W_S	2. Alpechin
+AHN	TGG	AGT	W	S	W_S	1. Wine/European
+AHP	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+AHQ	CGG	AGT	R	S	R_S	26. Asian fermentation
+AHR	TGG	AGT	W	S	W_S	1. Wine/European
+AHS	TGG	AGT	W	S	W_S	13. African palm wine
+AHT	TGG	AGT	W	S	W_S	1. Wine/European
+AHV	CGG	AGT	R	S	R_S	8. Mixed origin
+AIA	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+AIB	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+AIC	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+AID	TGG	AGT	W	S	W_S	2. Alpechin
+AIE	TGG	AGT	W	S	W_S	2. Alpechin
+AIF	TGG	AGT	W	S	W_S	1. Wine/European
+AIG	CGG	AGT	R	S	R_S	7. Mosaic beer
+AII	TGG	AGT	W	S	W_S	1. Wine/European
+AIK	TGG	AGT	W	S	W_S	1. Wine/European
+AIL	TGG	AGT	W	S	W_S	1. Wine/European
+AIM	TGG	AGT	W	S	W_S	1. Wine/European
+AIN	TGG	AGT	W	S	W_S	1. Wine/European
+AIP	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+AIQ	TGG	AGT	W	S	W_S	1. Wine/European
+AIR	TGG	AGT	W	S	W_S	1. Wine/European
+AIT	TGG	AGT	W	S	W_S	1. Wine/European
+AKB	TGG	AGT	W	S	W_S	13. African palm wine
+AKC	TGG	AGT	W	S	W_S	13. African palm wine
+AKD	TGG	AGT	W	S	W_S	13. African palm wine
+AKE	TGG	AGT	W	S	W_S	13. African palm wine
+AKG	TGG	AGT	W	S	W_S	13. African palm wine
+AKH	TGG	AGT	W	S	W_S	13. African palm wine
+AKI	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+AKL	YGG	AGT	W-R	S	W-R_S	26. Asian fermentation
+AKM	TGG	AGT	W	S	W_S	19. Malaysian
+AKN	TGG	AGT	W	S	W_S	23. North American oak
+AKP	TGG	AGT	W	S	W_S	1. Wine/European
+AKQ	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+AKR	YGG	AGT	W-R	S	W-R_S	26. Asian fermentation
+AKS	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+AKT	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+AKV	TGG	AGT	W	S	W_S	1. Wine/European
+ALA	YGG	AGT	W-R	S	W-R_S	26. Asian fermentation
+ALB	YGG	AGT	W-R	S	W-R_S	26. Asian fermentation
+ALC	YGG	AGT	W-R	S	W-R_S	26. Asian fermentation
+ALD	TGG	AGT	W	S	W_S	5. French dairy
+ALE	TGG	AGT	W	S	W_S	1. Wine/European
+ALG	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+ALH	YGG	AGT	W-R	S	W-R_S	26. Asian fermentation
+ALI	TGG	AGT	W	S	W_S	
+ALK	YGG	AGT	W-R	S	W-R_S	26. Asian fermentation
+ALL	TGG	AGT	W	S	W_S	1. Wine/European
+ALM	TGG	AGT	W	S	W_S	1. Wine/European
+ALN	CGG	AGT	R	S	R_S	8. Mixed origin
+ALP	CGG	AGT	R	S	R_S	8. Mixed origin
+ALQ	TGG	AGT	W	S	W_S	1. Wine/European (subclade 1)
+ALR	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+ALS	TGG	AGT	W	S	W_S	1. Wine/European (subclade 1)
+ALT	TGG	AGT	W	S	W_S	1. Wine/European (subclade 1)
+ALV	CGG	AGT	R	S	R_S	8. Mixed origin
+AMA	TGG	AGT	W	S	W_S	1. Wine/European (subclade 1)
+AMB	TGG	AGT	W	S	W_S	
+AMC	TGG	AGT	W	S	W_S	
+AMD	TGG	AGT	W	S	W_S	
+AMF	TGG	AGT	W	S	W_S	
+AMG	CGG	AGT	R	S	R_S	8. Mixed origin
+AMH	TGG	AGT	W	S	W_S	17. Taiwanese
+AMI	CGG	AGT	R	S	R_S	8. Mixed origin
+AMK	CGG	AGT	R	S	R_S	8. Mixed origin
+AML	CGG	AGT	R	S	R_S	8. Mixed origin
+AMM	TGG	AGT	W	S	W_S	
+AMN	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+AMP	CGG	AGT	R	S	R_S	M1. Mosaic region 1
+AMQ	CGG	AGT	R	S	R_S	8. Mixed origin
+AMR	TGG	AGT	W	S	W_S	1. Wine/European
+AMS	TGG	AGT	W	S	W_S	1. Wine/European
+AMT	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+ANA	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+ANC	TGG	AGT	W	S	W_S	23. North American oak
+AND	TGG	AGT	W	S	W_S	23. North American oak
+ANE	TGG	AGT	W	S	W_S	23. North American oak
+ANF	TGG	AGT	W	S	W_S	23. North American oak
+ANG	TGG	AGT	W	S	W_S	23. North American oak
+ANH	TGG	AGT	W	S	W_S	23. North American oak
+ANI	TGG	AGT	W	S	W_S	23. North American oak
+ANK	TGG	AGT	W	S	W_S	23. North American oak
+ANL	TGG	AGT	W	S	W_S	6. African beer
+ANM	TGG	AGT	W	S	W_S	6. African beer
+ANN	TGG	AGT	W	S	W_S	12. West African cocoa
+ANP	TGG	AGT	W	S	W_S	8. Mixed origin
+ANQ	TGG	AGT	W	S	W_S	1. Wine/European
+ANR	YGG	AGT	W-R	S	W-R_S	25. Sake
+ANS	CGG	AGT	R	S	R_S	25. Sake
+ANT	YGG	AGT	W-R	S	W-R_S	25. Sake
+ANV	YGG	AGT	W-R	S	W-R_S	25. Sake
+APA	TGG	AGT	W	S	W_S	25. Sake
+APC	TGG	AGT	W	S	W_S	25. Sake
+APD	TGG	AGT	W	S	W_S	25. Sake
+APE	TGG	AGT	W	S	W_S	25. Sake
+APF	TGG	AGT	W	S	W_S	25. Sake
+APG	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+APH	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+API	CGG	AGT	R	S	R_S	8. Mixed origin
+APK	CGG	AGT	R	S	R_S	8. Mixed origin
+APL	CGG	AGT	R	S	R_S	8. Mixed origin
+APM	CGG	AGT	R	S	R_S	8. Mixed origin
+APN	CGG	AGT	R	S	R_S	8. Mixed origin
+APP	YGG	AGT	W-R	S	W-R_S	7. Mosaic beer
+APQ	TGG	AGT	W	S	W_S	13. African palm wine
+APR	TGG	AGT	W	S	W_S	13. African palm wine
+APS	TGG	AGT	W	S	W_S	1. Wine/European
+APT	TGG	AGT	W	S	W_S	1. Wine/European
+APV	TGG	AGT	W	S	W_S	1. Wine/European
+AQA	TGG	AGT	W	S	W_S	2. Alpechin
+AQB	TGG	AGT	W	S	W_S	1. Wine/European
+AQC	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+AQD	TGG	AGT	W	S	W_S	2. Alpechin
+AQE	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+AQG	TGG	AGT	W	S	W_S	7. Mosaic beer
+AQH	YGG	AKT	W-R	S-I	W-R_S-I	7. Mosaic beer
+AQI	CGG	AGT	R	S	R_S	8. Mixed origin
+AQM	TGG	AGT	W	S	W_S	5. French dairy
+AQN	YGG	AGT	W-R	S	W-R_S	25. Sake
+AQP	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+AQQ	TGG	AGT	W	S	W_S	1. Wine/European
+AQR	TGG	AGT	W	S	W_S	1. Wine/European
+AQS	YGG	AGT	W-R	S	W-R_S	26. Asian fermentation
+AQT	TGG	AGT	W	S	W_S	11. Ale beer
+ARA	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+ARB	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+ARC	TGG	AGT	W	S	W_S	1. Wine/European
+ARE	CGG	AGT	R	S	R_S	7. Mosaic beer
+ARG	TGG	AGT	W	S	W_S	24. Asian islands
+ARH	TGG	AGT	W	S	W_S	24. Asian islands
+ARI	TGG	AGT	W	S	W_S	24. Asian islands
+ARK	TGG	AGT	W	S	W_S	1. Wine/European
+ARL	TGG	AGT	W	S	W_S	1. Wine/European
+ARM	TGG	AGT	W	S	W_S	25. Sake
+ARN	TGG	AGT	W	S	W_S	5. French dairy
+ARP	CGG	AGT	R	S	R_S	25. Sake
+ARQ	TGG	AGT	W	S	W_S	1. Wine/European
+ARR	TGG	AGT	W	S	W_S	5. French dairy
+ARS	TGG	AGT	W	S	W_S	5. French dairy
+ART	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+ARV	TGG	AGT	W	S	W_S	1. Wine/European
+ASA	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+ASB	YGG	AGT	W-R	S	W-R_S	7. Mosaic beer
+ASC	TGG	AGT	W	S	W_S	6. African beer
+ASD	TGG	AGT	W	S	W_S	1. Wine/European
+ASE	TGG	AGT	W	S	W_S	1. Wine/European
+ASG	TGG	AGT	W	S	W_S	1. Wine/European
+ASH	TGG	AGT	W	S	W_S	11. Ale beer
+ASL	CGG	AGT	R	S	R_S	8. Mixed origin
+ASM	TGG	AGT	W	S	W_S	
+ASN	TGG	AGT	W	S	W_S	5. French dairy
+ASP	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+ASR	TGG	AGT	W	S	W_S	1. Wine/European
+ASS	CGG	AGT	R	S	R_S	1. Wine/European
+AST	CGG	AGT	R	S	R_S	M1. Mosaic region 1
+ASV	YGG	AGT	W-R	S	W-R_S	M1. Mosaic region 1
+ATA	TGG	AGT	W	S	W_S	1. Wine/European
+ATB	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+ATC	TGG	AKT	W	S-I	W_S-I	M3. Mosaic region 3
+ATD	TGG	ATT	W	I	W_I	M3. Mosaic region 3
+ATE	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+ATH	TGG	AGT	W	S	W_S	1. Wine/European
+ATM	TGG	AGT	W	S	W_S	1. Wine/European
+ATN	TGG	AGT	W	S	W_S	1. Wine/European
+ATP	TGG	AGT	W	S	W_S	13. African palm wine
+ATQ	TGG	AGT	W	S	W_S	2. Alpechin
+ATR	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+ATS	TGG	AGT	W	S	W_S	8. Mixed origin
+ATV	TGG	AGT	W	S	W_S	11. Ale beer
+AVB	TGG	AGT	W	S	W_S	2. Alpechin
+AVC	TGG	AGT	W	S	W_S	25. Sake
+AVD	TGG	AGT	W	S	W_S	25. Sake
+AVH	TGG	AGT	W	S	W_S	1. Wine/European
+AVI	TGG	AGT	W	S	W_S	23. North American oak
+AVK	TGG	AGT	W	S	W_S	1. Wine/European
+AVL	TGG	AGT	W	S	W_S	25. Sake
+AVM	TGG	AGT	W	S	W_S	25. Sake
+AVN	TGG	AGT	W	S	W_S	6. African beer
+AVP	TGG	AGT	W	S	W_S	6. African beer
+AVQ	TGG	AGT	W	S	W_S	6. African beer
+AVR	TGG	AGT	W	S	W_S	6. African beer
+AVS	TGG	AGT	W	S	W_S	6. African beer
+AVT	TGG	AGT	W	S	W_S	6. African beer
+AVV	TGG	AGT	W	S	W_S	13. African palm wine
+BAA	TGG	AGT	W	S	W_S	13. African palm wine
+BAB	TGG	AGT	W	S	W_S	13. African palm wine
+BAC	TGG	AGT	W	S	W_S	13. African palm wine
+BAD	TGG	AGT	W	S	W_S	13. African palm wine
+BAE	TGG	AGT	W	S	W_S	13. African palm wine
+BAF	TGG	AGT	W	S	W_S	13. African palm wine
+BAG	TGG	AGT	W	S	W_S	15. CHNII
+BAH	TGG	AGT	W	S	W_S	15. CHNII
+BAI	TGG	AGT	W	S	W_S	18. Far East Asia
+BAK	TGG	AGT	W	S	W_S	18. Far East Asia
+BAL	TGG	AGT	W	S	W_S	16. CHNI
+BAM	TGG	AGT	W	S	W_S	14. CHNIII
+BAN	TGG	AGT	W	S	W_S	20. CHN V
+BAP	TGG	AGT	W	S	W_S	20. CHN V
+BAQ	TGG	AGT	W	S	W_S	14. CHNIII
+BAR	TGG	AGT	W	S	W_S	1. Wine/European
+BAS	TGG	AGT	W	S	W_S	1. Wine/European
+BAT	TGG	AGT	W	S	W_S	1. Wine/European
+BAV	TGG	AGT	W	S	W_S	1. Wine/European
+BBA	TGG	AGT	W	S	W_S	1. Wine/European
+BBB	TGG	AGT	W	S	W_S	1. Wine/European
+BBC	CGG	AGT	R	S	R_S	8. Mixed origin
+BBD	CGG	AGT	R	S	R_S	8. Mixed origin
+BBE	CGG	AGT	R	S	R_S	8. Mixed origin
+BBF	CGG	AGT	R	S	R_S	8. Mixed origin
+BBG	TGG	AGT	W	S	W_S	11. Ale beer
+BBH	TGG	AGT	W	S	W_S	1. Wine/European (subclade 1)
+BBI	TGG	AGT	W	S	W_S	1. Wine/European (subclade 1)
+BBK	TGG	AGT	W	S	W_S	1. Wine/European (subclade 1)
+BBL	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+BBM	TGG	AGT	W	S	W_S	
+BBP	TGG	AGT	W	S	W_S	8. Mixed origin
+BBQ	TGG	AGT	W	S	W_S	4. Mediterranean oak
+BBR	TGG	AGT	W	S	W_S	
+BBS	TGG	AGT	W	S	W_S	4. Mediterranean oak
+BBT	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+BBV	TGG	AGT	W	S	W_S	1. Wine/European
+BCA	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+BCB	TGG	AGT	W	S	W_S	10. French Guiana human
+BCC	TGG	AGT	W	S	W_S	10. French Guiana human
+BCD	TGG	AGT	W	S	W_S	10. French Guiana human
+BCE	TGG	AGT	W	S	W_S	10. French Guiana human
+BCF	TGG	AGT	W	S	W_S	10. French Guiana human
+BCG	TGG	AGT	W	S	W_S	10. French Guiana human
+BCH	TGG	AGT	W	S	W_S	10. French Guiana human
+BCI	TGG	AGT	W	S	W_S	10. French Guiana human
+BCK	TGG	AGT	W	S	W_S	10. French Guiana human
+BCL	TGG	AGT	W	S	W_S	10. French Guiana human
+BCM	TGG	AGT	W	S	W_S	10. French Guiana human
+BCN	TGG	AGT	W	S	W_S	10. French Guiana human
+BCP	TGG	AGT	W	S	W_S	10. French Guiana human
+BCQ	TGG	AGT	W	S	W_S	10. French Guiana human
+BCR	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+BCS	CGG	AGT	R	S	R_S	8. Mixed origin
+BCT	TGG	AGT	W	S	W_S	8. Mixed origin
+BCV	CGG	AGT	R	S	R_S	M2. Mosaic region 2
+BDA	CGG	AGT	R	S	R_S	M2. Mosaic region 2
+BDB	CGG	AGT	R	S	R_S	M2. Mosaic region 2
+BDC	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+BDD	CGG	AGT	R	S	R_S	M2. Mosaic region 2
+BDE	CGG	AGT	R	S	R_S	M2. Mosaic region 2
+BDF	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+BDG	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+BDH	CGG	AGT	R	S	R_S	M2. Mosaic region 2
+BDI	CGG	AGT	R	S	R_S	M2. Mosaic region 2
+BDK	CGG	AGT	R	S	R_S	M2. Mosaic region 2
+BDL	CGG	AGT	R	S	R_S	8. Mixed origin
+BDM	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+BDN	TGG	AGT	W	S	W_S	6. African beer
+BDP	TGG	AGT	W	S	W_S	10. French Guiana human
+BDQ	TGG	AGT	W	S	W_S	10. French Guiana human
+BDR	TGG	AGT	W	S	W_S	10. French Guiana human
+BDS	TGG	AGT	W	S	W_S	10. French Guiana human
+BDT	TGG	AGT	W	S	W_S	10. French Guiana human
+BDV	TGG	AGT	W	S	W_S	10. French Guiana human
+BEA	TGG	AGT	W	S	W_S	10. French Guiana human
+BEB	TGG	AGT	W	S	W_S	10. French Guiana human
+BEC	TGG	AGT	W	S	W_S	10. French Guiana human
+BED	TGG	AGT	W	S	W_S	10. French Guiana human
+BEE	TGG	AGT	W	S	W_S	10. French Guiana human
+BEF	YGG	AGT	W-R	S	W-R_S	26. Asian fermentation
+BEG	TGG	AGT	W	S	W_S	
+BEH	TGG	AGT	W	S	W_S	26. Asian fermentation
+BEI	TGG	AGT	W	S	W_S	6. African beer
+BEK	TGG	AGT	W	S	W_S	6. African beer
+BEM	TGG	AGT	W	S	W_S	6. African beer
+BEN	TGG	AGT	W	S	W_S	6. African beer
+BEP	TGG	AGT	W	S	W_S	1. Wine/European (subclade 1)
+BEQ	TGG	AGT	W	S	W_S	1. Wine/European
+BER	TGG	AGT	W	S	W_S	1. Wine/European
+BES	TGG	AGT	W	S	W_S	1. Wine/European
+BET	TGG	AGT	W	S	W_S	1. Wine/European
+BEV	TGG	AGT	W	S	W_S	1. Wine/European
+BFA	TGG	AGT	W	S	W_S	
+BFB	TGG	AGT	W	S	W_S	1. Wine/European (subclade 1)
+BFC	TGG	AGT	W	S	W_S	1. Wine/European
+BFD	TGG	AGT	W	S	W_S	1. Wine/European (subclade 1)
+BFE	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+BFG	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+BFH	TGG	AGT	W	S	W_S	5. French dairy
+BFK	TGG	AGT	W	S	W_S	1. Wine/European
+BFL	TGG	AGT	W	S	W_S	
+BFM	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+BFN	TGG	AGT	W	S	W_S	5. French dairy
+BFP	TGG	AGT	W	S	W_S	4. Mediterranean oak
+BFQ	TGG	AGT	W	S	W_S	1. Wine/European
+BFR	TGG	AGT	W	S	W_S	1. Wine/European
+BFS	TGG	AGT	W	S	W_S	5. French dairy
+BFT	TGG	AGT	W	S	W_S	5. French dairy
+BFV	TGG	AGT	W	S	W_S	5. French dairy
+BGA	TGG	AGT	W	S	W_S	5. French dairy
+BGB	TGG	AGT	W	S	W_S	5. French dairy
+BGC	TGG	AGT	W	S	W_S	5. French dairy
+BGD	TGG	AGT	W	S	W_S	5. French dairy
+BGE	TGG	AGT	W	S	W_S	5. French dairy
+BGF	TGG	AGT	W	S	W_S	5. French dairy
+BGG	TGG	AGT	W	S	W_S	5. French dairy
+BGH	TGG	AGT	W	S	W_S	5. French dairy
+BGI	TGG	AGT	W	S	W_S	5. French dairy
+BGK	TGG	AGT	W	S	W_S	5. French dairy
+BGL	TGG	AGT	W	S	W_S	5. French dairy
+BGM	TGG	AGT	W	S	W_S	5. French dairy
+BGN	TGG	AGT	W	S	W_S	5. French dairy
+BGP	TGG	AGT	W	S	W_S	5. French dairy
+BGQ	TGG	AGT	W	S	W_S	5. French dairy
+BGR	TGG	AGT	W	S	W_S	5. French dairy
+BGS	TGG	AGT	W	S	W_S	5. French dairy
+BGT	TGG	AGT	W	S	W_S	5. French dairy
+BGV	TGG	AGT	W	S	W_S	5. French dairy
+BHA	TGG	AGT	W	S	W_S	6. African beer
+BHB	TGG	AGT	W	S	W_S	1. Wine/European
+BHC	TGG	AGT	W	S	W_S	1. Wine/European
+BHD	TGG	AGT	W	S	W_S	M1. Mosaic region 1
+BHE	TGG	AGT	W	S	W_S	M1. Mosaic region 1
+BHF	TGG	AGT	W	S	W_S	1. Wine/European
+BHG	CGG	AGT	R	S	R_S	M2. Mosaic region 2
+BHH	CGG	AGT	R	S	R_S	M2. Mosaic region 2
+BHI	CGG	AGT	R	S	R_S	M2. Mosaic region 2
+BHK	CGG	AGT	R	S	R_S	M1. Mosaic region 1
+BHL	YGG	AGT	W-R	S	W-R_S	M1. Mosaic region 1
+BHM	TGG	AGT	W	S	W_S	M1. Mosaic region 1
+BHN	TGG	AGT	W	S	W_S	1. Wine/European
+BHP	YGG	AGT	W-R	S	W-R_S	26. Asian fermentation
+BHQ	YGG	AGT	W-R	S	W-R_S	26. Asian fermentation
+BHR	YGG	AGT	W-R	S	W-R_S	26. Asian fermentation
+BHS	YGG	AGT	W-R	S	W-R_S	26. Asian fermentation
+BHT	TGG	AGT	W	S	W_S	M1. Mosaic region 1
+BHV	TGG	AGT	W	S	W_S	1. Wine/European
+BIA	TGG	AGT	W	S	W_S	1. Wine/European
+BIB	TGG	AGT	W	S	W_S	1. Wine/European
+BIC	TGG	AGT	W	S	W_S	1. Wine/European
+BID	TGG	AGT	W	S	W_S	1. Wine/European
+BIE	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+BIF	TGG	AGT	W	S	W_S	1. Wine/European
+BIG	TGG	AGT	W	S	W_S	1. Wine/European
+BIH	TGG	AGT	W	S	W_S	1. Wine/European
+BII	TGG	AGT	W	S	W_S	1. Wine/European
+BIK	TGG	AGT	W	S	W_S	1. Wine/European
+BIL	TGG	AGT	W	S	W_S	1. Wine/European
+BIM	TGG	AGT	W	S	W_S	1. Wine/European
+BIN	TGG	AGT	W	S	W_S	1. Wine/European
+BIP	TGG	AGT	W	S	W_S	1. Wine/European
+BIQ	TGG	AGT	W	S	W_S	1. Wine/European
+BIR	TGG	AGT	W	S	W_S	1. Wine/European
+BIS	TGG	AGT	W	S	W_S	1. Wine/European
+BIT	TGG	AGT	W	S	W_S	1. Wine/European
+BKA	TGG	AGT	W	S	W_S	1. Wine/European
+BKC	TGG	AGT	W	S	W_S	1. Wine/European
+BKD	TGG	AGT	W	S	W_S	1. Wine/European
+BKE	TGG	AGT	W	S	W_S	1. Wine/European
+BKF	TGG	AGT	W	S	W_S	1. Wine/European
+BKG	TGG	AGT	W	S	W_S	1. Wine/European
+BKH	TGG	AGT	W	S	W_S	1. Wine/European
+BKI	TGG	AGT	W	S	W_S	1. Wine/European
+BKK	TGG	AGT	W	S	W_S	1. Wine/European
+BKL	TGG	AGT	W	S	W_S	1. Wine/European
+BKM	TGG	AGT	W	S	W_S	1. Wine/European
+BKN	TGG	AGT	W	S	W_S	1. Wine/European
+BKP	TGG	AGT	W	S	W_S	1. Wine/European
+BKQ	TGG	AGT	W	S	W_S	1. Wine/European
+BKR	TGG	AGT	W	S	W_S	1. Wine/European
+BKS	TGG	AGT	W	S	W_S	1. Wine/European
+BKT	TGG	AGT	W	S	W_S	1. Wine/European
+BLA	TGG	AGT	W	S	W_S	1. Wine/European
+BLB	TGG	AGT	W	S	W_S	1. Wine/European
+BLC	TGG	AGT	W	S	W_S	1. Wine/European
+BLD	TGG	AGT	W	S	W_S	1. Wine/European
+BLE	TGG	AGT	W	S	W_S	1. Wine/European
+BLF	TGG	AGT	W	S	W_S	1. Wine/European
+BLG	TGG	AGT	W	S	W_S	1. Wine/European
+BLH	TGG	AGT	W	S	W_S	1. Wine/European
+BLI	TGG	AGT	W	S	W_S	1. Wine/European
+BLK	TGG	AGT	W	S	W_S	1. Wine/European
+BLL	TGG	AGT	W	S	W_S	1. Wine/European
+BLM	TGG	AGT	W	S	W_S	1. Wine/European
+BLN	TGG	AGT	W	S	W_S	1. Wine/European
+BLP	TGG	AGT	W	S	W_S	1. Wine/European
+BLQ	TGG	AGT	W	S	W_S	1. Wine/European
+BLR	TGG	AGT	W	S	W_S	1. Wine/European
+BLS	TGG	AGT	W	S	W_S	1. Wine/European
+BLT	TGG	AGT	W	S	W_S	1. Wine/European
+BLV	TGG	AGT	W	S	W_S	1. Wine/European
+BMA	TGG	AGT	W	S	W_S	19. Malaysian
+BMB	TGG	AGT	W	S	W_S	19. Malaysian
+BMC	TGG	AGT	W	S	W_S	19. Malaysian
+BMD	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+BME	YGG	AGT	W-R	S	W-R_S	5. French dairy
+BMF	TGG	AKT	W	S-I	W_S-I	M3. Mosaic region 3
+BMG	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+BMH	TGG	AGT	W	S	W_S	1. Wine/European (subclade 2)
+BMI	TGG	AGT	W	S	W_S	1. Wine/European (subclade 2)
+BMK	TGG	AGT	W	S	W_S	1. Wine/European (subclade 2)
+BML	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+BMM	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+BMN	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+BMQ	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+BMR	TGG	AGT	W	S	W_S	10. French Guiana human
+BMV	TGG	AGT	W	S	W_S	10. French Guiana human
+BNA	TGG	AGT	W	S	W_S	10. French Guiana human
+BNB	TGG	AGT	W	S	W_S	10. French Guiana human
+BNC	TGG	AGT	W	S	W_S	10. French Guiana human
+BND	TGG	AGT	W	S	W_S	10. French Guiana human
+BNE	TGG	AGT	W	S	W_S	1. Wine/European
+BNF	TGG	AGT	W	S	W_S	1. Wine/European
+BNG	TGG	AGT	W	S	W_S	1. Wine/European
+BNH	TGG	AGT	W	S	W_S	1. Wine/European
+BNI	TGG	AGT	W	S	W_S	1. Wine/European
+BNK	TGG	AGT	W	S	W_S	1. Wine/European
+BNL	TGG	AGT	W	S	W_S	1. Wine/European
+BNM	TGG	AGT	W	S	W_S	1. Wine/European
+BNN	TGG	AGT	W	S	W_S	1. Wine/European
+BNP	TGG	AGT	W	S	W_S	1. Wine/European
+BNQ	TGG	AGT	W	S	W_S	1. Wine/European
+BNR	TGG	AGT	W	S	W_S	1. Wine/European
+BNT	TGG	AGT	W	S	W_S	1. Wine/European
+BNV	TGG	AGT	W	S	W_S	1. Wine/European
+BPA	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+BPB	TGG	AGT	W	S	W_S	1. Wine/European
+BPC	TGG	AGT	W	S	W_S	1. Wine/European
+BPF	TGG	AGT	W	S	W_S	1. Wine/European
+BPG	TGG	AGT	W	S	W_S	1. Wine/European
+BPH	TGG	AGT	W	S	W_S	1. Wine/European
+BPI	TGG	AGT	W	S	W_S	
+BPK	TGG	AGT	W	S	W_S	1. Wine/European
+BPL	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+BPM	TGG	AGT	W	S	W_S	1. Wine/European
+BPN	TGG	AGT	W	S	W_S	
+BPP	TGG	AGT	W	S	W_S	1. Wine/European
+BPQ	TGG	AGT	W	S	W_S	1. Wine/European (subclade 1)
+BPR	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+BPT	TGG	AGT	W	S	W_S	1. Wine/European
+BPV	TGG	AGT	W	S	W_S	1. Wine/European
+BQA	TGG	AGT	W	S	W_S	1. Wine/European (subclade 1)
+BQB	TGG	AGT	W	S	W_S	1. Wine/European
+BQC	TGG	AGT	W	S	W_S	1. Wine/European
+BQE	TGG	AGT	W	S	W_S	1. Wine/European
+BQG	TGG	AGT	W	S	W_S	1. Wine/European
+BQH	TGG	AGT	W	S	W_S	1. Wine/European
+BQI	TGG	AGT	W	S	W_S	1. Wine/European
+BQM	TGG	AGT	W	S	W_S	1. Wine/European
+BQN	TGG	AGT	W	S	W_S	1. Wine/European (subclade 1)
+BQP	TGG	AGT	W	S	W_S	1. Wine/European
+BQQ	TGG	AGT	W	S	W_S	1. Wine/European
+BQR	TGG	AGT	W	S	W_S	1. Wine/European
+BQS	TGG	AGT	W	S	W_S	1. Wine/European
+BQT	TGG	AGT	W	S	W_S	1. Wine/European
+BRA	TGG	AGT	W	S	W_S	1. Wine/European
+BRB	TGG	AGT	W	S	W_S	1. Wine/European
+BRC	TGG	AGT	W	S	W_S	1. Wine/European (subclade 1)
+BRD	TGG	AGT	W	S	W_S	1. Wine/European
+BRE	TGG	AGT	W	S	W_S	1. Wine/European
+BRF	TGG	AGT	W	S	W_S	1. Wine/European
+BRG	YGG	AGT	W-R	S	W-R_S	26. Asian fermentation
+BRH	TGG	AGT	W	S	W_S	1. Wine/European
+BRK	TGG	AGT	W	S	W_S	2. Alpechin
+BRL	TGG	ATT	W	I	W_I	M3. Mosaic region 3
+BRM	CGG	AGT	R	S	R_S	7. Mosaic beer
+BRP	TGG	AGT	W	S	W_S	11. Ale beer
+BRQ	TGG	AGT	W	S	W_S	11. Ale beer
+BRV	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+BSA	TGG	AGT	W	S	W_S	1. Wine/European
+BSB	TGG	AGT	W	S	W_S	1. Wine/European
+BSC	TGG	AGT	W	S	W_S	1. Wine/European
+BSD	TGG	AGT	W	S	W_S	1. Wine/European
+BSE	TGG	AGT	W	S	W_S	1. Wine/European
+BSG	TGG	AGT	W	S	W_S	1. Wine/European
+BSI	TGG	AGT	W	S	W_S	11. Ale beer
+BSK	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+BSL	TGG	AGT	W	S	W_S	1. Wine/European
+BSM	TGG	AGT	W	S	W_S	1. Wine/European
+BSN	TGG	AGT	W	S	W_S	1. Wine/European
+BSP	TGG	AGT	W	S	W_S	1. Wine/European
+BSR	TGG	AGT	W	S	W_S	1. Wine/European
+BSS	TGG	AGT	W	S	W_S	1. Wine/European
+BST	TGG	AGT	W	S	W_S	1. Wine/European
+BTA	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+BTB	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+BTC	TGG	AGT	W	S	W_S	8. Mixed origin
+BTD	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+BTE	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+BTF	CGG	AGT	R	S	R_S	8. Mixed origin
+BTG	TGG	AGT	W	S	W_S	4. Mediterranean oak
+BTH	TGG	AGT	W	S	W_S	1. Wine/European
+BTI	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+BTL	TGG	AGT	W	S	W_S	1. Wine/European
+BTN	TGG	AGT	W	S	W_S	1. Wine/European
+BTP	TGG	AGT	W	S	W_S	1. Wine/European
+BTR	TGG	AGT	W	S	W_S	1. Wine/European
+BTS	YGG	AGT	W-R	S	W-R_S	25. Sake
+BTT	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+BTV	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+BVA	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+BVB	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+BVC	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+BVD	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+BVE	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+BVF	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+BVG	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+BVH	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+BVK	TGG	AGT	W	S	W_S	1. Wine/European
+BVM	TGG	AGT	W	S	W_S	1. Wine/European
+BVT	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+BVV	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+CAA	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+CAB	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+CAC	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+CAD	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+CAE	TGG	AGT	W	S	W_S	1. Wine/European
+CAF	TGG	AGT	W	S	W_S	1. Wine/European
+CAH	TGG	AGT	W	S	W_S	1. Wine/European
+CAI	TGG	AGT	W	S	W_S	1. Wine/European
+CAK	TGG	AGT	W	S	W_S	1. Wine/European
+CAL	TGG	AGT	W	S	W_S	1. Wine/European
+CAM	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+CAN	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+CAP	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+CAQ	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+CAR	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+CAS	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+CAT	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+CAV	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+CBA	TGG	AGT	W	S	W_S	1. Wine/European
+CBB	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+CBC	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+CBD	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+CBE	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+CBF	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+CBG	TGG	AGT	W	S	W_S	1. Wine/European
+CBH	TGG	AGT	W	S	W_S	1. Wine/European
+CBI	TGG	AGT	W	S	W_S	1. Wine/European (subclade 1)
+CBK	TGG	ATT	W	I	W_I	M3. Mosaic region 3
+CBL	TGG	AKT	W	S-I	W_S-I	M3. Mosaic region 3
+CBM	TGG	AKT	W	S-I	W_S-I	M3. Mosaic region 3
+CBN	TGG	AGT	W	S	W_S	7. Mosaic beer
+CBR	TGG	AGT	W	S	W_S	11. Ale beer
+CCC	TGG	AGT	W	S	W_S	21. Ecuadorean
+CCD	TGG	AGT	W	S	W_S	21. Ecuadorean
+CCE	TGG	AGT	W	S	W_S	21. Ecuadorean
+CCF	TGG	AGT	W	S	W_S	21. Ecuadorean
+CCG	TGG	AGT	W	S	W_S	21. Ecuadorean
+CCH	TGG	AGT	W	S	W_S	21. Ecuadorean
+CCI	TGG	AGT	W	S	W_S	21. Ecuadorean
+CCL	TGG	AGT	W	S	W_S	4. Mediterranean oak
+CCM	TGG	AGT	W	S	W_S	1. Wine/European (subclade 1)
+CCN	TGG	AGT	W	S	W_S	18. Far East Asia
+CCP	TGG	AGT	W	S	W_S	
+CCQ	TGG	AGT	W	S	W_S	18. Far East Asia
+CCR	TGG	AGT	W	S	W_S	18. Far East Asia
+CCS	TGG	AGT	W	S	W_S	18. Far East Asia
+CCT	TGG	AGT	W	S	W_S	24. Asian islands
+CCV	TGG	AGT	W	S	W_S	24. Asian islands
+CDA	TGG	AGT	W	S	W_S	24. Asian islands
+CDB	TGG	AGT	W	S	W_S	
+CDC	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+CDD	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+CDE	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+CDF	TGG	AGT	W	S	W_S	22. Far East Russian
+CDG	TGG	AGT	W	S	W_S	22. Far East Russian
+CDH	TGG	AGT	W	S	W_S	22. Far East Russian
+CDI	TGG	AGT	W	S	W_S	22. Far East Russian
+CDK	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+CDL	TGG	AGT	W	S	W_S	18. Far East Asia
+CDM	TGG	AGT	W	S	W_S	M2. Mosaic region 2
+CDN	TGG	AGT	W	S	W_S	
+CDP	TGG	AGT	W	S	W_S	
+CDQ	TGG	AGT	W	S	W_S	
+CDR	CGG	AGT	R	S	R_S	8. Mixed origin
+CDS	TGG	AGT	W	S	W_S	1. Wine/European
+CDT	TGG	AGT	W	S	W_S	2. Alpechin
+CDV	TGG	AGT	W	S	W_S	1. Wine/European
+CEA	TGG	AGT	W	S	W_S	1. Wine/European
+CEB	TGG	AGT	W	S	W_S	1. Wine/European
+CEC	TGG	AGT	W	S	W_S	1. Wine/European
+CED	TGG	AGT	W	S	W_S	1. Wine/European
+CEE	TGG	AGT	W	S	W_S	1. Wine/European
+CEF	TGG	AGT	W	S	W_S	1. Wine/European
+CEG	TGG	AGT	W	S	W_S	17. Taiwanese
+CEH	TGG	AGT	W	S	W_S	
+CEI	TGG	AGT	W	S	W_S	17. Taiwanese
+CEK	TGG	AGT	W	S	W_S	26. Asian fermentation
+CEL	TGG	AGT	W	S	W_S	26. Asian fermentation
+CEM	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+CEN	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+CEP	TGG	AGT	W	S	W_S	
+CEQ	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+CER	TGG	AGT	W	S	W_S	6. African beer
+CES	TGG	AGT	W	S	W_S	6. African beer
+CET	TGG	AGT	W	S	W_S	6. African beer
+CEV	CGG	AGT	R	S	R_S	26. Asian fermentation
+CFA	TGG	AGT	W	S	W_S	13. African palm wine
+CFB	TGG	AGT	W	S	W_S	1. Wine/European
+CFC	YGG	AGT	W-R	S	W-R_S	11. Ale beer
+CFD	TGG	AGT	W	S	W_S	11. Ale beer
+CFE	TGG	AGT	W	S	W_S	1. Wine/European
+CFF	TGG	AGT	W	S	W_S	7. Mosaic beer
+CFG	TGG	AGT	W	S	W_S	11. Ale beer
+CFH	TGG	AGT	W	S	W_S	11. Ale beer
+CFI	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+CFM	TGG	AGT	W	S	W_S	11. Ale beer
+CFN	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+CFP	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+CFQ	TGG	AGT	W	S	W_S	1. Wine/European
+CFR	TGG	AGT	W	S	W_S	1. Wine/European
+CFS	TGG	AGT	W	S	W_S	1. Wine/European
+CFT	YGG	AGT	W-R	S	W-R_S	M2. Mosaic region 2
+CFV	TGG	AGT	W	S	W_S	1. Wine/European
+CGB	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+CGC	TGG	AGT	W	S	W_S	11. Ale beer
+CGD	TGG	AGT	W	S	W_S	2. Alpechin
+CGE	TGG	AGT	W	S	W_S	2. Alpechin
+CGG	CGG	AGT	R	S	R_S	26. Asian fermentation
+CGH	TGG	AGT	W	S	W_S	
+CGI	TGG	AGT	W	S	W_S	26. Asian fermentation
+CGK	YGG	AGT	W-R	S	W-R_S	26. Asian fermentation
+CGL	CGG	AGT	R	S	R_S	26. Asian fermentation
+CGN	CGG	AGT	R	S	R_S	26. Asian fermentation
+CGP	CGG	AGT	R	S	R_S	26. Asian fermentation
+CGQ	YGG	AGT	W-R	S	W-R_S	26. Asian fermentation
+CGR	CGG	AGT	R	S	R_S	26. Asian fermentation
+CGS	TGG	AGT	W	S	W_S	1. Wine/European
+CGT	TGG	AGT	W	S	W_S	1. Wine/European (subclade 1)
+CGV	TGG	AGT	W	S	W_S	1. Wine/European
+CHA	TGG	AGT	W	S	W_S	1. Wine/European
+CHB	TGG	AGT	W	S	W_S	1. Wine/European
+CHC	TGG	AGT	W	S	W_S	1. Wine/European
+CHD	TGG	AGT	W	S	W_S	1. Wine/European
+CHE	TGG	AGT	W	S	W_S	1. Wine/European
+CHF	TGG	AGT	W	S	W_S	1. Wine/European
+CHG	CGG	AGT	R	S	R_S	8. Mixed origin
+CHH	TGG	AGT	W	S	W_S	8. Mixed origin
+CHI	CGG	AGT	R	S	R_S	8. Mixed origin
+CHK	CGG	AGT	R	S	R_S	8. Mixed origin
+CHL	TGG	AGT	W	S	W_S	8. Mixed origin
+CHM	YGG	AGT	W-R	S	W-R_S	26. Asian fermentation
+CHN	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+CHP	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+CHQ	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+CHR	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+CHS	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+CHT	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+CHV	CGG	AGT	R	S	R_S	M1. Mosaic region 1
+CIA	TGG	AGT	W	S	W_S	1. Wine/European
+CIB	TGG	AGT	W	S	W_S	1. Wine/European
+CIC	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+CID	TGG	ATT	W	I	W_I	M3. Mosaic region 3
+CIE	CGG	AGT	R	S	R_S	8. Mixed origin
+CIF	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+CIG	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+CIH	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+CII	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+CIK	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+CIL	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+CIM	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CIN	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CIP	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CIQ	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CIR	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CIS	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CIT	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CIV	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CKA	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+CKB	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CKC	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CKD	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CKE	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CKF	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CKG	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CKH	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CKI	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CKK	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+CKL	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CKM	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CKN	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+CKP	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CKQ	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CKR	YGG	AGT	W-R	S	W-R_S	
+CKS	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+CKT	TGG	AGT	W	S	W_S	1. Wine/European (subclade 3)
+CKV	TGG	AGT	W	S	W_S	5. French dairy
+CLA	YGG	AGT	W-R	S	W-R_S	8. Mixed origin
+CLB	TGG	AGT	W	S	W_S	4. Mediterranean oak
+CLC	TGG	AGT	W	S	W_S	4. Mediterranean oak
+CLD	TGG	AGT	W	S	W_S	4. Mediterranean oak
+CLG	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+CLH	TGG	AGT	W	S	W_S	1. Wine/European
+CLI	TGG	AGT	W	S	W_S	25. Sake
+CLK	TGG	AGT	W	S	W_S	25. Sake
+CLL	TGG	AGT	W	S	W_S	25. Sake
+CLM	TGG	AGT	W	S	W_S	25. Sake
+CLN	CGG	AGT	R	S	R_S	25. Sake
+CLP	TGG	AGT	W	S	W_S	25. Sake
+CLQ	TGG	AGT	W	S	W_S	25. Sake
+CLR	TGG	AGT	W	S	W_S	25. Sake
+CLS	TGG	AGT	W	S	W_S	25. Sake
+CLT	TGG	AGT	W	S	W_S	25. Sake
+CLV	TGG	AGT	W	S	W_S	25. Sake
+CMB	TGG	AGT	W	S	W_S	25. Sake
+CMC	TGG	AGT	W	S	W_S	25. Sake
+CMD	TGG	AGT	W	S	W_S	25. Sake
+CME	TGG	AGT	W	S	W_S	25. Sake
+CMF	YGG	AGT	W-R	S	W-R_S	25. Sake
+CMG	YGG	AGT	W-R	S	W-R_S	M3. Mosaic region 3
+CMH	TGG	AGT	W	S	W_S	25. Sake
+CMI	CGG	AGT	R	S	R_S	25. Sake
+CMK	TGG	AGT	W	S	W_S	25. Sake
+CML	TGG	AGT	W	S	W_S	25. Sake
+CMM	TGG	AGT	W	S	W_S	25. Sake
+CMN	YGG	AGT	W-R	S	W-R_S	25. Sake
+CMP	TGG	AGT	W	S	W_S	21. Ecuadorean
+CMQ	TGG	AGT	W	S	W_S	21. Ecuadorean
+CMS	TGG	AGT	W	S	W_S	
+CMT	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+CNB	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+CNC	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+CNE	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+CNF	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+CNG	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+CNH	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+CNI	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+CNK	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+CNL	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+CNM	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+CNN	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+CNP	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+CNQ	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+CNR	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+CNS	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+CNT	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+CNV	CGG	AGT	R	S	R_S	3. Brazilian bioethanol
+CPA	TGG	AGT	W	S	W_S	
+CPB	CGG	AGT	R	S	R_S	M1. Mosaic region 1
+CPC	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+CPD	TGG	AGT	W	S	W_S	7. Mosaic beer
+CPE	TGG	AGT	W	S	W_S	1. Wine/European
+CPF	TGG	AGT	W	S	W_S	1. Wine/European
+CPG	TGG	AGT	W	S	W_S	2. Alpechin
+CPI	YGG	AGT	W-R	S	W-R_S	9. Mexican agave
+CPK	CGG	AGT	R	S	R_S	9. Mexican agave
+CPL	CGG	AGT	R	S	R_S	9. Mexican agave
+CPM	YGG	AGT	W-R	S	W-R_S	9. Mexican agave
+CPN	YGG	AGT	W-R	S	W-R_S	9. Mexican agave
+CPQ	CGG	AGT	R	S	R_S	9. Mexican agave
+CPR	YGG	AGT	W-R	S	W-R_S	9. Mexican agave
+CPS	TGG	AGT	W	S	W_S	13. African palm wine
+CPT	TGG	AGT	W	S	W_S	13. African palm wine
+CQA	TGG	AGT	W	S	W_S	13. African palm wine
+CQB	TGG	AGT	W	S	W_S	13. African palm wine
+CQC	TGG	AGT	W	S	W_S	12. West African cocoa
+CQD	TGG	AGT	W	S	W_S	12. West African cocoa
+CQE	TGG	AGT	W	S	W_S	12. West African cocoa
+CQF	TGG	AGT	W	S	W_S	12. West African cocoa
+CQG	TGG	AGT	W	S	W_S	12. West African cocoa
+CQH	TGG	AGT	W	S	W_S	12. West African cocoa
+CQI	TGG	AGT	W	S	W_S	12. West African cocoa
+CQK	TGG	AGT	W	S	W_S	12. West African cocoa
+CQL	TGG	AGT	W	S	W_S	12. West African cocoa
+CQM	TGG	AGT	W	S	W_S	12. West African cocoa
+CQN	TGG	AGT	W	S	W_S	12. West African cocoa
+CQP	TGG	AGT	W	S	W_S	12. West African cocoa
+CQQ	TGG	AGT	W	S	W_S	25. Sake
+CQR	TGG	AGT	W	S	W_S	25. Sake
+CQS	TGG	AGT	W	S	W_S	
+CQT	TGG	AGT	W	S	W_S	1. Wine/European
+CQV	TGG	AGT	W	S	W_S	1. Wine/European
+CRA	TGG	AGT	W	S	W_S	1. Wine/European
+CRB	TGG	AGT	W	S	W_S	1. Wine/European
+CRC	TGG	AGT	W	S	W_S	1. Wine/European
+CRD	TGG	AGT	W	S	W_S	1. Wine/European
+CRE	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+CRG	TGG	AGT	W	S	W_S	1. Wine/European
+CRH	TGG	AGT	W	S	W_S	1. Wine/European
+CRI	TGG	AGT	W	S	W_S	1. Wine/European
+CRK	TGG	AGT	W	S	W_S	1. Wine/European
+CRL	TGG	AGT	W	S	W_S	1. Wine/European
+ERR1111486	TGG	AGT	W	S	W_S	B1
+ERR1111487	TGG	AGT	W	S	W_S	B1
+ERR1111488	TGG	NNN	W	-	W_-	B1
+ERR1111489	TGG	AGT	W	S	W_S	B1
+ERR1111490	TGG	ANT	W	-	W_-	B1
+ERR1111491	TGG	AGT	W	S	W_S	B1
+ERR1111492	TGG	AGT	W	S	W_S	B2
+ERR1111493	TGG	AGT	W	S	W_S	Japan/North America
+ERR1111494	TGG	AGT	W	S	W_S	B3
+ERR1111495	TGG	NNN	W	-	W_-	B3
+ERR1111496	TGG	AGT	W	S	W_S	B1
+ERR1111497	TGG	AGT	W	S	W_S	B1
+ERR1111498	TGG	AGT	W	S	W_S	B1
+ERR1111499	TGG	AGT	W	S	W_S	B1
+ERR1111500	TGG	AGT	W	S	W_S	B1
+ERR1111501	TGG	AGT	W	S	W_S	Hybrids
+ERR1111504	TGG	AGT	W	S	W_S	B1
+ERR1111505	TGG	AGT	W	S	W_S	B3
+ERR1111506	TGG	AGT	W	S	W_S	B1
+ERR1111507	TGG	AGT	W	S	W_S	B3
+ERR1111508	TGG	AGT	W	S	W_S	B1
+ERR1111509	TGG	AGT	W	S	W_S	B1
+ERR1111510	TGG	AKT	W	S-I	W_S-I	B4
+ERR1111511	TGG	AGT	W	S	W_S	B1
+ERR1111512	TGG	AGT	W	S	W_S	B1
+ERR1111513	TGG	AGT	W	S	W_S	Britain
+ERR11436253	TGG	AGT	W	S	W_S	
+ERR11436254	TGG	AGT	W	S	W_S	
+ERR11436256	TGG	AGT	W	S	W_S	
+ERR11436257	TGG	AGT	W	S	W_S	
+ERR11436258	TGG	AGT	W	S	W_S	
+ERR11436259	TGG	AGT	W	S	W_S	
+ERR11436260	TGG	AGT	W	S	W_S	
+ERR11436261	TGG	AGT	W	S	W_S	
+ERR11436262	TGG	AGT	W	S	W_S	
+ERR11436263	TGG	AGT	W	S	W_S	
+ERR11436264	TGG	AGT	W	S	W_S	
+ERR11436265	TGG	AGT	W	S	W_S	
+ERR11436266	TGG	AGT	W	S	W_S	
+ERR11436279	TGG	AGT	W	S	W_S	
+ERR11436280	TGG	AGT	W	S	W_S	
+ERR11436281	TGG	AGT	W	S	W_S	
+ERR11436282	TGG	AGT	W	S	W_S	
+ERR11436283	TGG	AGT	W	S	W_S	
+ERR11436284	TGG	AGT	W	S	W_S	
+ERR11436285	TGG	AGT	W	S	W_S	
+ERR11436286	TGG	AGT	W	S	W_S	
+ERR11436287	TGG	AGT	W	S	W_S	
+ERR11580194	TGG	AGT	W	S	W_S	THAI II
+ERR11580195	TGG	AGT	W	S	W_S	THAI II
+ERR11580196	TGG	AGT	W	S	W_S	THAI II
+ERR11580197	TGG	AGT	W	S	W_S	WEST AFRICA
+ERR11580198	TGG	AGT	W	S	W_S	
+ERR11580199	TGG	AGT	W	S	W_S	WB1 - CHN V
+ERR11580200	TGG	AGT	W	S	W_S	
+ERR11580201	TGG	AGT	W	S	W_S	
+ERR11580202	TGG	AGT	W	S	W_S	THAI I
+ERR11580203	TGG	AGT	W	S	W_S	THAI I
+ERR11580204	TGG	AGT	W	S	W_S	THAI I
+ERR11580205	TGG	AGT	W	S	W_S	THAI I
+ERR11580206	TGG	AGT	W	S	W_S	THAI I
+ERR11580207	TGG	AGT	W	S	W_S	
+ERR11580208	TGG	AGT	W	S	W_S	
+ERR11580209	TGG	AGT	W	S	W_S	
+ERR11580210	TGG	AGT	W	S	W_S	PHILIPPINES
+ERR11580211	CGG	AGT	R	S	R_S	
+ERR11580212	TGG	AGT	W	S	W_S	
+ERR11580213	TGG	AGT	W	S	W_S	
+ERR11580214	TGG	AGT	W	S	W_S	
+ERR11580215	TGG	AGT	W	S	W_S	
+ERR11580216	TGG	AGT	W	S	W_S	AFRICAN BEER
+ERR11580217	TGG	AGT	W	S	W_S	AFRICAN BEER
+ERR11580218	TGG	AGT	W	S	W_S	DAIRY
+ERR11580219	TGG	AGT	W	S	W_S	DAIRY
+ERR11580220	TGG	AGT	W	S	W_S	DAIRY
+ERR11580221	TGG	AGT	W	S	W_S	DAIRY
+ERR11580222	TGG	AGT	W	S	W_S	DAIRY
+ERR11580223	TGG	AGT	W	S	W_S	DAIRY
+ERR11580224	TGG	AGT	W	S	W_S	DAIRY
+ERR11580225	TGG	AGT	W	S	W_S	
+ERR1276734	TGG	AGT	W	S	W_S	
+ERR1352842	TGG	AGT	W	S	W_S	Wine
+ERR1352843	TGG	AGT	W	S	W_S	Beer
+ERR1352844	TGG	AGT	W	S	W_S	Beer
+ERR1352845	TGG	AGT	W	S	W_S	Beer
+ERR1352846	TGG	AGT	W	S	W_S	Beer
+ERR1352847	TGG	AGT	W	S	W_S	Beer
+ERR1352848	YGG	AGT	W-R	S	W-R_S	Beer
+ERR1352849	TGG	AGT	W	S	W_S	Beer
+ERR1352850	TGG	AGT	W	S	W_S	Beer
+ERR1352851	TGG	AGT	W	S	W_S	Beer
+ERR1352852	TGG	AGT	W	S	W_S	Beer
+ERR1352853	TGG	AGT	W	S	W_S	Beer
+ERR1352854	TGG	AGT	W	S	W_S	Beer
+ERR1352855	TGG	AGT	W	S	W_S	Beer
+ERR1352856	TGG	AGT	W	S	W_S	Beer
+ERR1352857	TGG	AGT	W	S	W_S	Beer
+ERR1352858	TGG	AGT	W	S	W_S	Beer
+ERR1352859	TGG	AGT	W	S	W_S	Beer
+ERR1352860	TGG	AGT	W	S	W_S	Beer
+ERR1352861	TGG	AGT	W	S	W_S	Beer
+ERR1352862	TGG	AGT	W	S	W_S	Beer
+ERR1352863	TGG	AGT	W	S	W_S	Beer
+ERR1352864	TGG	AGT	W	S	W_S	Beer/Bread
+ERR1352865	CGG	AGT	R	S	R_S	Beer/Bread
+ERR1352866	CGG	AGT	R	S	R_S	Beer/Bread
+ERR1352867	CGG	AGT	R	S	R_S	Beer/Bread
+ERR1352868	YGG	AGT	W-R	S	W-R_S	Sake
+ERR1352869	YGG	AGT	W-R	S	W-R_S	Sake
+ERR1352870	YGG	AGT	W-R	S	W-R_S	Sake
+ERR1352871	YGG	AGT	W-R	S	W-R_S	sake
+ERR1352872	YGG	AGT	W-R	S	W-R_S	Sake
+ERR1352873	TGG	AGT	W	S	W_S	Sake
+ERR1352874	CGG	AGT	R	S	R_S	Sake
+ERR1352875	CGG	AGT	R	S	R_S	Sake
+ERR1352876	CGG	AGT	R	S	R_S	Phillipines
+ERR1352877	TGG	AGT	W	S	W_S	Phillipines
+ERR1352878	TGG	AGT	W	S	W_S	Malaysia
+ERR1352879	TGG	NNN	W	-	W_-	Asia
+ERR1352880	TGG	AGT	W	S	W_S	
+ERR1856438	TGG	AGT	W	S	W_S	PdM
+ERR1856439	TGG	AGT	W	S	W_S	wine
+ERR1856440	TGG	AGT	W	S	W_S	wine
+ERR1856441	TGG	AGT	W	S	W_S	wine
+ERR1856442	TGG	AGT	W	S	W_S	wine
+ERR1856443	TGG	AGT	W	S	W_S	wine
+ERR1856444	TGG	AGT	W	S	W_S	PdM
+ERR1856445	TGG	AGT	W	S	W_S	wine
+ERR1856446	TGG	AGT	W	S	W_S	wine
+ERR1856447	TGG	AGT	W	S	W_S	wine
+ERR1856448	TGG	AGT	W	S	W_S	PdM
+ERR1856449	TGG	AGT	W	S	W_S	PdM
+ERR1856450	TGG	AGT	W	S	W_S	PdM
+ERR1856451	TGG	AGT	W	S	W_S	
+ERR2299966	TGG	AGT	W	S	W_S	Bread
+ERR2299967	CGG	AGT	R	S	R_S	Bread
+ERR2299968	CGG	AGT	R	S	R_S	C1
+ERR2299969	CGG	AGT	R	S	R_S	wine
+ERR2299970	TGG	AGT	W	S	W_S	wine
+ERR2299971	TGG	AGT	W	S	W_S	wine
+ERR2299972	TGG	AGT	W	S	W_S	wine
+ERR2299973	TGG	AGT	W	S	W_S	wine
+ERR2299974	TGG	AGT	W	S	W_S	Bread
+ERR2299975	CGG	AGT	R	S	R_S	C1
+ERR2299976	CGG	AGT	R	S	R_S	-
+ERR2299977	YGG	AGT	W-R	S	W-R_S	C1
+ERR2299978	CGG	AGT	R	S	R_S	C1
+ERR2299979	CGG	AGT	R	S	R_S	C1
+ERR2299980	CGG	AGT	R	S	R_S	C2
+ERR2299981	CGG	AGT	R	S	R_S	C2
+ERR2299982	CGG	AGT	R	S	R_S	C2
+ERR2299983	CGG	AGT	R	S	R_S	C2
+ERR2299984	CGG	AGT	R	S	R_S	-
+ERR2299985	CGG	AGT	R	S	R_S	-
+ERR2299986	TGG	AGT	W	S	W_S	B1
+ERR2299987	TGG	AGT	W	S	W_S	Bread
+ERR2299988	YGG	AGT	W-R	S	W-R_S	-
+ERR266412	TGG	AGT	W	S	W_S	human feces
+ERR266413	YGG	AGT	W-R	S	W-R_S	human feces
+ERR266414	TGG	AGT	W	S	W_S	grape
+ERR266415	TGG	AGT	W	S	W_S	human feces
+ERR266416	TGG	AGT	W	S	W_S	human feces
+ERR266417	TGG	AGT	W	S	W_S	grape
+ERR266418	TGG	AGT	W	S	W_S	human feces
+ERR266420	YGG	AGT	W-R	S	W-R_S	-
+ERR266421	TGG	AGT	W	S	W_S	-
+ERR266422	TGG	ATT	W	I	W_I	grape
+ERR266423	TGG	AGT	W	S	W_S	grape
+ERR266424	TGG	AGT	W	S	W_S	human feces
+ERR266425	YGG	AGT	W-R	S	W-R_S	insect intestine
+ERR266426	YGG	AGT	W-R	S	W-R_S	human feces
+ERR266427	YGG	AGT	W-R	S	W-R_S	natural
+ERR266428	TGG	ATT	W	I	W_I	human feces
+ERR266429	YGG	AGT	W-R	S	W-R_S	human feces
+ERR266430	TGG	AGT	W	S	W_S	human feces
+ERR266431	YGG	AGT	W-R	S	W-R_S	human feces
+ERR266432	YGG	AGT	W-R	S	W-R_S	insect intestine
+ERR266433	TGG	AGT	W	S	W_S	grape
+ERR266435	TGG	AGT	W	S	W_S	human feces
+ERR266436	YGG	AGT	W-R	S	W-R_S	wine
+ERR266437	TGG	AGT	W	S	W_S	Huangjiu
+ERR3010121	TGG	AGT	W	S	W_S	OLIVES
+ERR3010122	TGG	AGT	W	S	W_S	sake
+ERR3010123	CGG	AGT	R	S	R_S	MOSAIC
+ERR3010124	TGG	AGT	W	S	W_S	OLIVES
+ERR3010125	TGG	AGT	W	S	W_S	OLIVES
+ERR3010126	TGG	AGT	W	S	W_S	OLIVES
+ERR3010127	TGG	AGT	W	S	W_S	OLIVES
+ERR3010128	TGG	AGT	W	S	W_S	OLIVES
+ERR3010129	TGG	AGT	W	S	W_S	OLIVES
+ERR3010131	TGG	AGT	W	S	W_S	OLIVES
+ERR3010132	TGG	AGT	W	S	W_S	OLIVES
+ERR3010133	TGG	AGT	W	S	W_S	OLIVES
+ERR3010134	TGG	AGT	W	S	W_S	OLIVES
+ERR3010135	TGG	AGT	W	S	W_S	OLIVES
+ERR3010136	TGG	AGT	W	S	W_S	OLIVES
+ERR3010137	TGG	AGT	W	S	W_S	OLIVES
+ERR3010138	TGG	AGT	W	S	W_S	OLIVES
+ERR3010139	TGG	AGT	W	S	W_S	OLIVES
+ERR3010140	TGG	AGT	W	S	W_S	wine
+ERR3010141	TGG	AGT	W	S	W_S	wine
+ERR3010142	TGG	AGT	W	S	W_S	OLIVES
+ERR3010143	TGG	AGT	W	S	W_S	wine
+ERR3010144	TGG	AGT	W	S	W_S	wine
+ERR3010145	TGG	AGT	W	S	W_S	OLIVES
+ERR3010146	TGG	AGT	W	S	W_S	OLIVES
+ERR3010147	TGG	AGT	W	S	W_S	OLIVES
+ERR3010148	TGG	AGT	W	S	W_S	OLIVES
+ERR3010149	TGG	AGT	W	S	W_S	OLIVES
+ERR3010150	TGG	AGT	W	S	W_S	Asian fermentation
+ERR3139815	TGG	ATT	W	I	W_I	
+ERR3139816	TGG	AGT	W	S	W_S	
+ERR3139817	TGG	AGT	W	S	W_S	
+ERR3139818	TGG	AGT	W	S	W_S	
+ERR3139819	TGG	AGT	W	S	W_S	
+ERR3139820	TGG	AGT	W	S	W_S	
+ERR3139821	TGG	AGT	W	S	W_S	
+ERR3139822	TGG	AGT	W	S	W_S	
+ERR3139823	TGG	AGT	W	S	W_S	
+ERR3139824	CGG	AGT	R	S	R_S	
+ERR3139825	YGG	AKT	W-R	S-I	W-R_S-I	
+ERR3139826	YGG	AGT	W-R	S	W-R_S	
+ERR3139827	TGG	AGT	W	S	W_S	
+ERR3139828	CGG	AGT	R	S	R_S	
+ERR3139829	TGG	AGT	W	S	W_S	
+ERR3139830	TGG	AGT	W	S	W_S	
+ERR3139831	CGG	AGT	R	S	R_S	
+ERR3139832	YGG	AGT	W-R	S	W-R_S	
+ERR3139833	YGG	AKT	W-R	S-I	W-R_S-I	
+ERR3139834	CGG	AGT	R	S	R_S	
+ERR3139835	CGG	AGT	R	S	R_S	
+ERR3139836	CGG	AGT	R	S	R_S	
+ERR3139837	CGG	AGT	R	S	R_S	
+ERR3139838	TGG	AGT	W	S	W_S	
+ERR3139839	TGG	AGT	W	S	W_S	
+ERR3139840	TGG	AGT	W	S	W_S	
+ERR3139841	TGG	AGT	W	S	W_S	
+ERR3139842	TGG	AGT	W	S	W_S	
+ERR3139843	TGG	AGT	W	S	W_S	
+ERR3139844	CGG	AGT	R	S	R_S	
+ERR3139845	TGG	AGT	W	S	W_S	
+ERR3139846	TGG	AGT	W	S	W_S	
+ERR3139847	TGG	AGT	W	S	W_S	
+ERR3139848	TGG	AGT	W	S	W_S	
+ERR3139849	TGG	AGT	W	S	W_S	
+ERR3139850	TGG	AGT	W	S	W_S	
+ERR3139851	TGG	AGT	W	S	W_S	
+ERR3139852	TGG	AGT	W	S	W_S	
+ERR3139853	TGG	AGT	W	S	W_S	
+ERR3139854	TGG	AGT	W	S	W_S	
+ERR3139855	TGG	AGT	W	S	W_S	
+ERR3798334	YGG	AGT	W-R	S	W-R_S	Mixed origin
+ERR3798335	YGG	AGT	W-R	S	W-R_S	Mixed origin
+ERR3798336	YGG	AGT	W-R	S	W-R_S	Mosaics
+ERR3798337	CGG	AGT	R	S	R_S	Mosaics
+ERR3798338	CGG	AGT	R	S	R_S	Mosaics
+ERR3798339	CGG	AGT	R	S	R_S	Mosaics
+ERR3798340	YGG	AGT	W-R	S	W-R_S	Mosaics
+ERR3798341	TGG	AGT	W	S	W_S	Mosaics
+ERR3798342	TGG	AGT	W	S	W_S	Mosaics
+ERR3798343	YGG	AGT	W-R	S	W-R_S	Mosaics
+ERR3798344	TGG	AGT	W	S	W_S	Mosaics
+ERR3798345	CGG	AGT	R	S	R_S	Mosaics
+ERR3798346	YGG	AGT	W-R	S	W-R_S	Mosaics
+ERR3798347	YGG	AGT	W-R	S	W-R_S	Mosaics
+ERR3798348	TGG	AGT	W	S	W_S	Mosaics
+ERR3798349	CGG	AGT	R	S	R_S	Mixed origin
+ERR3798350	YGG	AGT	W-R	S	W-R_S	Beer 1
+ERR560539	TGG	AGT	W	S	W_S	Flor
+ERR560540	TGG	AGT	W	S	W_S	Flor
+ERR560541	TGG	AGT	W	S	W_S	Wine
+ERR560542	TGG	AGT	W	S	W_S	Wine
+ERR560543	TGG	AGT	W	S	W_S	Wine
+ERR560544	TGG	AGT	W	S	W_S	Wine
+ERR560545	TGG	AGT	W	S	W_S	Flor
+ERR560546	TGG	AGT	W	S	W_S	Wine
+ERR560547	TGG	AGT	W	S	W_S	Flor
+ERR560548	TGG	AGT	W	S	W_S	Flor
+ERR560549	TGG	AGT	W	S	W_S	Wine
+ERR560550	TGG	AGT	W	S	W_S	Wine
+ERR560551	TGG	AGT	W	S	W_S	Flor
+ERR560552	TGG	AGT	W	S	W_S	Flor
+ERR560553	TGG	AGT	W	S	W_S	Wine
+ERR560554	TGG	AGT	W	S	W_S	Wine
+ERR747908	TGG	AGT	W	S	W_S	Wine
+ERR747909	TGG	AGT	W	S	W_S	Wine
+ERR747910	TGG	AGT	W	S	W_S	Mediterranean oak
+ERR747911	TGG	AGT	W	S	W_S	Mediterranean oak
+ERR747912	TGG	AGT	W	S	W_S	Mediterranean oak
+ERR747914	TGG	AGT	W	S	W_S	Mediterranean oak
+ERR747915	TGG	AGT	W	S	W_S	Mediterranean oak
+ERR747916	TGG	AGT	W	S	W_S	Mediterranean oak
+ERR747917	TGG	AGT	W	S	W_S	Mediterranean oak
+ERR747918	TGG	AGT	W	S	W_S	Mediterranean oak
+ERR747919	TGG	AGT	W	S	W_S	Mediterranean oak
+ERR747920	TGG	AGT	W	S	W_S	Mediterranean oak
+ERR747921	TGG	AGT	W	S	W_S	North America/Japan
+ERR747922	TGG	AGT	W	S	W_S	North America/Japan
+ERR747923	TGG	AGT	W	S	W_S	North America/Japan
+ERR747924	TGG	AGT	W	S	W_S	Mosaic
+ERR747925	TGG	AGT	W	S	W_S	Mosaic
+ERR747926	TGG	AGT	W	S	W_S	Mosaic
+ERR747927	TGG	AGT	W	S	W_S	Mosaic
+ERR749179	TGG	ATT	W	I	W_I	Mosaic
+ERR749180	TGG	ATT	W	I	W_I	Wine
+ERR752929	TGG	AGT	W	S	W_S	Wine
+ERR752930	TGG	AGT	W	S	W_S	Wine
+ERR752931	TGG	AGT	W	S	W_S	Mediterranean oak
+ERR752933	TGG	AGT	W	S	W_S	Mediterranean oak
+ERR752935-ERR915346	TGG	AGT	W	S	W_S	
+ERR752941	TGG	AGT	W	S	W_S	North America/Japan
+ERR752942	TGG	AGT	W	S	W_S	North America/Japan
+ERR752943	TGG	AGT	W	S	W_S	North America/Japan
+ERR752944	TGG	AGT	W	S	W_S	North America/Japan
+ERR752945	TGG	AGT	W	S	W_S	North America/Japan
+ERR752946	TGG	AGT	W	S	W_S	North America/Japan
+ERR752947	TGG	AGT	W	S	W_S	North America/Japan
+ERR752948	TGG	AGT	W	S	W_S	North America/Japan
+ERR752949	TGG	AGT	W	S	W_S	North America/Japan
+ERR752950	TGG	AGT	W	S	W_S	Wine
+ERR754599	TGG	AGT	W	S	W_S	Wine
+ERR754600	TGG	AGT	W	S	W_S	Mediterranean oak
+ERR754601	TGG	AGT	W	S	W_S	North America/Japan
+ERR754602	TGG	AGT	W	S	W_S	North America/Japan
+ERR754603	TGG	AGT	W	S	W_S	North America/Japan
+ERR754604	TGG	AGT	W	S	W_S	North America/Japan
+ERR754605	TGG	AGT	W	S	W_S	North America/Japan
+ERR754606	TGG	AGT	W	S	W_S	North America/Japan
+ERR754607	TGG	AGT	W	S	W_S	North America/Japan
+ERR754608	TGG	AGT	W	S	W_S	North America/Japan
+ERR754609	TGG	AGT	W	S	W_S	North America/Japan
+ERR754610	TGG	AGT	W	S	W_S	North America/Japan
+ERR754611	TGG	AGT	W	S	W_S	North America/Japan
+ERR754612	TGG	AGT	W	S	W_S	North America/Japan
+ERR754613	TGG	AGT	W	S	W_S	North America/Japan
+ERR754614	TGG	AGT	W	S	W_S	North America/Japan
+ERR754615	TGG	AGT	W	S	W_S	North America/Japan
+ERR754616	TGG	AGT	W	S	W_S	North America/Japan
+ERR754617	TGG	AGT	W	S	W_S	North America/Japan
+ERR754618	TGG	AGT	W	S	W_S	North America/Japan
+ERR754619	TGG	AGT	W	S	W_S	North America/Japan
+ERR754620	TGG	AGT	W	S	W_S	North America/Japan
+ERR754621	TGG	AGT	W	S	W_S	North America/Japan
+ERR754622	TGG	AGT	W	S	W_S	Mosaic
+ERR754623	TGG	ATT	W	I	W_I	Mediterranean oak
+ERR756197	TGG	AGT	W	S	W_S	Bread/beer
+ERR756198	YGG	AGT	W-R	S	W-R_S	Wine
+ERR756199	TGG	AGT	W	S	W_S	Wine
+ERR756200	TGG	AGT	W	S	W_S	
+ERR756201	CGG	AGT	R	S	R_S	Rum
+ERR756202	CGG	AGT	R	S	R_S	Wine
+ERR756203	TGG	AGT	W	S	W_S	Wine
+ERR756204	TGG	AGT	W	S	W_S	
+ERR756205	TGG	ATT	W	I	W_I	Bread/beer
+ERR756206	YGG	AGT	W-R	S	W-R_S	Wine
+ERR756207	TGG	AGT	W	S	W_S	Wine
+ERR756208	TGG	AGT	W	S	W_S	Miscellaneous
+ERR756209	YGG	AGT	W-R	S	W-R_S	Miscellaneous
+ERR756210	TGG	AGT	W	S	W_S	West African
+ERR756211	TGG	AGT	W	S	W_S	West African
+ERR756212	TGG	AGT	W	S	W_S	Wine
+ERR756213	TGG	AGT	W	S	W_S	Miscellaneous
+ERR756214	YGG	AGT	W-R	S	W-R_S	Miscellaneous
+ERR756215	TGG	AGT	W	S	W_S	Sake
+ERR756216	TGG	AGT	W	S	W_S	Wine
+ERR756217	TGG	AGT	W	S	W_S	Wine
+ERR756218	TGG	AGT	W	S	W_S	
+ERR756219	YGG	AGT	W-R	S	W-R_S	
+ERR756220	TGG	AGT	W	S	W_S	
+ERR756221	TGG	AGT	W	S	W_S	
+ERR756222	TGG	AGT	W	S	W_S	
+ERR756223	CGG	AGT	R	S	R_S	
+ERR756224	YGG	AGT	W-R	S	W-R_S	Mediterranean oak
+ERR756225	TGG	AGT	W	S	W_S	Wine
+ERR756226	TGG	AGT	W	S	W_S	Wine
+ERR756227	TGG	AGT	W	S	W_S	
+ERR912231	TGG	AGT	W	S	W_S	
+ERR912232	TGG	AGT	W	S	W_S	
+ERR912235	TGG	AGT	W	S	W_S	Mediterranean oak
+ERR912236-ERR747913	TGG	AGT	W	S	W_S	
+ERR915336-ERR752932	TGG	AGT	W	S	W_S	
+ERR915337	TGG	ATT	W	I	W_I	Mediterranean oak
+ERR915338-ERR752937	TGG	AGT	W	S	W_S	
+ERR915339-ERR752940	TGG	AGT	W	S	W_S	
+ERR915340-ERR752934	TGG	AGT	W	S	W_S	
+ERR915341-ERR752939	TGG	AGT	W	S	W_S	
+ERR915342-ERR752938	TGG	AGT	W	S	W_S	
+ERR915343	TGG	AGT	W	S	W_S	Wine
+ERR915344	TGG	AGT	W	S	W_S	Wine
+ERR915345	TGG	AGT	W	S	W_S	Mediterranean oak
+ERR915347-ERR752936	TGG	AGT	W	S	W_S	
+ERR915348	TGG	AGT	W	S	W_S	North America/Japan
+ERR915349	TGG	AGT	W	S	W_S	North America/Japan
+ERR915350	TGG	AGT	W	S	W_S	North America/Japan
+ERR915351	TGG	AGT	W	S	W_S	North America/Japan
+ERR915352	TGG	AGT	W	S	W_S	North America/Japan
+ERR915353	TGG	AGT	W	S	W_S	North America/Japan
+ERR915354	TGG	AGT	W	S	W_S	North America/Japan
+ERR915355	TGG	AGT	W	S	W_S	North America/Japan
+ERR915356	TGG	AGT	W	S	W_S	North America/Japan
+ERR915357	TGG	AGT	W	S	W_S	Mediterranean oak
+ERR915358	TGG	AGT	W	S	W_S	Mediterranean oak
+ERR915359-ERR912233	TGG	AGT	W	S	W_S	
+GAL	TGG	AGT	W	S	W_S	13. African palm wine
+GAP	TGG	AGT	W	S	W_S	1. Wine/European
+GAS	TGG	AGT	W	S	W_S	
+GAT	CGG	AGT	R	S	R_S	
+GAV	TGG	ATT	W	I	W_I	M3. Mosaic region 3
+MAA	CGG	AGT	R	S	R_S	M2. Mosaic region 2
+MAB	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+MAL	TGG	AGT	W	S	W_S	19. Malaysian
+SIPKYA	TGG	AGT	W	S	W_S	
+SRR12403962	TGG	AGT	W	S	W_S	
+SRR12403963	TGG	AGT	W	S	W_S	
+SRR12403964	CGG	AGT	R	S	R_S	
+SRR12403965	TGG	AGT	W	S	W_S	
+SRR12403966	TGG	AGT	W	S	W_S	
+SRR12403967	TGG	AGT	W	S	W_S	
+SRR12403968	TGG	AGT	W	S	W_S	
+SRR12403969	TGG	AGT	W	S	W_S	
+SRR12403970	TGG	AGT	W	S	W_S	
+SRR12403971	TGG	AGT	W	S	W_S	
+SRR12403972	TGG	AGT	W	S	W_S	
+SRR12403973	TGG	AGT	W	S	W_S	
+SRR12403974	CGG	AGT	R	S	R_S	
+SRR12403975	TGG	AGT	W	S	W_S	
+SRR12403976	YGG	AGT	W-R	S	W-R_S	
+SRR12403977	CGG	AGT	R	S	R_S	
+SRR12403978	TGG	AGT	W	S	W_S	
+SRR12403979	YGG	AGT	W-R	S	W-R_S	
+SRR12403980	TGG	AGT	W	S	W_S	
+SRR12403981	TGG	AGT	W	S	W_S	
+SRR12403982	TGG	AGT	W	S	W_S	
+SRR12403983	TGG	AGT	W	S	W_S	
+SRR12403984	TGG	AGT	W	S	W_S	
+SRR12403985	TGG	AGT	W	S	W_S	
+SRR12403986	TGG	AGT	W	S	W_S	
+SRR12403987	TGG	AGT	W	S	W_S	
+SRR12403988	TGG	AGT	W	S	W_S	
+SRR12403989	TGG	AGT	W	S	W_S	
+SRR12403990	TGG	AGT	W	S	W_S	
+SRR12403991	CGG	AGT	R	S	R_S	
+SRR12403992	TGG	AGT	W	S	W_S	
+SRR12403993	TGG	AGT	W	S	W_S	
+SRR12403994	TGG	AGT	W	S	W_S	
+SRR12403995	TGG	AGT	W	S	W_S	
+SRR12403996	TGG	AGT	W	S	W_S	
+SRR12403997	TGG	AGT	W	S	W_S	
+SRR12403998	TGG	AGT	W	S	W_S	
+SRR12403999	TGG	AGT	W	S	W_S	
+SRR12404000	TGG	AGT	W	S	W_S	
+SRR12404001	TGG	AGT	W	S	W_S	
+SRR12404002	TGG	AGT	W	S	W_S	
+SRR12404003	TGG	AGT	W	S	W_S	
+SRR12404004	TGG	AGT	W	S	W_S	
+SRR12404005	YGG	AGT	W-R	S	W-R_S	
+SRR12404006	TGG	AGT	W	S	W_S	
+SRR12404007	TGG	AGT	W	S	W_S	
+SRR12404008	TGG	AGT	W	S	W_S	
+SRR12404009	TGG	AGT	W	S	W_S	
+SRR12404010	TGG	AGT	W	S	W_S	
+SRR12404011	TGG	AGT	W	S	W_S	
+SRR12404012	TGG	AGT	W	S	W_S	
+SRR12404013	TGG	AGT	W	S	W_S	
+SRR1300152	TGG	AGT	W	S	W_S	
+SRR1300153	TGG	AGT	W	S	W_S	
+SRR1300154	TGG	AGT	W	S	W_S	
+SRR1300155	TGG	AGT	W	S	W_S	
+SRR1300156	CGG	AGT	R	S	R_S	
+SRR1300157	CGG	AGT	R	S	R_S	
+SRR1300158	TGG	AGT	W	S	W_S	
+SRR1300159	CGG	AGT	R	S	R_S	
+SRR1300160	TGG	AGT	W	S	W_S	
+SRR1300161	TGG	AGT	W	S	W_S	
+SRR1300162	TGG	AGT	W	S	W_S	
+SRR1300163	YGG	AGT	W-R	S	W-R_S	
+SRR1300167	TGG	AGT	W	S	W_S	
+SRR1300168	TGG	AGT	W	S	W_S	
+SRR1300170	TGG	AGT	W	S	W_S	
+SRR1300172	TGG	AGT	W	S	W_S	
+SRR1300174	TGG	AGT	W	S	W_S	
+SRR1300175	TGG	AGT	W	S	W_S	
+SRR1300179	TGG	AGT	W	S	W_S	
+SRR1300180	TGG	AGT	W	S	W_S	
+SRR1300182	TGG	AGT	W	S	W_S	
+SRR1300185	TGG	AGT	W	S	W_S	
+SRR1300186	TGG	AGT	W	S	W_S	
+SRR1300187	TGG	AGT	W	S	W_S	
+SRR1300188	TGG	AGT	W	S	W_S	
+SRR1300189	TGG	AGT	W	S	W_S	
+SRR1300190	TGG	AGT	W	S	W_S	
+SRR1300191	CGG	AGT	R	S	R_S	
+SRR1300192	TGG	AGT	W	S	W_S	
+SRR1300193	TGG	AGT	W	S	W_S	
+SRR1300194	TGG	AGT	W	S	W_S	
+SRR1300195	TGG	AGT	W	S	W_S	
+SRR1300196	TGG	AGT	W	S	W_S	
+SRR1300197	TGG	AGT	W	S	W_S	
+SRR1300198	CGG	AGT	R	S	R_S	
+SRR1300199	TGG	AGT	W	S	W_S	
+SRR1300200	YGG	AGT	W-R	S	W-R_S	
+SRR1300201	TGG	AGT	W	S	W_S	
+SRR1300202	TGG	AGT	W	S	W_S	
+SRR1300203	CGG	AGT	R	S	R_S	
+SRR13317060	TGG	AGT	W	S	W_S	
+SRR13317061	CGG	AGT	R	S	R_S	
+SRR13317062	YGG	AGT	W-R	S	W-R_S	
+SRR13317063	YGG	AGT	W-R	S	W-R_S	
+SRR13317064	TGG	AGT	W	S	W_S	
+SRR13317065	YGG	AGT	W-R	S	W-R_S	
+SRR13317066	CGG	AGT	R	S	R_S	
+SRR13317067	CGG	AGT	R	S	R_S	
+SRR13317068	CGG	AGT	R	S	R_S	
+SRR13317069	YGG	AGT	W-R	S	W-R_S	
+SRR13317070	YGG	AGT	W-R	S	W-R_S	
+SRR13317071	YGG	AGT	W-R	S	W-R_S	
+SRR13317072	YGG	AGT	W-R	S	W-R_S	
+SRR13317073	YGG	AGT	W-R	S	W-R_S	
+SRR13317074	CGG	AGT	R	S	R_S	
+SRR13317075	CGG	AGT	R	S	R_S	
+SRR13317076	CGG	AGT	R	S	R_S	
+SRR13317077	TGG	AGT	W	S	W_S	
+SRR13317078	CGG	AGT	R	S	R_S	
+SRR13317079	YGG	AGT	W-R	S	W-R_S	
+SRR13317080	CGG	AGT	R	S	R_S	
+SRR13317081	CGG	AGT	R	S	R_S	
+SRR13317082	YGG	AGT	W-R	S	W-R_S	
+SRR13317083	CGG	AGT	R	S	R_S	
+SRR13317084	YGG	AGT	W-R	S	W-R_S	
+SRR13317085	CGG	AGT	R	S	R_S	
+SRR13317086	YGG	AGT	W-R	S	W-R_S	
+SRR13317087	YGG	AGT	W-R	S	W-R_S	
+SRR13317088	CGG	AGT	R	S	R_S	
+SRR13317089	YGG	AGT	W-R	S	W-R_S	
+SRR13317090	YGG	AGT	W-R	S	W-R_S	
+SRR13317091	YGG	AGT	W-R	S	W-R_S	
+SRR13317092	YGG	AGT	W-R	S	W-R_S	
+SRR13317093	YGG	AGT	W-R	S	W-R_S	
+SRR13317094	YGG	AGT	W-R	S	W-R_S	
+SRR13317095	TGG	AGT	W	S	W_S	
+SRR13317096	CGG	AGT	R	S	R_S	
+SRR13317097	TGG	AGT	W	S	W_S	
+SRR13317098	YGG	AGT	W-R	S	W-R_S	
+SRR13317099	CGG	AGT	R	S	R_S	
+SRR13317100	CGG	AGT	R	S	R_S	
+SRR13317101	YGG	AGT	W-R	S	W-R_S	
+SRR13317102	YGG	AGT	W-R	S	W-R_S	
+SRR13317103	CGG	AGT	R	S	R_S	
+SRR13317104	YGG	AGT	W-R	S	W-R_S	
+SRR13317105	CGG	AGT	R	S	R_S	
+SRR13317106	CGG	AGT	R	S	R_S	
+SRR13317107	TGG	AGT	W	S	W_S	
+SRR13317108	TGG	AGT	W	S	W_S	
+SRR13317109	TGG	AKT	W	S-I	W_S-I	
+SRR13317110	TGG	AGT	W	S	W_S	
+SRR13317111	YGG	AGT	W-R	S	W-R_S	
+SRR13317112	TGG	AGT	W	S	W_S	
+SRR13317113	TGG	AGT	W	S	W_S	
+SRR13317114	TGG	AGT	W	S	W_S	
+SRR13317115	YGG	AGT	W-R	S	W-R_S	
+SRR13317116	YGG	AGT	W-R	S	W-R_S	
+SRR13317117	TGG	AGT	W	S	W_S	
+SRR13317118	TGG	AGT	W	S	W_S	
+SRR13317119	TGG	AGT	W	S	W_S	
+SRR13317120	TGG	AGT	W	S	W_S	
+SRR13317121	TGG	AGT	W	S	W_S	
+SRR13317122	CGG	AGT	R	S	R_S	
+SRR13317123	CGG	AGT	R	S	R_S	
+SRR13317124	CGG	AGT	R	S	R_S	
+SRR13317125	CGG	AGT	R	S	R_S	
+SRR13317126	CGG	AGT	R	S	R_S	
+SRR13317127	TGG	AGT	W	S	W_S	
+SRR13317128	TGG	AGT	W	S	W_S	
+SRR13317129	TGG	AGT	W	S	W_S	
+SRR13317130	TGG	AGT	W	S	W_S	
+SRR13317131	TGG	AGT	W	S	W_S	
+SRR13317132	TGG	AGT	W	S	W_S	
+SRR13317133	TGG	AGT	W	S	W_S	
+SRR13317134	TGG	AGT	W	S	W_S	
+SRR13317135	TGG	AGT	W	S	W_S	
+SRR13317136	TGG	AGT	W	S	W_S	
+SRR13317137	TGG	AGT	W	S	W_S	
+SRR13317138	YGG	AGT	W-R	S	W-R_S	
+SRR13317139	YGG	AGT	W-R	S	W-R_S	
+SRR13317140	YGG	AGT	W-R	S	W-R_S	
+SRR13317141	CGG	AGT	R	S	R_S	
+SRR13317142	CGG	AGT	R	S	R_S	
+SRR13317143	CGG	AGT	R	S	R_S	
+SRR13317144	CGG	AGT	R	S	R_S	
+SRR13317145	TGG	AGT	W	S	W_S	
+SRR13317146	TGG	AGT	W	S	W_S	
+SRR13317147	YGG	AGT	W-R	S	W-R_S	
+SRR13317148	YGG	AGT	W-R	S	W-R_S	
+SRR13317149	TGG	AGT	W	S	W_S	
+SRR13317150	TGG	AGT	W	S	W_S	
+SRR13317151	TGG	AGT	W	S	W_S	
+SRR13317152	YGG	AGT	W-R	S	W-R_S	
+SRR13317153	YGG	AGT	W-R	S	W-R_S	
+SRR13317154	YGG	AGT	W-R	S	W-R_S	
+SRR13317155	YGG	AGT	W-R	S	W-R_S	
+SRR13317156	YGG	AGT	W-R	S	W-R_S	
+SRR13317157	YGG	AGT	W-R	S	W-R_S	
+SRR13317158	YGG	AGT	W-R	S	W-R_S	
+SRR13317159	TGG	AGT	W	S	W_S	
+SRR13317160	TGG	AGT	W	S	W_S	
+SRR13317161	YGG	AGT	W-R	S	W-R_S	
+SRR13317162	YGG	AGT	W-R	S	W-R_S	
+SRR13317163	TGG	AGT	W	S	W_S	
+SRR13317164	TGG	AGT	W	S	W_S	
+SRR13317165	TGG	AGT	W	S	W_S	
+SRR13317166	YGG	AGT	W-R	S	W-R_S	
+SRR13317167	YGG	AGT	W-R	S	W-R_S	
+SRR13317168	YGG	AGT	W-R	S	W-R_S	
+SRR13317169	YGG	AGT	W-R	S	W-R_S	
+SRR13317170	TGG	AGT	W	S	W_S	
+SRR13317171	TGG	AGT	W	S	W_S	
+SRR13317172	CGG	AGT	R	S	R_S	
+SRR13317173	CGG	AGT	R	S	R_S	
+SRR13317174	YGG	AGT	W-R	S	W-R_S	
+SRR13317175	CGG	AGT	R	S	R_S	
+SRR13317176	YGG	AGT	W-R	S	W-R_S	
+SRR13317177	YGG	AGT	W-R	S	W-R_S	
+SRR13317178	CGG	AGT	R	S	R_S	
+SRR13317179	CGG	AGT	R	S	R_S	
+SRR13317180	CGG	AGT	R	S	R_S	
+SRR13317181	CGG	AGT	R	S	R_S	
+SRR13317182	TGG	AGT	W	S	W_S	
+SRR13317183	YGG	AGT	W-R	S	W-R_S	
+SRR13317184	CGG	AGT	R	S	R_S	
+SRR13317185	CGG	AGT	R	S	R_S	
+SRR1382193	TGG	AGT	W	S	W_S	
+SRR1382194	TGG	AGT	W	S	W_S	
+SRR1382195	TGG	AGT	W	S	W_S	
+SRR1382196	TGG	AGT	W	S	W_S	
+SRR1382197	CGG	AGT	R	S	R_S	
+SRR1382198	YGG	AGT	W-R	S	W-R_S	
+SRR1382199	TGG	AGT	W	S	W_S	
+SRR1382200	CGG	AGT	R	S	R_S	
+SRR1382201	TGG	AGT	W	S	W_S	
+SRR1382202	TGG	AGT	W	S	W_S	
+SRR1382203	TGG	AGT	W	S	W_S	
+SRR1382204	TGG	AGT	W	S	W_S	Wine
+SRR15616231	TGG	AGT	W	S	W_S	
+SRR15616232	TGG	AGT	W	S	W_S	
+SRR15616233	TGG	AGT	W	S	W_S	
+SRR15616234	TGG	AGT	W	S	W_S	
+SRR15616235	TGG	AGT	W	S	W_S	
+SRR15616236	TGG	AGT	W	S	W_S	
+SRR15616237	TGG	AGT	W	S	W_S	
+SRR15616238	TGG	AGT	W	S	W_S	
+SRR15616239	TGG	AGT	W	S	W_S	
+SRR15616240	TGG	AGT	W	S	W_S	
+SRR15616241	TGG	AGT	W	S	W_S	
+SRR15616242	TGG	AGT	W	S	W_S	
+SRR15616243	TGG	AGT	W	S	W_S	
+SRR15616244	TGG	AGT	W	S	W_S	
+SRR15616245	YGG	AGT	W-R	S	W-R_S	
+SRR15616246	CGG	AGT	R	S	R_S	
+SRR15616247	TGG	AGT	W	S	W_S	
+SRR15616248	TGG	AGT	W	S	W_S	
+SRR15616249	TGG	AGT	W	S	W_S	
+SRR15616250	TGG	AGT	W	S	W_S	
+SRR15616251	TGG	AGT	W	S	W_S	
+SRR15616252	TGG	AGT	W	S	W_S	
+SRR15616253	TGG	AGT	W	S	W_S	
+SRR15616254	TGG	AGT	W	S	W_S	
+SRR15616255	TGG	AGT	W	S	W_S	
+SRR15616256	TGG	AGT	W	S	W_S	
+SRR15616257	TGG	AGT	W	S	W_S	
+SRR15616258	TGG	AGT	W	S	W_S	
+SRR15616259	TGG	AGT	W	S	W_S	
+SRR15616260	TGG	AGT	W	S	W_S	
+SRR15616261	TGG	AGT	W	S	W_S	
+SRR15616262	TGG	AGT	W	S	W_S	
+SRR15616263	TGG	AGT	W	S	W_S	
+SRR15616264	TGG	AGT	W	S	W_S	
+SRR15616265	TGG	AGT	W	S	W_S	
+SRR15616266	TGG	AGT	W	S	W_S	
+SRR15616267	TGG	AGT	W	S	W_S	
+SRR15616268	TGG	AGT	W	S	W_S	
+SRR15616269	TGG	AGT	W	S	W_S	
+SRR15616270	TGG	AGT	W	S	W_S	
+SRR15616271	TGG	AGT	W	S	W_S	
+SRR15616272	TGG	AGT	W	S	W_S	
+SRR15616273	TGG	AGT	W	S	W_S	
+SRR15616274	TGG	AGT	W	S	W_S	
+SRR15616275	TGG	AGT	W	S	W_S	
+SRR15616276	TGG	AGT	W	S	W_S	
+SRR15616277	TGG	AGT	W	S	W_S	
+SRR15616278	TGG	AGT	W	S	W_S	
+SRR15616279	TGG	AGT	W	S	W_S	
+SRR15616280	TGG	AGT	W	S	W_S	
+SRR15616281	TGG	AGT	W	S	W_S	
+SRR15616282	TGG	AGT	W	S	W_S	
+SRR15616283	TGG	AGT	W	S	W_S	
+SRR15616284	TGG	AGT	W	S	W_S	
+SRR15616285	TGG	AGT	W	S	W_S	
+SRR15616286	TGG	AGT	W	S	W_S	
+SRR15616287	TGG	AGT	W	S	W_S	
+SRR15616288	CGG	AGT	R	S	R_S	
+SRR15616289	TGG	AGT	W	S	W_S	
+SRR15616290	TGG	AGT	W	S	W_S	
+SRR15616291	TGG	AGT	W	S	W_S	
+SRR15616292	TGG	AGT	W	S	W_S	
+SRR15616293	TGG	AGT	W	S	W_S	
+SRR15616294	TGG	AGT	W	S	W_S	
+SRR15616295	TGG	AGT	W	S	W_S	
+SRR15616296	TGG	AGT	W	S	W_S	
+SRR15616297	TGG	AGT	W	S	W_S	
+SRR15616298	TGG	AGT	W	S	W_S	
+SRR15616299	TGG	AGT	W	S	W_S	
+SRR15616300	YGG	AGT	W-R	S	W-R_S	
+SRR15616301	YGG	AGT	W-R	S	W-R_S	
+SRR15616302	YGG	AGT	W-R	S	W-R_S	
+SRR15616303	YGG	AGT	W-R	S	W-R_S	
+SRR15616304	TGG	AGT	W	S	W_S	
+SRR15616305	TGG	AGT	W	S	W_S	
+SRR15616306	TGG	AGT	W	S	W_S	
+SRR15616307	TGG	AGT	W	S	W_S	
+SRR15616308	CGG	AGT	R	S	R_S	
+SRR15616309	TGG	AGT	W	S	W_S	
+SRR15616310	TGG	AGT	W	S	W_S	
+SRR15616311	TGG	AGT	W	S	W_S	
+SRR15616312	TGG	AGT	W	S	W_S	
+SRR15616313	TGG	AGT	W	S	W_S	
+SRR15616314	TGG	AGT	W	S	W_S	
+SRR15616315	TGG	AGT	W	S	W_S	
+SRR15616316	TGG	AGT	W	S	W_S	
+SRR15616317	TGG	AGT	W	S	W_S	
+SRR15616318	TGG	AGT	W	S	W_S	
+SRR15616319	TGG	AGT	W	S	W_S	
+SRR15616320	TGG	AGT	W	S	W_S	
+SRR15616321	TGG	AGT	W	S	W_S	
+SRR15616322	TGG	AGT	W	S	W_S	
+SRR15616323	TGG	AGT	W	S	W_S	
+SRR15616324	TGG	AGT	W	S	W_S	
+SRR15616325	TGG	AGT	W	S	W_S	
+SRR15616326	TGG	AGT	W	S	W_S	
+SRR15616327	TGG	AGT	W	S	W_S	
+SRR15616328	TGG	AGT	W	S	W_S	
+SRR15616329	TGG	AGT	W	S	W_S	
+SRR15616330	TGG	AGT	W	S	W_S	
+SRR15616331	TGG	AGT	W	S	W_S	
+SRR15616332	TGG	AGT	W	S	W_S	
+SRR15616333	TGG	AGT	W	S	W_S	
+SRR15616334	TGG	AGT	W	S	W_S	
+SRR15616335	TGG	AGT	W	S	W_S	
+SRR15616336	TGG	AGT	W	S	W_S	
+SRR15616337	TGG	AGT	W	S	W_S	
+SRR15616338	TGG	AGT	W	S	W_S	
+SRR15616339	TGG	AGT	W	S	W_S	
+SRR15616340	TGG	AGT	W	S	W_S	
+SRR15616341	TGG	AGT	W	S	W_S	
+SRR15616342	TGG	AGT	W	S	W_S	
+SRR15616343	TGG	AGT	W	S	W_S	
+SRR15616344	TGG	AGT	W	S	W_S	
+SRR15616345	TGG	AGT	W	S	W_S	
+SRR15616346	TGG	AGT	W	S	W_S	
+SRR15616347	TGG	AGT	W	S	W_S	
+SRR15616348	TGG	AGT	W	S	W_S	
+SRR15616349	TGG	AGT	W	S	W_S	
+SRR15616350	TGG	AGT	W	S	W_S	
+SRR15616351	TGG	AGT	W	S	W_S	
+SRR1565752	CGG	AGT	R	S	R_S	
+SRR1566382	TGG	AGT	W	S	W_S	
+SRR1566610	TGG	AGT	W	S	W_S	
+SRR1567392	TGG	ATT	W	I	W_I	
+SRR1568151	TGG	AGT	W	S	W_S	
+SRR1568237	TGG	AGT	W	S	W_S	
+SRR1568238	TGG	AGT	W	S	W_S	
+SRR1568239	TGG	AGT	W	S	W_S	
+SRR1568240	TGG	AGT	W	S	W_S	
+SRR1569597	TGG	AGT	W	S	W_S	
+SRR1569660	YGG	AGT	W-R	S	W-R_S	
+SRR1569694	TGG	ATT	W	I	W_I	
+SRR1569739	TGG	ATT	W	I	W_I	
+SRR1569760	TGG	AGT	W	S	W_S	
+SRR1569791	CGG	AGT	R	S	R_S	
+SRR1569870	TGG	ATT	W	I	W_I	
+SRR1569895	TGG	ATT	W	I	W_I	
+SRR1569897	TGG	ATT	W	I	W_I	
+SRR1569900	TGG	ATT	W	I	W_I	
+SRR1569902	CGG	AGT	R	S	R_S	
+SRR1570790	TGG	ATT	W	I	W_I	
+SRR1570792	TGG	ATT	W	I	W_I	
+SRR1570798	TGG	ATT	W	I	W_I	
+SRR1570800	TGG	ATT	W	I	W_I	
+SRR19238640	TGG	AGT	W	S	W_S	
+SRR19238641	TGG	AGT	W	S	W_S	
+SRR19238642	TGG	AGT	W	S	W_S	
+SRR19238643	TGG	AGT	W	S	W_S	
+SRR19238644	TGG	AGT	W	S	W_S	
+SRR19238645	TGG	AGT	W	S	W_S	
+SRR19238646	TGG	AGT	W	S	W_S	
+SRR19238647	TGG	AGT	W	S	W_S	
+SRR19238648	TGG	AGT	W	S	W_S	
+SRR19238649	TGG	AGT	W	S	W_S	
+SRR19238650	TGG	AGT	W	S	W_S	
+SRR19238651	TGG	AGT	W	S	W_S	
+SRR19238652	TGG	AGT	W	S	W_S	
+SRR19238653	TGG	AGT	W	S	W_S	
+SRR19238654	TGG	AGT	W	S	W_S	
+SRR19238655	TGG	AGT	W	S	W_S	
+SRR19238656	TGG	AGT	W	S	W_S	
+SRR19238657	TGG	AGT	W	S	W_S	
+SRR19238658	TGG	AGT	W	S	W_S	
+SRR19238659	TGG	AGT	W	S	W_S	
+SRR19238660	TGG	AGT	W	S	W_S	
+SRR19238661	TGG	AGT	W	S	W_S	
+SRR19238662	TGG	AGT	W	S	W_S	
+SRR19238663	TGG	AGT	W	S	W_S	
+SRR19238664	TGG	AGT	W	S	W_S	
+SRR19238665	TGG	AGT	W	S	W_S	
+SRR19238666	TGG	AGT	W	S	W_S	
+SRR19238667	TGG	AGT	W	S	W_S	
+SRR19238668	TGG	AGT	W	S	W_S	
+SRR19238669	TGG	AGT	W	S	W_S	
+SRR19238670	TGG	AGT	W	S	W_S	
+SRR19238671	TGG	AGT	W	S	W_S	
+SRR19238672	TGG	AGT	W	S	W_S	
+SRR19238673	TGG	AGT	W	S	W_S	
+SRR19238674	TGG	AGT	W	S	W_S	
+SRR19238675	TGG	AGT	W	S	W_S	
+SRR19238676	YGG	AGT	W-R	S	W-R_S	
+SRR19238677	TGG	AGT	W	S	W_S	
+SRR19238678	TGG	AGT	W	S	W_S	
+SRR19238679	TGG	AGT	W	S	W_S	
+SRR19238680	TGG	AGT	W	S	W_S	
+SRR19238681	TGG	AGT	W	S	W_S	
+SRR19238682	TGG	AGT	W	S	W_S	
+SRR19238683	TGG	AGT	W	S	W_S	
+SRR19238684	TGG	AGT	W	S	W_S	
+SRR19238685	YGG	AGT	W-R	S	W-R_S	
+SRR19238686	TGG	AGT	W	S	W_S	
+SRR19238687	TGG	AGT	W	S	W_S	
+SRR19238688	TGG	AGT	W	S	W_S	
+SRR19238689	TGG	AGT	W	S	W_S	
+SRR19238690	TGG	AGT	W	S	W_S	
+SRR19238691	TGG	AGT	W	S	W_S	
+SRR19238692	TGG	AGT	W	S	W_S	
+SRR19238693	TGG	AGT	W	S	W_S	
+SRR19238694	TGG	AGT	W	S	W_S	
+SRR19238695	TGG	AGT	W	S	W_S	
+SRR19238696	TGG	AGT	W	S	W_S	
+SRR19238697	TGG	AGT	W	S	W_S	
+SRR19238698	TGG	AGT	W	S	W_S	
+SRR19238699	TGG	AGT	W	S	W_S	
+SRR19238700	TGG	AGT	W	S	W_S	
+SRR19238701	TGG	AGT	W	S	W_S	
+SRR19238702	TGG	AGT	W	S	W_S	
+SRR19238703	TGG	AGT	W	S	W_S	
+SRR19238704	TGG	AGT	W	S	W_S	
+SRR19238705	TGG	AGT	W	S	W_S	
+SRR19238706	TGG	AGT	W	S	W_S	
+SRR19238707	TGG	AGT	W	S	W_S	
+SRR19238708	TGG	AGT	W	S	W_S	
+SRR19238709	TGG	AGT	W	S	W_S	
+SRR19238710	TGG	AGT	W	S	W_S	
+SRR19238711	TGG	AGT	W	S	W_S	
+SRR19238712	TGG	AGT	W	S	W_S	
+SRR19238713	TGG	AGT	W	S	W_S	
+SRR19238714	TGG	AGT	W	S	W_S	
+SRR2062441	TGG	AGT	W	S	W_S	
+SRR2062444	TGG	AGT	W	S	W_S	
+SRR2062446	TGG	AGT	W	S	W_S	
+SRR2062447	TGG	AGT	W	S	W_S	
+SRR2062448	TGG	AGT	W	S	W_S	
+SRR2155604	TGG	ANT	W	-	W_-	
+SRR25064245	TGG	AGT	W	S	W_S	
+SRR25064246	TGG	AGT	W	S	W_S	
+SRR25064247	TGG	AGT	W	S	W_S	
+SRR25064248	YGG	AGT	W-R	S	W-R_S	
+SRR25064249	TGG	AGT	W	S	W_S	
+SRR25064250	TGG	AGT	W	S	W_S	
+SRR25064251	TGG	AGT	W	S	W_S	
+SRR25064252	TGG	AGT	W	S	W_S	
+SRR25064253	TGG	AGT	W	S	W_S	
+SRR25064254	TGG	AGT	W	S	W_S	
+SRR25064255	TGG	AGT	W	S	W_S	
+SRR25064256	TGG	AGT	W	S	W_S	
+SRR25064257	TGG	AGT	W	S	W_S	
+SRR25064258	TGG	AGT	W	S	W_S	
+SRR25064259	TGG	AGT	W	S	W_S	
+SRR25064260	YGG	AGT	W-R	S	W-R_S	
+SRR25064261	TGG	AGT	W	S	W_S	
+SRR25064262	TGG	AGT	W	S	W_S	
+SRR25064263	TGG	AGT	W	S	W_S	
+SRR25064264	TGG	AGT	W	S	W_S	
+SRR25064265	TGG	AGT	W	S	W_S	
+SRR25064266	TGG	AGT	W	S	W_S	
+SRR25064267	TGG	AGT	W	S	W_S	
+SRR25064268	TGG	AGT	W	S	W_S	
+SRR25064269	TGG	AGT	W	S	W_S	
+SRR25064270	TGG	AGT	W	S	W_S	
+SRR25064271	TGG	AGT	W	S	W_S	
+SRR25064272	TGG	AGT	W	S	W_S	
+SRR25064273	TGG	AGT	W	S	W_S	
+SRR25064274	TGG	AGT	W	S	W_S	
+SRR25064275	TGG	AGT	W	S	W_S	
+SRR25064276	TGG	AGT	W	S	W_S	
+SRR25064277	TGG	AGT	W	S	W_S	
+SRR25064278	TGG	AGT	W	S	W_S	
+SRR25064279	TGG	AGT	W	S	W_S	
+SRR25064280	TGG	AGT	W	S	W_S	
+SRR25064281	TGG	AGT	W	S	W_S	
+SRR25064282	TGG	AGT	W	S	W_S	
+SRR25064283	TGG	AGT	W	S	W_S	
+SRR25064284	TGG	AGT	W	S	W_S	
+SRR25064285	TGG	AGT	W	S	W_S	
+SRR25064286	TGG	AGT	W	S	W_S	
+SRR25064287	YGG	AGT	W-R	S	W-R_S	
+SRR25064288	TGG	AGT	W	S	W_S	
+SRR25064289	TGG	AGT	W	S	W_S	
+SRR25064290	TGG	AGT	W	S	W_S	
+SRR25064291	TGG	AGT	W	S	W_S	
+SRR25064292	TGG	AGT	W	S	W_S	
+SRR25064293	TGG	AGT	W	S	W_S	
+SRR25064294	TGG	AGT	W	S	W_S	
+SRR25064295	TGG	AGT	W	S	W_S	
+SRR25064296	TGG	AGT	W	S	W_S	
+SRR25064297	TGG	AGT	W	S	W_S	
+SRR25064298	TGG	AGT	W	S	W_S	
+SRR25064299	TGG	AGT	W	S	W_S	
+SRR25064300	TGG	AGT	W	S	W_S	
+SRR25064301	TGG	AGT	W	S	W_S	
+SRR25064302	TGG	AGT	W	S	W_S	
+SRR25064303	TGG	AGT	W	S	W_S	
+SRR25064304	TGG	AGT	W	S	W_S	
+SRR25064305	TGG	AGT	W	S	W_S	
+SRR25064306	TGG	AGT	W	S	W_S	
+SRR25064307	TGG	AGT	W	S	W_S	
+SRR25064308	TGG	AGT	W	S	W_S	
+SRR25064309	TGG	AGT	W	S	W_S	
+SRR25064311	TGG	AGT	W	S	W_S	
+SRR25064312	TGG	AGT	W	S	W_S	
+SRR25064313	TGG	AGT	W	S	W_S	
+SRR25064314	TGG	AGT	W	S	W_S	
+SRR25064315	TGG	AGT	W	S	W_S	
+SRR25064316	TGG	AGT	W	S	W_S	
+SRR25064317	TGG	AGT	W	S	W_S	
+SRR25064318	TGG	AGT	W	S	W_S	
+SRR25064319	TGG	AGT	W	S	W_S	
+SRR25064320	TGG	AGT	W	S	W_S	
+SRR25064321	YGG	AGT	W-R	S	W-R_S	
+SRR25064322	TGG	AGT	W	S	W_S	
+SRR25064323	YGG	AGT	W-R	S	W-R_S	
+SRR25064324	YGG	AGT	W-R	S	W-R_S	
+SRR25064325	YGG	AGT	W-R	S	W-R_S	
+SRR25064326	YGG	AGT	W-R	S	W-R_S	
+SRR25064327	YGG	AGT	W-R	S	W-R_S	
+SRR25064328	TGG	AGT	W	S	W_S	
+SRR25064329	CGG	AGT	R	S	R_S	
+SRR25064330	TGG	AGT	W	S	W_S	
+SRR25064331	TGG	AGT	W	S	W_S	
+SRR25064332	TGG	AGT	W	S	W_S	
+SRR25064334	TGG	AGT	W	S	W_S	
+SRR25064335	TGG	AGT	W	S	W_S	
+SRR25064336	TGG	AGT	W	S	W_S	
+SRR25064337	TGG	AGT	W	S	W_S	
+SRR25064338	TGG	AGT	W	S	W_S	
+SRR25064339	TGG	AGT	W	S	W_S	
+SRR25064340	TGG	AGT	W	S	W_S	
+SRR25064341	TGG	AGT	W	S	W_S	
+SRR25064342	TGG	AGT	W	S	W_S	
+SRR25064343	TGG	AGT	W	S	W_S	
+SRR25064344	TGG	AGT	W	S	W_S	
+SRR25064345	TGG	AGT	W	S	W_S	
+SRR25064346	TGG	AGT	W	S	W_S	
+SRR25064347	TGG	AGT	W	S	W_S	
+SRR25064348	TGG	AGT	W	S	W_S	
+SRR25064349	TGG	AGT	W	S	W_S	
+SRR25064350	TGG	AGT	W	S	W_S	
+SRR25064351	TGG	AGT	W	S	W_S	
+SRR25064352	TGG	AGT	W	S	W_S	
+SRR25064353	TGG	AGT	W	S	W_S	
+SRR25064354	TGG	AGT	W	S	W_S	
+SRR25064355	YGG	AGT	W-R	S	W-R_S	
+SRR25064356	TGG	AGT	W	S	W_S	
+SRR25064357	TGG	AGT	W	S	W_S	
+SRR25064358	TGG	AGT	W	S	W_S	
+SRR25064359	TGG	AGT	W	S	W_S	
+SRR25064360	TGG	AGT	W	S	W_S	
+SRR25064361	TGG	AGT	W	S	W_S	
+SRR25064362	TGG	AGT	W	S	W_S	
+SRR25064363	TGG	AGT	W	S	W_S	
+SRR25064364	TGG	AKT	W	S-I	W_S-I	
+SRR25064365	TGG	AGT	W	S	W_S	
+SRR25064366	TGG	AGT	W	S	W_S	
+SRR25064367	TGG	AGT	W	S	W_S	
+SRR25064368	TGG	AGT	W	S	W_S	
+SRR25064369	TGG	AGT	W	S	W_S	
+SRR25064370	TGG	AGT	W	S	W_S	
+SRR25064371	TGG	AGT	W	S	W_S	
+SRR25064372	TGG	AGT	W	S	W_S	
+SRR25064373	TGG	AGT	W	S	W_S	
+SRR25064374	TGG	AGT	W	S	W_S	
+SRR25064375	YGG	AGT	W-R	S	W-R_S	
+SRR25064376	TGG	AGT	W	S	W_S	
+SRR25064377	TGG	AGT	W	S	W_S	
+SRR25064378	TGG	AGT	W	S	W_S	
+SRR25064379	TGG	AGT	W	S	W_S	
+SRR25064380	TGG	AGT	W	S	W_S	
+SRR25064381	TGG	AGT	W	S	W_S	
+SRR25064382	TGG	AGT	W	S	W_S	
+SRR25064383	TGG	AGT	W	S	W_S	
+SRR25064384	TGG	AGT	W	S	W_S	
+SRR25064385	TGG	AGT	W	S	W_S	
+SRR25064386	TGG	AGT	W	S	W_S	
+SRR25064387	TGG	AGT	W	S	W_S	
+SRR25064388	TGG	AGT	W	S	W_S	
+SRR25064389	TGG	AGT	W	S	W_S	
+SRR25064390	TGG	AGT	W	S	W_S	
+SRR25064391	TGG	AGT	W	S	W_S	
+SRR25064392	TGG	AGT	W	S	W_S	
+SRR25064393	YGG	AGT	W-R	S	W-R_S	
+SRR25064394	YGG	AGT	W-R	S	W-R_S	
+SRR25064395	YGG	AGT	W-R	S	W-R_S	
+SRR25064396	TGG	AGT	W	S	W_S	
+SRR25064397	TGG	AGT	W	S	W_S	
+SRR25064398	TGG	AGT	W	S	W_S	
+SRR25064399	TGG	AGT	W	S	W_S	
+SRR25064400	YGG	AGT	W-R	S	W-R_S	
+SRR25064401	TGG	AGT	W	S	W_S	
+SRR25064402	YGG	AGT	W-R	S	W-R_S	
+SRR25064403	TGG	AGT	W	S	W_S	
+SRR25064404	TGG	AGT	W	S	W_S	
+SRR25064405	TGG	AGT	W	S	W_S	
+SRR25064406	TGG	AGT	W	S	W_S	
+SRR25064407	TGG	AGT	W	S	W_S	
+SRR25064408	TGG	AGT	W	S	W_S	
+SRR25064409	TGG	AGT	W	S	W_S	
+SRR25064410	TGG	AGT	W	S	W_S	
+SRR25064411	TGG	AGT	W	S	W_S	
+SRR25064412	TGG	AGT	W	S	W_S	
+SRR25064413	TGG	AGT	W	S	W_S	
+SRR25064414	YGG	AGT	W-R	S	W-R_S	
+SRR25064415	YGG	AGT	W-R	S	W-R_S	
+SRR25064416	TGG	AGT	W	S	W_S	
+SRR25064417	TGG	AGT	W	S	W_S	
+SRR25064418	YGG	AGT	W-R	S	W-R_S	
+SRR25064419	TGG	AGT	W	S	W_S	
+SRR25064420	TGG	AGT	W	S	W_S	
+SRR25064421	TGG	AGT	W	S	W_S	
+SRR25064422	TGG	AGT	W	S	W_S	
+SRR25064423	TGG	AGT	W	S	W_S	
+SRR25064424	TGG	AGT	W	S	W_S	
+SRR25064425	TGG	AGT	W	S	W_S	
+SRR25064426	TGG	AGT	W	S	W_S	
+SRR25064427	TGG	AGT	W	S	W_S	
+SRR25064428	TGG	AGT	W	S	W_S	
+SRR25064429	TGG	AGT	W	S	W_S	
+SRR25064430	TGG	AGT	W	S	W_S	
+SRR25064431	TGG	AGT	W	S	W_S	
+SRR25064432	TGG	AGT	W	S	W_S	
+SRR25064433	TGG	AGT	W	S	W_S	
+SRR25064434	TGG	AGT	W	S	W_S	
+SRR25064435	TGG	AGT	W	S	W_S	
+SRR25064436	TGG	AGT	W	S	W_S	
+SRR25064437	TGG	AGT	W	S	W_S	
+SRR25064438	TGG	AGT	W	S	W_S	
+SRR25064439	TGG	AGT	W	S	W_S	
+SRR25064440	TGG	AGT	W	S	W_S	
+SRR25064441	TGG	AGT	W	S	W_S	
+SRR25064442	TGG	AGT	W	S	W_S	
+SRR25064443	TGG	AGT	W	S	W_S	
+SRR25064444	TGG	AGT	W	S	W_S	
+SRR25064445	TGG	AGT	W	S	W_S	
+SRR25064446	TGG	AGT	W	S	W_S	
+SRR25064447	TGG	AGT	W	S	W_S	
+SRR25064448	TGG	AGT	W	S	W_S	
+SRR25064449	TGG	AGT	W	S	W_S	
+SRR25064450	TGG	AGT	W	S	W_S	
+SRR25064451	TGG	AGT	W	S	W_S	
+SRR25064452	TGG	AGT	W	S	W_S	
+SRR25064453	TGG	AGT	W	S	W_S	
+SRR25064454	TGG	AGT	W	S	W_S	
+SRR25064455	TGG	AGT	W	S	W_S	
+SRR25064456	TGG	AGT	W	S	W_S	
+SRR25064457	TGG	AGT	W	S	W_S	
+SRR25064458	TGG	AGT	W	S	W_S	
+SRR25064459	TGG	AGT	W	S	W_S	
+SRR25064460	TGG	AGT	W	S	W_S	
+SRR25064461	TGG	AGT	W	S	W_S	
+SRR25064462	TGG	AGT	W	S	W_S	
+SRR25064463	TGG	AGT	W	S	W_S	
+SRR25064464	TGG	AGT	W	S	W_S	
+SRR25064465	TGG	AGT	W	S	W_S	
+SRR25064466	TGG	AGT	W	S	W_S	
+SRR25064467	TGG	AGT	W	S	W_S	
+SRR25064468	TGG	AGT	W	S	W_S	
+SRR25064469	TGG	AGT	W	S	W_S	
+SRR25064470	TGG	AGT	W	S	W_S	
+SRR25064471	TGG	AGT	W	S	W_S	
+SRR25064472	TGG	AGT	W	S	W_S	
+SRR25064473	TGG	AGT	W	S	W_S	
+SRR25064474	TGG	AGT	W	S	W_S	
+SRR25064475	TGG	AGT	W	S	W_S	
+SRR25064476	TGG	AGT	W	S	W_S	
+SRR25064477	TGG	AGT	W	S	W_S	
+SRR25064478	TGG	AGT	W	S	W_S	
+SRR25064479	TGG	AGT	W	S	W_S	
+SRR25064480	TGG	AGT	W	S	W_S	
+SRR25064481	TGG	AGT	W	S	W_S	
+SRR25064482	TGG	AGT	W	S	W_S	
+SRR25064483	TGG	AGT	W	S	W_S	
+SRR25064484	TGG	AGT	W	S	W_S	
+SRR25064485	TGG	AGT	W	S	W_S	
+SRR25064486	TGG	AGT	W	S	W_S	
+SRR25064487	TGG	AGT	W	S	W_S	
+SRR25064488	TGG	AGT	W	S	W_S	
+SRR25064489	TGG	AGT	W	S	W_S	
+SRR25064490	TGG	AGT	W	S	W_S	
+SRR25064491	TGG	AGT	W	S	W_S	
+SRR25064492	TGG	AGT	W	S	W_S	
+SRR25064494	TGG	AGT	W	S	W_S	
+SRR25064495	TGG	AGT	W	S	W_S	
+SRR25064496	TGG	AGT	W	S	W_S	
+SRR25064497	TGG	AGT	W	S	W_S	
+SRR25064498	TGG	AGT	W	S	W_S	
+SRR25064499	TGG	AKT	W	S-I	W_S-I	
+SRR25064500	TGG	AGT	W	S	W_S	
+SRR25064501	TGG	AGT	W	S	W_S	
+SRR25064502	TGG	AGT	W	S	W_S	
+SRR25064503	TGG	AGT	W	S	W_S	
+SRR25064504	TGG	AGT	W	S	W_S	
+SRR25064505	TGG	AGT	W	S	W_S	
+SRR25064506	TGG	AGT	W	S	W_S	
+SRR25064507	TGG	AGT	W	S	W_S	
+SRR25064508	TGG	AGT	W	S	W_S	
+SRR25064509	TGG	AGT	W	S	W_S	
+SRR25064510	TGG	AGT	W	S	W_S	
+SRR25064511	TGG	AGT	W	S	W_S	
+SRR25064512	TGG	AGT	W	S	W_S	
+SRR25064513	TGG	AGT	W	S	W_S	
+SRR25064514	TGG	AGT	W	S	W_S	
+SRR25064515	TGG	AGT	W	S	W_S	
+SRR25064516	TGG	AGT	W	S	W_S	
+SRR25064517	TGG	AGT	W	S	W_S	
+SRR25064518	TGG	AGT	W	S	W_S	
+SRR25064519	TGG	AGT	W	S	W_S	
+SRR25064520	TGG	AGT	W	S	W_S	
+SRR25064521	YGG	AGT	W-R	S	W-R_S	
+SRR25064522	TGG	AGT	W	S	W_S	
+SRR25064523	TGG	AGT	W	S	W_S	
+SRR25064524	TGG	AGT	W	S	W_S	
+SRR25064525	TGG	AGT	W	S	W_S	
+SRR25064526	YGG	AGT	W-R	S	W-R_S	
+SRR25064527	CGG	AGT	R	S	R_S	
+SRR25064528	TGG	AGT	W	S	W_S	
+SRR25064529	TGG	AGT	W	S	W_S	
+SRR25064530	TGG	AGT	W	S	W_S	
+SRR25064531	TGG	AGT	W	S	W_S	
+SRR25064532	TGG	AGT	W	S	W_S	
+SRR25064533	TGG	AGT	W	S	W_S	
+SRR25064534	TGG	AGT	W	S	W_S	
+SRR25064535	TGG	AGT	W	S	W_S	
+SRR25064536	TGG	AGT	W	S	W_S	
+SRR25064537	YGG	AGT	W-R	S	W-R_S	
+SRR25064538	TGG	AGT	W	S	W_S	
+SRR25064539	TGG	AGT	W	S	W_S	
+SRR25064540	TGG	AGT	W	S	W_S	
+SRR25064541	YGG	AGT	W-R	S	W-R_S	
+SRR25064542	YGG	AGT	W-R	S	W-R_S	
+SRR25064543	TGG	AGT	W	S	W_S	
+SRR25064544	TGG	AGT	W	S	W_S	
+SRR25064545	TGG	AGT	W	S	W_S	
+SRR25064546	TGG	AGT	W	S	W_S	
+SRR25064547	TGG	AGT	W	S	W_S	
+SRR25064548	YGG	AGT	W-R	S	W-R_S	
+SRR25064549	TGG	AGT	W	S	W_S	
+SRR25064550	TGG	AGT	W	S	W_S	
+SRR25064551	TGG	AGT	W	S	W_S	
+SRR25064552	YGG	AGT	W-R	S	W-R_S	
+SRR25064553	TGG	AGT	W	S	W_S	
+SRR25064554	TGG	AGT	W	S	W_S	
+SRR25064555	TGG	AGT	W	S	W_S	
+SRR25064557	TGG	AGT	W	S	W_S	
+SRR25064558	YGG	AKT	W-R	S-I	W-R_S-I	
+SRR25064559	TGG	AGT	W	S	W_S	
+SRR25064560	YGG	AGT	W-R	S	W-R_S	
+SRR25064561	TGG	AKT	W	S-I	W_S-I	
+SRR25064562	TGG	AKT	W	S-I	W_S-I	
+SRR25064563	TGG	AGT	W	S	W_S	
+SRR25064564	TGG	AGT	W	S	W_S	
+SRR25064565	TGG	AGT	W	S	W_S	
+SRR25064566	TGG	AGT	W	S	W_S	
+SRR25064567	TGG	AGT	W	S	W_S	
+SRR25064568	TGG	AGT	W	S	W_S	
+SRR25064569	TGG	AGT	W	S	W_S	
+SRR25064570	TGG	AGT	W	S	W_S	
+SRR25064571	TGG	AGT	W	S	W_S	
+SRR25064572	TGG	AGT	W	S	W_S	
+SRR25064573	TGG	AGT	W	S	W_S	
+SRR25064574	TGG	AGT	W	S	W_S	
+SRR25064575	TGG	AGT	W	S	W_S	
+SRR25064576	TGG	AGT	W	S	W_S	
+SRR25064577	TGG	AGT	W	S	W_S	
+SRR25064578	TGG	AGT	W	S	W_S	
+SRR25064579	TGG	AGT	W	S	W_S	
+SRR25064580	TGG	AGT	W	S	W_S	
+SRR25064581	TGG	AGT	W	S	W_S	
+SRR25064582	TGG	AGT	W	S	W_S	
+SRR25064583	TGG	AGT	W	S	W_S	
+SRR25064584	TGG	AGT	W	S	W_S	
+SRR25064585	TGG	AGT	W	S	W_S	
+SRR25064586	TGG	AGT	W	S	W_S	
+SRR25064587	TGG	AGT	W	S	W_S	
+SRR25064588	TGG	AGT	W	S	W_S	
+SRR25064589	TGG	AGT	W	S	W_S	
+SRR25064590	TGG	AGT	W	S	W_S	
+SRR25064591	TGG	AGT	W	S	W_S	
+SRR25064592	TGG	AGT	W	S	W_S	
+SRR25064593	TGG	AGT	W	S	W_S	
+SRR25064594	TGG	AGT	W	S	W_S	
+SRR25064595	TGG	AGT	W	S	W_S	
+SRR25064596	TGG	AGT	W	S	W_S	
+SRR25064597	TGG	AGT	W	S	W_S	
+SRR25064598	TGG	AGT	W	S	W_S	
+SRR25064599	TGG	AGT	W	S	W_S	
+SRR25064600	TGG	AGT	W	S	W_S	
+SRR25064601	TGG	AGT	W	S	W_S	
+SRR25064602	TGG	AGT	W	S	W_S	
+SRR25064603	TGG	AGT	W	S	W_S	
+SRR25064604	YGG	AGT	W-R	S	W-R_S	
+SRR25064605	TGG	AGT	W	S	W_S	
+SRR25064606	TGG	AGT	W	S	W_S	
+SRR25064607	TGG	AGT	W	S	W_S	
+SRR25064608	TGG	AGT	W	S	W_S	
+SRR25064609	TGG	AGT	W	S	W_S	
+SRR25064610	TGG	AGT	W	S	W_S	
+SRR25064611	TGG	AGT	W	S	W_S	
+SRR25064612	TGG	AGT	W	S	W_S	
+SRR25064613	TGG	AGT	W	S	W_S	
+SRR25064614	TGG	AGT	W	S	W_S	
+SRR25064615	YGG	AGT	W-R	S	W-R_S	
+SRR25064616	TGG	AGT	W	S	W_S	
+SRR25064617	TGG	AGT	W	S	W_S	
+SRR25064618	TGG	AGT	W	S	W_S	
+SRR25064619	CGG	AGT	R	S	R_S	
+SRR25064620	TGG	AGT	W	S	W_S	
+SRR25064621	TGG	AGT	W	S	W_S	
+SRR25064622	CGG	AGT	R	S	R_S	
+SRR25064623	TGG	AGT	W	S	W_S	
+SRR25064624	TGG	AGT	W	S	W_S	
+SRR25064625	TGG	AGT	W	S	W_S	
+SRR25064626	TGG	AGT	W	S	W_S	
+SRR25064627	TGG	AGT	W	S	W_S	
+SRR25064628	TGG	AGT	W	S	W_S	
+SRR25064629	TGG	AGT	W	S	W_S	
+SRR25064630	TGG	AGT	W	S	W_S	
+SRR25064631	TGG	AKT	W	S-I	W_S-I	
+SRR25064632	TGG	AGT	W	S	W_S	
+SRR25064633	TGG	AGT	W	S	W_S	
+SRR25064634	TGG	AGT	W	S	W_S	
+SRR25064635	TGG	AGT	W	S	W_S	
+SRR25064636	TGG	AGT	W	S	W_S	
+SRR25064637	TGG	AGT	W	S	W_S	
+SRR25064638	TGG	AGT	W	S	W_S	
+SRR25064639	TGG	AGT	W	S	W_S	
+SRR25064641	TGG	AGT	W	S	W_S	
+SRR25064642	TGG	AGT	W	S	W_S	
+SRR25064643	TGG	AGT	W	S	W_S	
+SRR25064644	TGG	AKT	W	S-I	W_S-I	
+SRR25064645	TGG	AGT	W	S	W_S	
+SRR25064646	TGG	AGT	W	S	W_S	
+SRR25064647	TGG	AGT	W	S	W_S	
+SRR25064648	TGG	AGT	W	S	W_S	
+SRR25064649	TGG	AGT	W	S	W_S	
+SRR25064650	TGG	AGT	W	S	W_S	
+SRR25064651	TGG	AGT	W	S	W_S	
+SRR25064652	TGG	AGT	W	S	W_S	
+SRR25064653	YGG	AGT	W-R	S	W-R_S	
+SRR25064654	TGG	AGT	W	S	W_S	
+SRR25064655	TGG	AGT	W	S	W_S	
+SRR2967835	TGG	AGT	W	S	W_S	
+SRR2967836	TGG	AGT	W	S	W_S	
+SRR2967837	TGG	AGT	W	S	W_S	
+SRR2967838	TGG	AGT	W	S	W_S	
+SRR2967839	TGG	AGT	W	S	W_S	
+SRR2967840	TGG	AGT	W	S	W_S	
+SRR2967841	TGG	AGT	W	S	W_S	
+SRR2967842	TGG	AGT	W	S	W_S	
+SRR2967843	TGG	AGT	W	S	W_S	
+SRR2967844	TGG	AGT	W	S	W_S	
+SRR2967845	YGG	AGT	W-R	S	W-R_S	
+SRR2967846	TGG	AGT	W	S	W_S	
+SRR2967847	TGG	AGT	W	S	W_S	
+SRR2967848	TGG	AGT	W	S	W_S	
+SRR2967850	TGG	AGT	W	S	W_S	
+SRR2967851	TGG	AGT	W	S	W_S	
+SRR2967852	TGG	AGT	W	S	W_S	
+SRR2967854	TGG	AGT	W	S	W_S	
+SRR2967855	TGG	AGT	W	S	W_S	
+SRR2967856	TGG	AGT	W	S	W_S	
+SRR2967857	TGG	AGT	W	S	W_S	
+SRR2967858	TGG	AGT	W	S	W_S	
+SRR2967859	TGG	AGT	W	S	W_S	
+SRR2967860	TGG	AGT	W	S	W_S	
+SRR2967861	TGG	AGT	W	S	W_S	
+SRR2967862	TGG	AGT	W	S	W_S	
+SRR2967863	TGG	AGT	W	S	W_S	
+SRR2967865	TGG	AGT	W	S	W_S	
+SRR2967866	TGG	AGT	W	S	W_S	
+SRR2967867	TGG	AGT	W	S	W_S	
+SRR2967868	TGG	AGT	W	S	W_S	
+SRR2967869	TGG	AGT	W	S	W_S	
+SRR2967870	TGG	AGT	W	S	W_S	
+SRR2967871	TGG	AGT	W	S	W_S	
+SRR2967872	TGG	AGT	W	S	W_S	
+SRR2967873	TGG	AGT	W	S	W_S	
+SRR2967874	YGG	AGT	W-R	S	W-R_S	
+SRR2967876	TGG	AGT	W	S	W_S	
+SRR2967877	TGG	AGT	W	S	W_S	
+SRR2967879	TGG	AGT	W	S	W_S	
+SRR2967881	TGG	AGT	W	S	W_S	
+SRR2967883	TGG	AGT	W	S	W_S	
+SRR2967884	TGG	AGT	W	S	W_S	
+SRR2967885	TGG	AGT	W	S	W_S	
+SRR2967886	TGG	AGT	W	S	W_S	
+SRR2967887	TGG	AGT	W	S	W_S	
+SRR2967888	TGG	AGT	W	S	W_S	
+SRR2967889	TGG	AGT	W	S	W_S	
+SRR2967890	TGG	AGT	W	S	W_S	
+SRR2967891	TGG	AGT	W	S	W_S	
+SRR2967892	TGG	AGT	W	S	W_S	
+SRR2967893	TGG	AGT	W	S	W_S	
+SRR2967894	TGG	AGT	W	S	W_S	
+SRR2967895	TGG	AGT	W	S	W_S	
+SRR2967896	YGG	AGT	W-R	S	W-R_S	
+SRR2967897	TGG	AGT	W	S	W_S	
+SRR2967898	TGG	AGT	W	S	W_S	
+SRR2967899	TGG	AGT	W	S	W_S	
+SRR2967900	TGG	AGT	W	S	W_S	
+SRR2967901	TGG	AGT	W	S	W_S	
+SRR2967907	TGG	AGT	W	S	W_S	
+SRR2967908	TGG	AGT	W	S	W_S	
+SRR2967909	TGG	AGT	W	S	W_S	
+SRR2967910	TGG	AGT	W	S	W_S	
+SRR2967911	TGG	AGT	W	S	W_S	
+SRR2967912	TGG	AGT	W	S	W_S	
+SRR2967913	TGG	AGT	W	S	W_S	
+SRR2967914	TGG	AGT	W	S	W_S	
+SRR2967915	TGG	AGT	W	S	W_S	
+SRR2967916	TGG	AGT	W	S	W_S	
+SRR2967917	TGG	AGT	W	S	W_S	
+SRR2967918	TGG	AGT	W	S	W_S	
+SRR2967919	TGG	AGT	W	S	W_S	
+SRR2967920	TGG	AGT	W	S	W_S	
+SRR2967921	TGG	AGT	W	S	W_S	
+SRR2967922	TGG	AGT	W	S	W_S	
+SRR2967923	TGG	AGT	W	S	W_S	
+SRR2967924	TGG	AGT	W	S	W_S	
+SRR2967925	YGG	AGT	W-R	S	W-R_S	
+SRR2967926	TGG	AGT	W	S	W_S	
+SRR2967927	TGG	AGT	W	S	W_S	
+SRR2967928	TGG	AGT	W	S	W_S	
+SRR2967929	TGG	AGT	W	S	W_S	
+SRR2967930	TGG	AGT	W	S	W_S	
+SRR2967931	TGG	AGT	W	S	W_S	
+SRR2967932	TGG	AGT	W	S	W_S	
+SRR2967933	TGG	AGT	W	S	W_S	
+SRR2967934	TGG	AGT	W	S	W_S	
+SRR2967935	TGG	AGT	W	S	W_S	
+SRR2967936	TGG	AGT	W	S	W_S	
+SRR2967937	TGG	AGT	W	S	W_S	
+SRR2967938	TGG	AGT	W	S	W_S	
+SRR2967939	TGG	AGT	W	S	W_S	
+SRR2967940	TGG	AGT	W	S	W_S	
+SRR2967941	TGG	AGT	W	S	W_S	
+SRR2967942	TGG	AKT	W	S-I	W_S-I	
+SRR2967943	TGG	AGT	W	S	W_S	
+SRR2967944	YGG	AGT	W-R	S	W-R_S	
+SRR2967945	TGG	AGT	W	S	W_S	
+SRR2967946	TGG	AGT	W	S	W_S	
+SRR2967947	TGG	AGT	W	S	W_S	
+SRR2967950	TGG	AGT	W	S	W_S	
+SRR2967951	TGG	AGT	W	S	W_S	
+SRR2967952	TGG	AGT	W	S	W_S	
+SRR2967953	TGG	AGT	W	S	W_S	
+SRR2967954	YGG	AGT	W-R	S	W-R_S	
+SRR2967955	TGG	AGT	W	S	W_S	
+SRR2967956	TGG	AGT	W	S	W_S	
+SRR2967957	TGG	AGT	W	S	W_S	
+SRR2967958	TGG	AGT	W	S	W_S	
+SRR2967959	TGG	AGT	W	S	W_S	
+SRR2967960	TGG	AGT	W	S	W_S	
+SRR2967961	TGG	AGT	W	S	W_S	
+SRR2967962	TGG	AGT	W	S	W_S	
+SRR2967963	TGG	AGT	W	S	W_S	
+SRR2967964	TGG	AGT	W	S	W_S	
+SRR2967965	TGG	AGT	W	S	W_S	
+SRR2967966	TGG	AGT	W	S	W_S	
+SRR2967967	TGG	AGT	W	S	W_S	
+SRR2967968	TGG	AGT	W	S	W_S	
+SRR2967969	TGG	AGT	W	S	W_S	
+SRR2967970	TGG	AGT	W	S	W_S	
+SRR2967971	TGG	AGT	W	S	W_S	
+SRR2967972	TGG	AGT	W	S	W_S	
+SRR2967973	TGG	AGT	W	S	W_S	
+SRR2967974	TGG	AGT	W	S	W_S	
+SRR2967975	TGG	AGT	W	S	W_S	
+SRR2967976	TGG	AGT	W	S	W_S	
+SRR2967977	TGG	AGT	W	S	W_S	
+SRR2967978	TGG	AGT	W	S	W_S	
+SRR2967979	TGG	AGT	W	S	W_S	
+SRR2967980	TGG	AGT	W	S	W_S	
+SRR2967981	TGG	AGT	W	S	W_S	
+SRR2967982	TGG	AGT	W	S	W_S	
+SRR2967983	TGG	AGT	W	S	W_S	
+SRR2967984	TGG	AGT	W	S	W_S	
+SRR2967985	TGG	AGT	W	S	W_S	
+SRR2967986	TGG	AGT	W	S	W_S	
+SRR2967987	TGG	AGT	W	S	W_S	
+SRR2967988	TGG	AGT	W	S	W_S	
+SRR2967989	TGG	AGT	W	S	W_S	
+SRR2967990	CGG	AGT	R	S	R_S	
+SRR2967991	TGG	AGT	W	S	W_S	
+SRR2967992	TGG	AGT	W	S	W_S	
+SRR2967993	TGG	AGT	W	S	W_S	
+SRR2967994	TGG	AGT	W	S	W_S	
+SRR2967995	TGG	AGT	W	S	W_S	
+SRR2967996	TGG	AGT	W	S	W_S	
+SRR2967997	TGG	AGT	W	S	W_S	
+SRR2967998	TGG	AGT	W	S	W_S	
+SRR2967999	TGG	AGT	W	S	W_S	
+SRR2968000	TGG	AGT	W	S	W_S	
+SRR2968001	TGG	AGT	W	S	W_S	
+SRR2968002	TGG	AGT	W	S	W_S	
+SRR2968003	TGG	AGT	W	S	W_S	
+SRR2968004	TGG	AGT	W	S	W_S	
+SRR2968006	TGG	AGT	W	S	W_S	
+SRR2968007	TGG	AGT	W	S	W_S	
+SRR2968008	TGG	AGT	W	S	W_S	
+SRR2968009	TGG	AGT	W	S	W_S	
+SRR2968010	TGG	AGT	W	S	W_S	
+SRR2968011	TGG	AGT	W	S	W_S	
+SRR2968012	TGG	AGT	W	S	W_S	
+SRR2968013	TGG	AGT	W	S	W_S	
+SRR2968014	TGG	AGT	W	S	W_S	
+SRR2968015	TGG	AGT	W	S	W_S	
+SRR2968016	TGG	AGT	W	S	W_S	
+SRR2968017	TGG	AGT	W	S	W_S	
+SRR2968018	TGG	AGT	W	S	W_S	
+SRR2968019	YGG	AGT	W-R	S	W-R_S	
+SRR2968020	TGG	AGT	W	S	W_S	
+SRR2968021	TGN	AGT	-	S	-_S	
+SRR2968022	TGG	AGT	W	S	W_S	
+SRR2968023	TGG	AGT	W	S	W_S	
+SRR2968025	YGG	AGT	W-R	S	W-R_S	
+SRR2968026	TGG	AGT	W	S	W_S	
+SRR2968027	TGG	AGT	W	S	W_S	
+SRR2968028	TGG	AGT	W	S	W_S	
+SRR2968029	TGG	AGT	W	S	W_S	
+SRR2968030	TGG	AGT	W	S	W_S	
+SRR2968031	TGG	AGT	W	S	W_S	
+SRR2968032	TGG	AGT	W	S	W_S	
+SRR2968033	TGG	ATT	W	I	W_I	
+SRR2968034	TGG	AGT	W	S	W_S	
+SRR2968035	TGG	AGT	W	S	W_S	
+SRR2968036	TGG	AGT	W	S	W_S	
+SRR2968037	TGG	AGT	W	S	W_S	
+SRR2968038	TGG	AGT	W	S	W_S	
+SRR2968039	TGG	AGT	W	S	W_S	
+SRR2968040	TGG	AGT	W	S	W_S	
+SRR2968041	TGG	AGT	W	S	W_S	
+SRR2968043	YGG	AGT	W-R	S	W-R_S	
+SRR2968044	TGG	AGT	W	S	W_S	
+SRR2968045	TGG	AGT	W	S	W_S	
+SRR3265357	TGG	AGT	W	S	W_S	
+SRR3265358	YGG	AGT	W-R	S	W-R_S	
+SRR3265359	YGG	AGT	W-R	S	W-R_S	
+SRR3265360	CGG	AGT	R	S	R_S	
+SRR3265361	TGG	AGT	W	S	W_S	
+SRR3265362	TGG	AGT	W	S	W_S	
+SRR3265363	YGG	AGT	W-R	S	W-R_S	
+SRR3265364	TGG	ATT	W	I	W_I	
+SRR3265365	TGG	AGT	W	S	W_S	
+SRR3265367	YGG	AGT	W-R	S	W-R_S	
+SRR3265368	TGG	AGT	W	S	W_S	
+SRR3265369	TGG	AGT	W	S	W_S	
+SRR3265370	CGG	AGT	R	S	R_S	
+SRR3265371	TGG	AGT	W	S	W_S	
+SRR3265372	TGG	AKT	W	S-I	W_S-I	
+SRR3265373	TGG	AGT	W	S	W_S	
+SRR3265374	TGG	AGT	W	S	W_S	
+SRR3265375	CGG	AGT	R	S	R_S	
+SRR3265376	TGG	AGT	W	S	W_S	
+SRR3265377	TGG	AGT	W	S	W_S	
+SRR3265378	TGG	AGT	W	S	W_S	
+SRR3265379	TGG	AGT	W	S	W_S	
+SRR3265380	YGG	AGT	W-R	S	W-R_S	
+SRR3265381	YGG	AGT	W-R	S	W-R_S	
+SRR3265382	TGG	ATT	W	I	W_I	
+SRR3265383	TGG	AGT	W	S	W_S	
+SRR3265384	YGG	AGT	W-R	S	W-R_S	
+SRR3265385	TGG	AGT	W	S	W_S	
+SRR3265386	TGG	AGT	W	S	W_S	
+SRR3265387	TGG	AGT	W	S	W_S	
+SRR3265388	TGG	AGT	W	S	W_S	
+SRR3265389	YGG	AGT	W-R	S	W-R_S	
+SRR3265390	YGG	AGT	W-R	S	W-R_S	
+SRR3265391	YGG	AGT	W-R	S	W-R_S	
+SRR3265392	YGG	AGT	W-R	S	W-R_S	
+SRR3265393	TGG	ATT	W	I	W_I	
+SRR3265394	TGG	AGT	W	S	W_S	
+SRR3265395	TGG	AKT	W	S-I	W_S-I	
+SRR3265396	TGG	AGT	W	S	W_S	
+SRR3265397	TGG	AKT	W	S-I	W_S-I	
+SRR3265398	TGG	AKT	W	S-I	W_S-I	
+SRR3265399	YGG	AGT	W-R	S	W-R_S	
+SRR3265400	YGG	AGT	W-R	S	W-R_S	
+SRR3265401	YGG	AGT	W-R	S	W-R_S	
+SRR3265402	TGG	AGT	W	S	W_S	
+SRR3265403	TGG	AGT	W	S	W_S	
+SRR3265404	CGG	AGT	R	S	R_S	
+SRR3265405	TGG	AGT	W	S	W_S	
+SRR3265406	TGG	AGT	W	S	W_S	
+SRR3265407	TGG	AGT	W	S	W_S	
+SRR3265408	TGG	AGT	W	S	W_S	
+SRR3265409	TGG	AGT	W	S	W_S	
+SRR3265410	YGG	AGT	W-R	S	W-R_S	
+SRR3265411	TGG	AKT	W	S-I	W_S-I	
+SRR3265412	YGG	AGT	W-R	S	W-R_S	
+SRR3265413	CGG	AGT	R	S	R_S	
+SRR3265415	YGG	AKT	W-R	S-I	W-R_S-I	
+SRR3265416	TGG	AGT	W	S	W_S	
+SRR3265417	YGG	AGT	W-R	S	W-R_S	
+SRR3265418	TGG	ATT	W	I	W_I	
+SRR3265419	YGG	AGT	W-R	S	W-R_S	
+SRR3265420	TGG	AGT	W	S	W_S	
+SRR3265421	TGG	AKT	W	S-I	W_S-I	
+SRR3265422	TGG	AGT	W	S	W_S	
+SRR3265423	CGG	AGT	R	S	R_S	
+SRR3265424	YGG	AGT	W-R	S	W-R_S	
+SRR3265425	CGG	AGT	R	S	R_S	
+SRR3265426	YGG	AGT	W-R	S	W-R_S	
+SRR3265427	YGG	AGT	W-R	S	W-R_S	
+SRR3265428	CGG	AGT	R	S	R_S	
+SRR3265429	YGG	AGT	W-R	S	W-R_S	
+SRR3265430	CGG	AGT	R	S	R_S	
+SRR3265431	CGG	AGT	R	S	R_S	
+SRR3265432	TGG	AGT	W	S	W_S	
+SRR3265433	TGG	AGT	W	S	W_S	
+SRR3265434	TGG	AGT	W	S	W_S	
+SRR3265435	YGG	AGT	W-R	S	W-R_S	
+SRR3265436	TGG	AGT	W	S	W_S	
+SRR3265437	YGG	AGT	W-R	S	W-R_S	
+SRR3265438	YGG	AGT	W-R	S	W-R_S	
+SRR3265439	YGG	AGT	W-R	S	W-R_S	
+SRR3265440	TGG	AGT	W	S	W_S	
+SRR3265441	TGG	AGT	W	S	W_S	
+SRR3265442	TGG	AGT	W	S	W_S	
+SRR3265443	TGG	AGT	W	S	W_S	
+SRR3265444	YGG	AGT	W-R	S	W-R_S	
+SRR3265445	YGG	AGT	W-R	S	W-R_S	
+SRR3265446	YGG	AGT	W-R	S	W-R_S	
+SRR3265447	CGG	AGT	R	S	R_S	
+SRR3265448	CGG	AGT	R	S	R_S	
+SRR3265449	YGG	AGT	W-R	S	W-R_S	
+SRR3265450	TGG	AGT	W	S	W_S	
+SRR3265451	TGG	AGT	W	S	W_S	
+SRR3265452	TGG	AGT	W	S	W_S	
+SRR3265453	CGG	AGT	R	S	R_S	
+SRR3265454	TGG	AGT	W	S	W_S	
+SRR3265456	TGG	AGT	W	S	W_S	
+SRR3265457	TGG	AGT	W	S	W_S	
+SRR3265458	TGG	AGT	W	S	W_S	
+SRR3265459	YGG	AGT	W-R	S	W-R_S	
+SRR3265460	TGG	AGT	W	S	W_S	
+SRR3265461	YGG	AGT	W-R	S	W-R_S	
+SRR3265462	CGG	AGT	R	S	R_S	
+SRR3265463	TGG	AGT	W	S	W_S	
+SRR3265464	CGG	AGT	R	S	R_S	
+SRR3265465	CGG	AGT	R	S	R_S	
+SRR3265466	TGG	AGT	W	S	W_S	
+SRR3265467	TGG	AGT	W	S	W_S	
+SRR3265468	YGG	AGT	W-R	S	W-R_S	
+SRR3265469	CGG	AGT	R	S	R_S	
+SRR3265470	TGG	AGT	W	S	W_S	
+SRR3265471	TGG	AGT	W	S	W_S	
+SRR3265472	YGG	AGT	W-R	S	W-R_S	
+SRR3265473	TGG	AGT	W	S	W_S	
+SRR3265474	YGG	AGT	W-R	S	W-R_S	
+SRR3265475	YGG	AGT	W-R	S	W-R_S	
+SRR3265476	YGG	AGT	W-R	S	W-R_S	
+SRR3265477	TGG	AGT	W	S	W_S	
+SRR3265478	TGG	AKT	W	S-I	W_S-I	
+SRR3265479	YGG	AGT	W-R	S	W-R_S	
+SRR3265480	TGG	ATT	W	I	W_I	
+SRR3265481	TGG	AGT	W	S	W_S	
+SRR3265482	TGG	AKT	W	S-I	W_S-I	
+SRR3265483	TGG	AKT	W	S-I	W_S-I	
+SRR3265484	TGG	AGT	W	S	W_S	
+SRR3265485	YGG	AGT	W-R	S	W-R_S	
+SRR3265486	YGG	AGT	W-R	S	W-R_S	
+SRR3265487	YGG	AGT	W-R	S	W-R_S	
+SRR3265488	YGG	AGT	W-R	S	W-R_S	
+SRR3265489	TGG	AGT	W	S	W_S	
+SRR3265490	CGG	AGT	R	S	R_S	
+SRR3265491	YGG	AGT	W-R	S	W-R_S	
+SRR3265492	TGG	AGT	W	S	W_S	
+SRR3265493	CGG	AGT	R	S	R_S	
+SRR3265494	TGG	ATT	W	I	W_I	
+SRR3265495	TGG	AGT	W	S	W_S	
+SRR3265496	TGG	AGT	W	S	W_S	
+SRR3265497	TGG	AKT	W	S-I	W_S-I	
+SRR3265498	TGG	AGT	W	S	W_S	
+SRR3265499	TGG	ATT	W	I	W_I	
+SRR3265500	TGG	AGT	W	S	W_S	
+SRR3265501	TGG	ATT	W	I	W_I	
+SRR3351019	CGG	AGT	R	S	R_S	wine
+SRR403236	YGG	AGT	W-R	S	W-R_S	
+SRR403237	CGG	AGT	R	S	R_S	
+SRR403238	TGG	AGT	W	S	W_S	
+SRR403239	TGG	AGT	W	S	W_S	
+SRR403240	TGG	AGT	W	S	W_S	
+SRR403241	TGG	AGT	W	S	W_S	
+SRR403242	TGG	AGT	W	S	W_S	
+SRR403243	YGG	AGT	W-R	S	W-R_S	
+SRR403244	YGG	AGT	W-R	S	W-R_S	
+SRR5678544	YGG	AGT	W-R	S	W-R_S	Asian
+SRR5678545	YGG	AGT	W-R	S	W-R_S	Mixed
+SRR5678546	YGG	AGT	W-R	S	W-R_S	Asian
+SRR5678547	TGG	AGT	W	S	W_S	Asian
+SRR5678548	TGG	AGT	W	S	W_S	Asian
+SRR5678551	YGG	AGT	W-R	S	W-R_S	Wine
+SRR5678552	YGG	AGT	W-R	S	W-R_S	Mosaic
+SRR5678553	TGG	AGT	W	S	W_S	Mosaic
+SRR5678564	TGG	AGT	W	S	W_S	Mosaic
+SRR5678565	TGG	ATT	W	I	W_I	Mosaic
+SRR5678566	TGG	AGT	W	S	W_S	Belgium/Germany
+SRR5678567	TGG	AGT	W	S	W_S	Mosaic
+SRR5678568	YGG	AGT	W-R	S	W-R_S	Wine
+SRR5678569	TGG	AGT	W	S	W_S	Belgium/Germany
+SRR5678570	TGG	AGT	W	S	W_S	Belgium/Germany
+SRR5678571	TGG	AGT	W	S	W_S	Beer2
+SRR5678572	TGG	AGT	W	S	W_S	Wine
+SRR5678573	TGG	AGT	W	S	W_S	Beer2
+SRR5678574	YGG	AGT	W-R	S	W-R_S	Mixed
+SRR5678575	YGG	AGT	W-R	S	W-R_S	Mixed
+SRR5678576	TGG	AGT	W	S	W_S	Britain
+SRR5678577	TGG	AGT	W	S	W_S	Beer2
+SRR5678578	YGG	AGT	W-R	S	W-R_S	Mosaic
+SRR5678579	YGG	AGT	W-R	S	W-R_S	Asian
+SRR5678580	YGG	AGT	W-R	S	W-R_S	Mixed
+SRR5678581	CGG	AGT	R	S	R_S	Mixed
+SRR5678584	TGG	AGT	W	S	W_S	Beer2
+SRR5678585	TGG	AGT	W	S	W_S	Beer2
+SRR5678596	TGG	AGT	W	S	W_S	Belgium/Germany
+SRR5678600	TGG	AGT	W	S	W_S	Britain
+SRR5678606	YGG	AGT	W-R	S	W-R_S	Mixed
+SRR5678607	YGG	AGT	W-R	S	W-R_S	US
+SRR5678608	TGG	AGT	W	S	W_S	Beer2
+SRR5678609	TGG	AGT	W	S	W_S	Mixed
+SRR5678610	CGG	AGT	R	S	R_S	Asian
+SRR5678612	YGG	AGT	W-R	S	W-R_S	Mosaic
+SRR5678615	TGG	AGT	W	S	W_S	Belgium/Germany
+SRR5678616	TGG	AGT	W	S	W_S	Mosaic
+SRR5678618	TGG	AGT	W	S	W_S	US
+SRR5678624	TGG	AGT	W	S	W_S	Asian
+SRR5678625	TGG	AGT	W	S	W_S	Mixed
+SRR5678626	TGG	AGT	W	S	W_S	Mosaic
+SRR5678627	TGG	AGT	W	S	W_S	Mosaic
+SRR5678631	TGG	AGT	W	S	W_S	Wine
+SRR5678632	TGG	AGT	W	S	W_S	Wine
+SRR5678633	TGG	AGT	W	S	W_S	Wine
+SRR5678634	TGG	AGT	W	S	W_S	Mosaic
+SRR5678636	TGG	AGT	W	S	W_S	Mosaic
+SRR5678637	TGG	AGT	W	S	W_S	Wine
+SRR5678638	TGG	AGT	W	S	W_S	Wine
+SRR5678640	TGG	AGT	W	S	W_S	Wine
+SRR5678651	TGG	AGT	W	S	W_S	Britain
+SRR5678652	TGG	AGT	W	S	W_S	Wine
+SRR5678653	TGG	AGT	W	S	W_S	Wine
+SRR5678654	TGG	AGT	W	S	W_S	Wine
+SRR5678655	TGG	AGT	W	S	W_S	Mosaic
+SRR5678656	TGG	AGT	W	S	W_S	Wine
+SRR5678657	TGG	AGT	W	S	W_S	Wine
+SRR5678658	YGG	AKT	W-R	S-I	W-R_S-I	Wine
+SRR5678660	TGG	AGT	W	S	W_S	Mosaic
+SRR5678661	CGG	AGT	R	S	R_S	Belgium/Germany
+SRR5678662	YGG	AGT	W-R	S	W-R_S	Wine
+SRR5678663	TGG	AGT	W	S	W_S	Mixed
+SRR5678664	YGG	AGT	W-R	S	W-R_S	Wine
+SRR5678666	YGG	AGT	W-R	S	W-R_S	Mosaic
+SRR5678667	CGG	AGT	R	S	R_S	Mosaic
+SRR5678668	TGG	AGT	W	S	W_S	Mosaic
+SRR5678671	TGG	AGT	W	S	W_S	Belgium/Germany
+SRR5678672	YGG	AGT	W-R	S	W-R_S	Wine
+SRR5678673	YGG	AGT	W-R	S	W-R_S	Mixed
+SRR5678674	TGG	AGT	W	S	W_S	Mixed
+SRR5678675	TGG	AGT	W	S	W_S	Beer2
+SRR5678676	YGG	AGT	W-R	S	W-R_S	Belgium/Germany
+SRR5678677	TGG	AGT	W	S	W_S	Mixed
+SRR5678678	YGG	AGT	W-R	S	W-R_S	Wine
+SRR5678679	TGG	AGT	W	S	W_S	Mixed
+SRR5678680	TGG	AGT	W	S	W_S	Belgium/Germany
+SRR5678681	TGG	AGT	W	S	W_S	Beer2
+SRR5678682	TGG	AGT	W	S	W_S	Belgium/Germany
+SRR5678683	TGG	AGT	W	S	W_S	Beer2
+SRR5678684	CGG	AGT	R	S	R_S	Wine
+SRR5678685	TGG	AGT	W	S	W_S	Beer2
+SRR5678686	CGG	AGT	R	S	R_S	Mosaic
+SRR5678687	TGG	AGT	W	S	W_S	Britain
+SRR5678688	TGG	AGT	W	S	W_S	Britain
+SRR5678689	TGG	AGT	W	S	W_S	Mixed
+SRR5678690	YGG	AGT	W-R	S	W-R_S	Beer2
+SRR5688140	TGG	AGT	W	S	W_S	US
+SRR5688142	TGG	AGT	W	S	W_S	Britain
+SRR5688144	TGG	AGT	W	S	W_S	Belgium/Germany
+SRR5688146	TGG	AGT	W	S	W_S	Britain
+SRR5688148	TGG	AGT	W	S	W_S	Britain
+SRR5688150	TGG	AGT	W	S	W_S	Britain
+SRR5688152	TGG	AGT	W	S	W_S	Britain
+SRR5688154	TGG	AGT	W	S	W_S	US
+SRR5688156	YGG	AGT	W-R	S	W-R_S	NS
+SRR5688158	TGG	AGT	W	S	W_S	Britain
+SRR5688160	TGG	AGT	W	S	W_S	Britain
+SRR5688162	TGG	AGT	W	S	W_S	Britain
+SRR5688164	TGG	AGT	W	S	W_S	Britain
+SRR5688166	TGG	AGT	W	S	W_S	Mosaic
+SRR5688168	TGG	AGT	W	S	W_S	Mosaic
+SRR5688170	CGG	AGT	R	S	R_S	Beer2
+SRR5688172	TGG	AGT	W	S	W_S	Mosaic
+SRR5688174	YGG	AGT	W-R	S	W-R_S	Mixed
+SRR5688176	CGG	AGT	R	S	R_S	Beer2
+SRR5688178	YGG	AGT	W-R	S	W-R_S	Beer2
+SRR5688180	TGG	AGT	W	S	W_S	Britain
+SRR5688182	TGG	AGT	W	S	W_S	US
+SRR5688184	TGG	AGT	W	S	W_S	Britain
+SRR5688186	TGG	AGT	W	S	W_S	US
+SRR5688188	TGG	AGT	W	S	W_S	US
+SRR5688190	TGG	AGT	W	S	W_S	Britain
+SRR5688192	TGG	AGT	W	S	W_S	Britain
+SRR5688194	TGG	AGT	W	S	W_S	US
+SRR5688196	TGG	AGT	W	S	W_S	Mosaic
+SRR5688198	TGG	AGT	W	S	W_S	Belgium/Germany
+SRR5688200	TGG	AGT	W	S	W_S	Mosaic
+SRR5688202	TGG	AGT	W	S	W_S	Belgium/Germany
+SRR5688204	TGG	AGT	W	S	W_S	Belgium/Germany
+SRR5688206	TGG	AGT	W	S	W_S	Belgium/Germany
+SRR5688208	TGG	AGT	W	S	W_S	Belgium/Germany
+SRR5688210	TGG	AGT	W	S	W_S	Britain
+SRR5688212	YGG	AGT	W-R	S	W-R_S	Beer2
+SRR5688214	TGG	AGT	W	S	W_S	Belgium/Germany
+SRR5688216	TGG	AGT	W	S	W_S	US
+SRR5688218	CGG	AGT	R	S	R_S	Beer2
+SRR5688220	CGG	AGT	R	S	R_S	Beer2
+SRR5688222	TGG	AGT	W	S	W_S	Beer2
+SRR5688224	TGG	AGT	W	S	W_S	Beer2
+SRR5688226	TGG	AGT	W	S	W_S	Belgium/Germany
+SRR5688228	TGG	AGT	W	S	W_S	Wine
+SRR5688230	TGG	AGT	W	S	W_S	Britain
+SRR5688232	TGG	AGT	W	S	W_S	Britain
+SRR5688234	CGG	AGT	R	S	R_S	Beer2
+SRR5688236	YGG	AGT	W-R	S	W-R_S	Beer2
+SRR5688238	TGG	AGT	W	S	W_S	Mosaic
+SRR5688240	TGG	AGT	W	S	W_S	Britain
+SRR5688242	YGG	AGT	W-R	S	W-R_S	NS
+SRR5688244	YGG	AGT	W-R	S	W-R_S	NS
+SRR5688246	YGG	AGT	W-R	S	W-R_S	NS
+SRR5688248	TGG	AGT	W	S	W_S	US
+SRR5688250	TGG	AGT	W	S	W_S	Britain
+SRR5688252	TGG	AGT	W	S	W_S	Britain
+SRR5688254	TGG	AGT	W	S	W_S	Britain
+SRR5688256	TGG	AGT	W	S	W_S	US
+SRR5688258	TGG	ATT	W	I	W_I	Mosaic
+SRR5688260	YGG	AGT	W-R	S	W-R_S	Mosaic
+SRR5688262	YGG	AGT	W-R	S	W-R_S	Mosaic
+SRR5688264	YGG	AGT	W-R	S	W-R_S	Mosaic
+SRR5688266	TGG	AGT	W	S	W_S	Wine
+SRR5688268	YGG	AGT	W-R	S	W-R_S	Mixed
+SRR5688270	YGG	AGT	W-R	S	W-R_S	Mixed
+SRR5688272	YGG	AGT	W-R	S	W-R_S	Mixed
+SRR5688274	TGG	AGT	W	S	W_S	Mosaic
+SRR7406279	TGG	AGT	W	S	W_S	
+SRR7406280	TGG	AGT	W	S	W_S	
+SRR7406281	TGG	AGT	W	S	W_S	
+SRR7406282	TGG	AGT	W	S	W_S	
+SRR7406283	YGG	AGT	W-R	S	W-R_S	
+SRR7406284	YGG	AGT	W-R	S	W-R_S	
+SRR7406285	YGG	AGT	W-R	S	W-R_S	
+SRR7406286	TGG	AGT	W	S	W_S	human feces
+SRR7851676	TGG	AGT	W	S	W_S	CHN-I
+SRR7851677	TGG	AGT	W	S	W_S	CHN-VI/VII
+SRR7851678	TGG	AGT	W	S	W_S	Mantou 7
+SRR7851679	TGG	AGT	W	S	W_S	ADY
+SRR7851680	TGG	AGT	W	S	W_S	Wine
+SRR7851681	TGG	AGT	W	S	W_S	Mantou 4
+SRR7851682	TGG	AGT	W	S	W_S	Milk
+SRR7851683	TGG	AGT	W	S	W_S	Mantou 4
+SRR7851684	TGG	AGT	W	S	W_S	Mantou 5
+SRR7851685	TGG	AGT	W	S	W_S	CHN-VI/VII
+SRR7851686	TGG	AGT	W	S	W_S	Milk
+SRR7851687	TGG	AGT	W	S	W_S	CHN-IV
+SRR7851688	TGG	AGT	W	S	W_S	CHN-IV
+SRR7851689	TGG	AGT	W	S	W_S	CHN-IV
+SRR7851690	TGG	AGT	W	S	W_S	CHN-IV
+SRR7851691	TGG	AGT	W	S	W_S	CHN-IV
+SRR7851692	TGG	AGT	W	S	W_S	CHN-VIII
+SRR7851693	TGG	AGT	W	S	W_S	CHN-IV
+SRR7851694	TGG	AGT	W	S	W_S	CHN-IV
+SRR7851695	TGG	AGT	W	S	W_S	CHN-IV
+SRR7851697	TGG	AGT	W	S	W_S	Milk
+SRR7851698	TGG	AGT	W	S	W_S	CHN-IV
+SRR7851699	YGG	AGT	W-R	S	W-R_S	Mantou 2
+SRR7851700	YGG	AGT	W-R	S	W-R_S	Mantou 7
+SRR7851701	TGG	AGT	W	S	W_S	Mantou 7
+SRR7851702	CGG	AGT	R	S	R_S	CHN-X
+SRR7851703	CGG	AGT	R	S	R_S	Mantou 7
+SRR7851704	TGG	AGT	W	S	W_S	Mosaic
+SRR7851705	CGG	AGT	R	S	R_S	Mantou 7
+SRR7851706	YGG	AGT	W-R	S	W-R_S	Mantou 7
+SRR7851707	CGG	AGT	R	S	R_S	Mantou 7
+SRR7851708	YGG	AGT	W-R	S	W-R_S	Mantou 7
+SRR7851709	TGG	AGT	W	S	W_S	CHN-I
+SRR7851710	TGG	AGT	W	S	W_S	Mantou 3
+SRR7851711	TGG	AGT	W	S	W_S	Mantou 2
+SRR7851712	YGG	AGT	W-R	S	W-R_S	Mantou 3
+SRR7851713	YGG	AGT	W-R	S	W-R_S	Huangjiu
+SRR7851714	YGG	AGT	W-R	S	W-R_S	Mantou 1
+SRR7851715	YGG	AGT	W-R	S	W-R_S	Mantou 1
+SRR7851716	YGG	AGT	W-R	S	W-R_S	Mantou 1
+SRR7851717	YGG	AGT	W-R	S	W-R_S	Mantou 1
+SRR7851718	YGG	AGT	W-R	S	W-R_S	ADY
+SRR7851719	CGG	AGT	R	S	R_S	CHN-VI/VII
+SRR7851720	TGG	AGT	W	S	W_S	CHN-VI/VII
+SRR7851721	TGG	AGT	W	S	W_S	CHN-V
+SRR7851722	TGG	AGT	W	S	W_S	CHN-II
+SRR7851723	TGG	AGT	W	S	W_S	CHN-II
+SRR7851724	TGG	AGT	W	S	W_S	CHN-II
+SRR7851725	TGG	AGT	W	S	W_S	CHN-II
+SRR7851726	TGG	AGT	W	S	W_S	Milk
+SRR7851727	TGG	AGT	W	S	W_S	CHN-VI/VII
+SRR7851728	TGG	AGT	W	S	W_S	CHN-II
+SRR7851729	TGG	AGT	W	S	W_S	CHN-V
+SRR7851730	TGG	AGT	W	S	W_S	CHN-IX
+SRR7851731	TGG	AGT	W	S	W_S	CHN-IV
+SRR7851732	TGG	AGT	W	S	W_S	CHN-IX
+SRR7851733	YGG	AGT	W-R	S	W-R_S	Mantou 7
+SRR7851734	CGG	AGT	R	S	R_S	Mosaic
+SRR7851735	TGG	AGT	W	S	W_S	CHN-IX
+SRR7851736	CGG	AGT	R	S	R_S	CHN-I
+SRR7851737	CGG	AGT	R	S	R_S	Mantou 2
+SRR7851738	YGG	AGT	W-R	S	W-R_S	Mantou 7
+SRR7851739	CGG	AGT	R	S	R_S	Mosaic
+SRR7851740	CGG	AGT	R	S	R_S	Mantou 7
+SRR7851741	YGG	AGT	W-R	S	W-R_S	Mantou 7
+SRR7851742	YGG	AGT	W-R	S	W-R_S	CHN-VIII
+SRR7851743	CGG	AGT	R	S	R_S	Milk
+SRR7851744	TGG	AGT	W	S	W_S	CHN-VIII
+SRR7851745	CGG	AGT	R	S	R_S	Huangjiu
+SRR7851746	CGG	AGT	R	S	R_S	Mosaic
+SRR7851747	YGG	AGT	W-R	S	W-R_S	ADY
+SRR7851748	YGG	AGT	W-R	S	W-R_S	Huangjiu
+SRR7851749	TGG	AGT	W	S	W_S	CHN-IV
+SRR7851750	TGG	AGT	W	S	W_S	Wine
+SRR7851751	CGG	AGT	R	S	R_S	Mantou 3
+SRR7851752	CGG	AGT	R	S	R_S	Huangjiu
+SRR7851753	YGG	AGT	W-R	S	W-R_S	Mantou 3
+SRR7851754	CGG	AGT	R	S	R_S	Mantou 1
+SRR7851755	TGG	AGT	W	S	W_S	CHN-X
+SRR7851756	TGG	AGT	W	S	W_S	CHN-I
+SRR7851757	TGG	AGT	W	S	W_S	CHN-IV
+SRR7851758	TGG	AGT	W	S	W_S	CHN-V
+SRR7851759	TGG	AGT	W	S	W_S	Qingkejiu
+SRR7851760	TGG	AGT	W	S	W_S	CHN-V
+SRR7851761	TGG	AGT	W	S	W_S	Mantou 3
+SRR7851762	TGG	AGT	W	S	W_S	CHN-VI/VII
+SRR7851763	CGG	AGT	R	S	R_S	Mantou 7
+SRR7851764	CGG	AGT	R	S	R_S	Mantou 7
+SRR7851765	TGG	AGT	W	S	W_S	CHN-IX
+SRR7851766	TGG	AGT	W	S	W_S	Mosaic
+SRR7851767	TGG	AGT	W	S	W_S	Baijiu
+SRR7851768	TGG	AGT	W	S	W_S	CHN-X
+SRR7851769	TGG	AGT	W	S	W_S	Mantou 3
+SRR7851770	TGG	AGT	W	S	W_S	CHN-VI/VII
+SRR7851771	YGG	AGT	W-R	S	W-R_S	Baijiu
+SRR7851772	TGG	AGT	W	S	W_S	Huangjiu
+SRR7851773	TGG	AGT	W	S	W_S	Mantou 3
+SRR7851774	YGG	AGT	W-R	S	W-R_S	Mantou 7
+SRR7851775	YGG	AGT	W-R	S	W-R_S	ADY
+SRR7851776	YGG	AGT	W-R	S	W-R_S	Huangjiu
+SRR7851777	YGG	AGT	W-R	S	W-R_S	Baijiu
+SRR7851778	CGG	AGT	R	S	R_S	Mantou 7
+SRR7851779	TGG	AGT	W	S	W_S	Milk
+SRR7851780	TGG	AGT	W	S	W_S	Mantou 3
+SRR7851782	TGG	AGT	W	S	W_S	Wine
+SRR7851783	YGG	AGT	W-R	S	W-R_S	CHN-IX
+SRR7851784	TGG	AGT	W	S	W_S	Mosaic
+SRR7851785	TGG	AGT	W	S	W_S	Wine
+SRR7851786	TGG	AGT	W	S	W_S	ADY
+SRR7851787	TGG	AGT	W	S	W_S	CHN-VI/VII
+SRR7851788	TGG	AGT	W	S	W_S	Mantou 7
+SRR7851789	TGG	AGT	W	S	W_S	Milk
+SRR7851790	TGG	AGT	W	S	W_S	CHN-VI/VII
+SRR7851791	TGG	AGT	W	S	W_S	Huangjiu
+SRR7851792	CGG	AGT	R	S	R_S	Baijiu
+SRR7851793	CGG	AGT	R	S	R_S	Mantou 5
+SRR7851794	YGG	AGT	W-R	S	W-R_S	Mantou 3
+SRR7851795	CGG	AGT	R	S	R_S	Milk
+SRR7851796	CGG	AGT	R	S	R_S	Mantou 3
+SRR7851797	CGG	AGT	R	S	R_S	Mosaic
+SRR7851798	CGG	AGT	R	S	R_S	Huangjiu
+SRR7851799	CGG	AGT	R	S	R_S	CHN-VI/VII
+SRR7851800	CGG	AGT	R	S	R_S	Huangjiu
+SRR7851801	TGG	AGT	W	S	W_S	CHN-V
+SRR7851802	TGG	AGT	W	S	W_S	CHN-I
+SRR7851803	CGG	AGT	R	S	R_S	CHN-VI/VII
+SRR7851804	CGG	AGT	R	S	R_S	CHN-I
+SRR7851805	YGG	AGT	W-R	S	W-R_S	Huangjiu
+SRR7851806	YGG	AGT	W-R	S	W-R_S	CHN-I
+SRR7851807	TGG	AGT	W	S	W_S	CHN-IV
+SRR7851808	TGG	AGT	W	S	W_S	CHN-III
+SRR7851809	TGG	AGT	W	S	W_S	CHN-V
+SRR7851810	CGG	AGT	R	S	R_S	CHN-VI/VII
+SRR7851811	TGG	AGT	W	S	W_S	Huangjiu
+SRR7851812	TGG	AGT	W	S	W_S	Mosaic
+SRR7851813	TGG	AGT	W	S	W_S	Mantou 3
+SRR7851814	TGG	AGT	W	S	W_S	Mantou 7
+SRR7851815	TGG	AGT	W	S	W_S	Mantou 3
+SRR7851816	TGG	AGT	W	S	W_S	Mantou 3
+SRR7851817	TGG	AGT	W	S	W_S	Mantou 3
+SRR7851818	TGG	AGT	W	S	W_S	Mantou 3
+SRR7851819	TGG	AGT	W	S	W_S	CHN-X
+SRR7851820	TGG	AGT	W	S	W_S	Mantou 3
+SRR7851821	CGG	AGT	R	S	R_S	Baijiu
+SRR7851822	TGG	AGT	W	S	W_S	CHN-VI/VII
+SRR7851823	TGG	AGT	W	S	W_S	Baijiu
+SRR7851824	TGG	AGT	W	S	W_S	CHN-V
+SRR7851825	CGG	AGT	R	S	R_S	CHN-VI/VII
+SRR7851826	TGG	AGT	W	S	W_S	Baijiu
+SRR7851827	TGG	AGT	W	S	W_S	CHN-IV
+SRR7851828	TGG	AGT	W	S	W_S	CHN-VIII
+SRR7851829	TGG	AGT	W	S	W_S	CHN-I
+SRR7851830	TGG	AGT	W	S	W_S	CHN-IV
+SRR7851831	YGG	AGT	W-R	S	W-R_S	Mantou 7
+SRR7851832	YGG	AGT	W-R	S	W-R_S	Mantou 3
+SRR7851833	YGG	AGT	W-R	S	W-R_S	Qingkejiu
+SRR7851834	TGG	AGT	W	S	W_S	Qingkejiu
+SRR7851835	TGG	AGT	W	S	W_S	Qingkejiu
+SRR7851836	TGG	AGT	W	S	W_S	Qingkejiu
+SRR7851837	YGG	AGT	W-R	S	W-R_S	Qingkejiu
+SRR7851838	YGG	AGT	W-R	S	W-R_S	Mosaic
+SRR7851839	YGG	AGT	W-R	S	W-R_S	Mantou 6
+SRR7851840	YGG	AGT	W-R	S	W-R_S	Mosaic
+SRR7851841	CGG	AGT	R	S	R_S	CHN-X
+SRR7851842	CGG	AGT	R	S	R_S	Mantou 7
+SRR7851843	CGG	AGT	R	S	R_S	Baijiu
+SRR7851844	YGG	AGT	W-R	S	W-R_S	Milk
+SRR7851845	TGG	AGT	W	S	W_S	Baijiu
+SRR7851846	TGG	AGT	W	S	W_S	Mosaic
+SRR7851847	CGG	AGT	R	S	R_S	Baijiu
+SRR7851848	TGG	AGT	W	S	W_S	CHN-VI/VII
+SRR7851849	TGG	AGT	W	S	W_S	Mosaic
+SRR7851850	TGG	AGT	W	S	W_S	CHN-IV
+SRR7851851	TGG	AGT	W	S	W_S	CHN-IV
+SRR7851852	TGG	AGT	W	S	W_S	CHN-II
+SRR7851853	CGG	AGT	R	S	R_S	Baijiu
+SRR7851854	TGG	AGT	W	S	W_S	CHN-VIII
+SRR7851855	TGG	AGT	W	S	W_S	CHN-VIII
+SRR7851856	CGG	AGT	R	S	R_S	CHN-I
+SRR7851857	CGG	AGT	R	S	R_S	Milk
+SRR7851858	CGG	AGT	R	S	R_S	Mantou 4
+SRR7851859	TGG	AGT	W	S	W_S	Mantou 3
+SRR7851860	TGG	AGT	W	S	W_S	Mantou 6
+SRR7851861	NGG	AGT	-	S	-_S	ADY
+SRR7851862	TGG	AGT	W	S	W_S	Mantou 5
+SRR7851863	TGG	AGT	W	S	W_S	Mantou 3
+SRR7851864	TGG	AGT	W	S	W_S	Mosaic
+SRR7851865	TGG	AGT	W	S	W_S	Milk
+SRR7851866	TGG	AGT	W	S	W_S	Mantou 1
+SRR7851869	TGG	AGT	W	S	W_S	CHN-III
+SRR7851870	TGG	AGT	W	S	W_S	Mantou 3
+SRR7851871	TGG	AGT	W	S	W_S	CHN-V
+SRR7851872	TGG	AGT	W	S	W_S	CHN-V
+SRR7851873	TGG	AGT	W	S	W_S	CHN-V
+SRR7851874	TGG	AGT	W	S	W_S	CHN-V
+SRR7851875	TGG	AGT	W	S	W_S	CHN-I
+SRR7851876	TGG	AGT	W	S	W_S	CHN-V
+SRR7851877	YGG	AGT	W-R	S	W-R_S	Mantou 7
+SRR7851878	YGG	AGT	W-R	S	W-R_S	CHN-I
+SRR7851879	YGG	AGT	W-R	S	W-R_S	Mantou 6
+SRR7851880	YGG	AGT	W-R	S	W-R_S	Mantou 6
+SRR7851881	YGG	AGT	W-R	S	W-R_S	Mantou 2
+SRR7851882	YGG	AGT	W-R	S	W-R_S	Mantou 6
+SRR7851883	CGG	AGT	R	S	R_S	Baijiu
+SRR7851884	CGG	AGT	R	S	R_S	Baijiu
+SRR7851885	CGG	AGT	R	S	R_S	CHN-IV
+SRR7851886	CGG	AGT	R	S	R_S	Baijiu
+SRR7851887	CGG	AGT	R	S	R_S	Milk
+SRR7851888	YGG	AGT	W-R	S	W-R_S	Mantou 7
+SRR7851889	YGG	AGT	W-R	S	W-R_S	Mantou 7
+SRR7851890	YGG	AGT	W-R	S	W-R_S	Mantou 7
+SRR7851891	TGG	AGT	W	S	W_S	CHN-VI/VII
+SRR7851893	YGG	AGT	W-R	S	W-R_S	Baijiu
+SRR7851894	TGG	AGT	W	S	W_S	Mantou 2
+SRR7851895	YGG	AGT	W-R	S	W-R_S	Mantou 2
+SRR7851896	YGG	AGT	W-R	S	W-R_S	CHN-III
+SRR7851897	TGG	AGT	W	S	W_S	Mantou 2
+SRR7851898	TGG	AGT	W	S	W_S	Mantou 2
+SRR7851899	TGG	AGT	W	S	W_S	Mantou 3
+SRR7851900	TGG	AGT	W	S	W_S	Mantou 7
+SRR7851901	TGG	AGT	W	S	W_S	Mantou 2
+SRR7851902	TGG	AGT	W	S	W_S	Mantou 2
+SRR7851903	TGG	AGT	W	S	W_S	Mantou 2
+SRR7851904	TGG	AGT	W	S	W_S	CHN-II
+SRR7851905	TGG	AGT	W	S	W_S	CHN-VI/VII
+SRR7851906	CGG	AGT	R	S	R_S	ADY
+SRR7851907	TGG	AGT	W	S	W_S	Huangjiu
+SRR7851908	TGG	AGT	W	S	W_S	Mosaic
+SRR7851909	TGG	AGT	W	S	W_S	Mantou 2
+SRR7851910	TGG	AGT	W	S	W_S	CHN-X
+SRR7851912	TGG	AGT	W	S	W_S	Mantou 7
+SRR7851913	TGG	AGT	W	S	W_S	Mantou 6
+SRR7851914	TGG	AGT	W	S	W_S	CHN-I
+SRR7851915	YGG	AGT	W-R	S	W-R_S	ADY
+SRR7851916	YGG	AGT	W-R	S	W-R_S	Huangjiu
+SRR7851917	YGG	AGT	W-R	S	W-R_S	Huangjiu
+SRR7851918	YGG	AGT	W-R	S	W-R_S	ADY
+SRR7851919	TGG	AGT	W	S	W_S	Mantou 7
+SRR7851920	CGG	AGT	R	S	R_S	CHN-X
+SRR7851921	TGG	AGT	W	S	W_S	Mantou 2
+SRR7851922	YGG	AGT	W-R	S	W-R_S	Milk
+SRR7851923	TGG	AGT	W	S	W_S	Huangjiu
+SRR7851924	TGG	AGT	W	S	W_S	Mantou 2
+SRR7851925	TGG	AGT	W	S	W_S	Mantou 2
+SRR7851926	TGG	AGT	W	S	W_S	Mantou 7
+SRR7851927	YGG	AGT	W-R	S	W-R_S	Milk
+SRR7851928	TGG	AGT	W	S	W_S	Mantou 3
+SRR7851929	TGG	AGT	W	S	W_S	Mosaic
+SRR7851930	TGG	AGT	W	S	W_S	Milk
+SRR7851931	TGG	AGT	W	S	W_S	CHN-IX
+SRR7851935	TGG	AGT	W	S	W_S	CHN-VI/VII
+SRR7851936	TGG	AGT	W	S	W_S	Mosaic
+SRR7851937	TGG	AGT	W	S	W_S	Mantou 7
+SRR7851938	TGG	AGT	W	S	W_S	Mosaic
+SRR7851939	TGG	AGT	W	S	W_S	CHN-VI/VII
+SRR7851940	TGG	AGT	W	S	W_S	CHN-II
+SRR7851941	TGG	AGT	W	S	W_S	Mosaic
+SRR8172937	TGG	AGT	W	S	W_S	
+SRR8172940	TGG	AGT	W	S	W_S	
+SRR8172941	TGG	AGT	W	S	W_S	
+SRR8172942	TGG	AGT	W	S	W_S	
+SRR8172943	TGG	AGT	W	S	W_S	
+SRR8172944-SRR8173002	TGG	AGT	W	S	W_S	
+SRR8172945	TGG	AGT	W	S	W_S	
+SRR8172946	TGG	AGT	W	S	W_S	
+SRR8172955	TGG	AGT	W	S	W_S	
+SRR8172956	TGG	AGT	W	S	W_S	
+SRR8172959	TGG	AGT	W	S	W_S	
+SRR8172960	TGG	AGT	W	S	W_S	
+SRR8172961	TGG	AGT	W	S	W_S	
+SRR8172962	TGG	AGT	W	S	W_S	
+SRR8172973	YGG	AGT	W-R	S	W-R_S	
+SRR8172974	CGG	AGT	R	S	R_S	
+SRR8172975	CGG	AGT	R	S	R_S	
+SRR8172976	TGG	AGT	W	S	W_S	
+SRR8172977	CGG	AGT	R	S	R_S	
+SRR8172978	TGG	AGT	W	S	W_S	
+SRR8172979	TGG	AGT	W	S	W_S	
+SRR8172980	TGG	AGT	W	S	W_S	
+SRR8172981	TGG	AGT	W	S	W_S	
+SRR8172982	TGG	AGT	W	S	W_S	
+SRR8172984	TGG	AGT	W	S	W_S	
+SRR8172995-SRR8172983	TGG	AGT	W	S	W_S	
+SRR8173001-SRR8172938	TGG	AGT	W	S	W_S	
+SRR8173005	TGG	AGT	W	S	W_S	
+SRR8173006	TGG	AGT	W	S	W_S	
+SRR8173007	TGG	AGT	W	S	W_S	
+SRR8173008	TGG	AGT	W	S	W_S	
+SRR8173015	YGG	AGT	W-R	S	W-R_S	
+SRR8173016	TGG	AGT	W	S	W_S	
+SRR8173017	TGG	AGT	W	S	W_S	
+SRR8173018	TGG	AGT	W	S	W_S	
+SRR8173019	TGG	AGT	W	S	W_S	
+SRR8173020	TGG	AGT	W	S	W_S	
+SRR8173021	TGG	AGT	W	S	W_S	
+SRR8173022	CGG	AGT	R	S	R_S	
+SRR8173023	YGG	AGT	W-R	S	W-R_S	
+SRR8173024	TGG	AGT	W	S	W_S	
+SRR8173025	TGG	AGT	W	S	W_S	
+SRR8173026	YGG	AGT	W-R	S	W-R_S	
+SRR8173037	TGG	AGT	W	S	W_S	
+SRR8173038	CGG	AGT	R	S	R_S	
+SRR8173039	TGG	AGT	W	S	W_S	
+SRR8173040	TGG	AGT	W	S	W_S	
+SRR8173041	CGG	AGT	R	S	R_S	
+SRR8173042	TGG	AGT	W	S	W_S	
+SRR8173043	TGG	AGT	W	S	W_S	
+SRR8173044	TGG	AGT	W	S	W_S	
+SRR8173045	YGG	AGT	W-R	S	W-R_S	
+SRR8173046	YGG	AGT	W-R	S	W-R_S	
+SRR8173049	YGG	AGT	W-R	S	W-R_S	
+SRR8173051	YGG	AGT	W-R	S	W-R_S	
+SRR8173052	YGG	AGT	W-R	S	W-R_S	
+SRR8173053	YGG	AGT	W-R	S	W-R_S	
+SRR8173054	CGG	AGT	R	S	R_S	
+SRR8173055	TGG	AGT	W	S	W_S	
+SRR8173056	TGG	AGT	W	S	W_S	
+SRR8173057	TGG	AGT	W	S	W_S	
+SRR8173058	TGG	AGT	W	S	W_S	
+SRR8173059	TGG	AGT	W	S	W_S	
+SRR8173060	YGG	AGT	W-R	S	W-R_S	
+SRR8173061	TGG	AKT	W	S-I	W_S-I	
+SRR8173062	CGG	AGT	R	S	R_S	
+SRR8173063	TGG	AGT	W	S	W_S	
+SRR8173064	YGG	AGT	W-R	S	W-R_S	
+SRR8173065	TGG	AGT	W	S	W_S	
+SRR8173066	TGG	AGT	W	S	W_S	
+SRR8173077	YGG	AGT	W-R	S	W-R_S	
+SRR8173078	TGG	AGT	W	S	W_S	
+SRR8173079	TGG	AGT	W	S	W_S	
+SRR8173080	YGG	AGT	W-R	S	W-R_S	
+SRR8173081	TGG	AGT	W	S	W_S	
+SRR8173082	YGG	AGT	W-R	S	W-R_S	
+SRR8173083	YGG	AKT	W-R	S-I	W-R_S-I	
+SRR8173084	YGG	AGT	W-R	S	W-R_S	
+SRR8173085	TGG	AGT	W	S	W_S	
+SRR8173086	CGG	AGT	R	S	R_S	
+SRR8799688	TGG	AGT	W	S	W_S	
+SRR8799689	TGG	AGT	W	S	W_S	
+SRR8799696	TGG	AGT	W	S	W_S	
+SRR8799697	TGG	AGT	W	S	W_S	
+SRR8799699	YGG	AGT	W-R	S	W-R_S	
+SRR8799700	CGG	AGT	R	S	R_S	
+SRR8799701	CGG	AGT	R	S	R_S	
+SRR8799702	CGG	AGT	R	S	R_S	
+SRR8799703	TGG	AGT	W	S	W_S	
+SRR8799704	TGG	AGT	W	S	W_S	
+SRR8799705	TGG	AGT	W	S	W_S	
+SRR8799706	YGG	AGT	W-R	S	W-R_S	
+YAA	TGG	AGT	W	S	W_S	1. Wine/European
+YAB	CGG	AGT	R	S	R_S	7. Mosaic beer
+YAC	TGG	AGT	W	S	W_S	13. African palm wine
+YAD	TGG	AGT	W	S	W_S	1. Wine/European
+YAE	TGG	AGT	W	S	W_S	2. Alpechin
+YAF	TGG	AGT	W	S	W_S	1. Wine/European (subclade 4)
+YAG	TGG	AGT	W	S	W_S	7. Mosaic beer
+YAK	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+YAL	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+YAM	TGG	AGT	W	S	W_S	1. Wine/European
+YAN	TGG	ANT	W	-	W_-	M3. Mosaic region 3
+YAP	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+YAQ	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+YAR	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+YAT	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+YAU	TGG	ATT	W	I	W_I	M3. Mosaic region 3
+YAV	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+YAW	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+YAX	CGG	AGT	R	S	R_S	
+YAY	TGG	AGT	W	S	W_S	1. Wine/European (subclade 2)
+YAZ	TGG	AGT	W	S	W_S	1. Wine/European (subclade 2)
+YBA	TGG	AGT	W	S	W_S	1. Wine/European (subclade 2)
+YBB	TGG	AGT	W	S	W_S	1. Wine/European (subclade 2)
+YBE	TGG	AGT	W	S	W_S	1. Wine/European (subclade 2)
+YBF	TGG	AGT	W	S	W_S	1. Wine/European (subclade 2)
+YBG	TGG	AGT	W	S	W_S	1. Wine/European (subclade 2)
+YBH	TGG	AGT	W	S	W_S	1. Wine/European (subclade 2)
+YBJ	TGG	AKT	W	S-I	W_S-I	M3. Mosaic region 3
+YBK	TGG	ATT	W	I	W_I	M3. Mosaic region 3
+YBL	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+YBM	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+YBN	TGG	AGT	W	S	W_S	1. Wine/European
+YBO	TGG	AGT	W	S	W_S	1. Wine/European
+YBP	TGG	AGT	W	S	W_S	13. African palm wine
+YBQ	TGG	AGT	W	S	W_S	
+YBR	TGG	AGT	W	S	W_S	2. Alpechin
+YBS	TGG	AGT	W	S	W_S	23. North American oak
+YBT	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+YBU	TGG	ATT	W	I	W_I	M3. Mosaic region 3
+YBV	TGG	AGT	W	S	W_S	
+YBW	TGG	AGT	W	S	W_S	
+YBX	TGG	AGT	W	S	W_S	1. Wine/European
+YBY	TGG	AGT	W	S	W_S	1. Wine/European
+YBZ	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+YCA	TGG	AGT	W	S	W_S	1. Wine/European
+YCB	TGG	AGT	W	S	W_S	
+YCC	CGG	AGT	R	S	R_S	M2. Mosaic region 2
+YCD	TGG	AGT	W	S	W_S	1. Wine/European
+YCE	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+YCF	CGG	AGT	R	S	R_S	M2. Mosaic region 2
+YCG	CGG	AGT	R	S	R_S	
+YCH	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+YCI	TGG	AGT	W	S	W_S	M1. Mosaic region 1
+YCJ	TGG	AGT	W	S	W_S	26. Asian fermentation
+YCK	CGG	AGT	R	S	R_S	26. Asian fermentation
+YCL	TGG	AGT	W	S	W_S	
+YCM	TGG	AGT	W	S	W_S	24. Asian islands
+YCN	TGG	AGT	W	S	W_S	
+YCO	TGG	AGT	W	S	W_S	
+YCP	TGG	AGT	W	S	W_S	1. Wine/European
+YCQ	TGG	AGT	W	S	W_S	1. Wine/European
+YCR	TGG	AGT	W	S	W_S	18. Far East Asia
+YCS	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+YCT	TGG	AGT	W	S	W_S	M2. Mosaic region 2
+YCU	TGG	AGT	W	S	W_S	23. North American oak
+YCV	TGG	AGT	W	S	W_S	13. African palm wine
+YCW	TGG	AGT	W	S	W_S	
+YCX	CGG	AGT	R	S	R_S	
+YCY	TGG	AGT	W	S	W_S	19. Malaysian
+YCZ	CGG	AGT	R	S	R_S	M2. Mosaic region 2
+YDA	CGG	AGT	R	S	R_S	26. Asian fermentation
+YDB	TGG	AGT	W	S	W_S	
+YDC	TGG	AGT	W	S	W_S	1. Wine/European
+YDD	CGG	AGT	R	S	R_S	7. Mosaic beer
+YDE	TGG	AGT	W	S	W_S	24. Asian islands
+YDF	TGG	AGT	W	S	W_S	1. Wine/European
+YDG	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+YDH	TGG	AGT	W	S	W_S	M3. Mosaic region 3
+YDI	TGG	AGT	W	S	W_S	
+YDJ	TGG	AGT	W	S	W_S	1. Wine/European
+YDK	CGG	AGT	R	S	R_S	26. Asian fermentation
+YDL	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+YDM	TGG	AGT	W	S	W_S	2. Alpechin
+YDN	CGG	AGT	R	S	R_S	M3. Mosaic region 3
+YDO	TGG	AGT	W	S	W_S	1. Wine/European
